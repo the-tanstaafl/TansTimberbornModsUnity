@@ -1,6 +1,6 @@
-# Ladder
+# Ferris Wheel
 
-This mod will allow you to build ladders. This will make it so your beavers will be able to go straight up and down without having to build a stairwell.
+This mod adds a ferris wheel to the game. It's designed to be a little late-game as it requires treated planks. Though the payout should be plenty! Hope your beavers will enjoy it!
 
 ## Disclaimer!
 
@@ -8,7 +8,7 @@ This plugin is currently only supported in the **experimental** version of Timbe
 
 ## How to use
 
-You will find the ladder under the paths tab. 
+You will find the Ferris Wheel under the Well Being tab. 
 
 ## Installing
 
@@ -21,10 +21,6 @@ In case you experience problems, message me in the modding channel of the the Ti
 
 ## Changelog
 
-### 1.0.1 - 13.7.2022
-
-- Fixed the file structure. This prevented the mod from working out of the box. 
-
-### 1.0.0 - 12.7.2022
+### 1.0.0 - 18.7.2022
 
 - Released the plugin.

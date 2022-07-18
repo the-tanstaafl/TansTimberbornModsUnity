@@ -33,6 +33,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   StagingPaths:
   - <ManifestPluginStaging>/Specifications
+  - <ThunderstorePackage>/<ManifestName>/plugins/Specifications
   files:
   - {fileID: 4900000, guid: 7a61739bc456a5d44b2869b53d2fb923, type: 3}
   - {fileID: 4900000, guid: 771823335096b904999ea6c75e7177e9, type: 3}
@@ -112,7 +113,8 @@ MonoBehaviour:
   - <ThunderstorePackage>
   files:
   - {fileID: 4900000, guid: fd3219a75df8f5d4d91e49c4670c4221, type: 3}
-  - {fileID: 4900000, guid: ba504b67891bb134f9f34eb97c448792, type: 3}
+  - {fileID: 4900000, guid: 227a6500a874fef4fa237045dc44451e, type: 3}
+  - {fileID: 2800000, guid: 7dcf97f458de4a14aa60f3f6ca31c45d, type: 3}
 --- !u!114 &9120418034178625098
 MonoBehaviour:
   m_ObjectHideFlags: 0

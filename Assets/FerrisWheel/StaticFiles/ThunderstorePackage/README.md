@@ -1,6 +1,6 @@
 # Ferris Wheel
 
-This mod adds a ferris wheel to the game.
+This mod adds a ferris wheel to the game. It's designed to be a little late-game as it requires treated planks. Though the payout should be plenty! Hope your beavers will enjoy it!
 
 ## Disclaimer!
 
@@ -8,7 +8,7 @@ This plugin is currently only supported in the **experimental** version of Timbe
 
 ## How to use
 
-You will find the ladder under the paths tab. 
+You will find the Ferris Wheel under the Well Being tab. 
 
 ## Installing
 
@@ -21,6 +21,6 @@ In case you experience problems, message me in the modding channel of the the Ti
 
 ## Changelog
 
-### 1.0.0 - 12.7.2022
+### 1.0.0 - 18.7.2022
 
 - Released the plugin.

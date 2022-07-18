@@ -8,7 +8,7 @@ This plugin is currently only supported in the **experimental** version of Timbe
 
 ## How to use
 
-You will find the ladder under the paths tab. One ladder will require 6 logs and 8 planks and is unlocked with 300 science. (I'm unsure about the balancing, so I would love to receive feedback on this!)
+You will find the ladder under the paths tab. 
 
 ## Installing
 
@@ -17,9 +17,13 @@ and adding the dll to your bepinex plugins folder. This plugin is dependent on t
 
 ## Problems?
 
-In case you experience problems, message me in the modding channel of the the Timberborn discord or message me directly. I will try to fix it as soon as possible. :D
+In case you experience problems, message me in the modding channel of the the Timberborn discord or message me directly (Tobbert#1607). I will try to fix it as soon as possible. :D
 
 ## Changelog
+
+### 1.0.1 - 13.7.2022
+
+- Fixed the file structure. This prevented the mod from working out of the box. 
 
 ### 1.0.0 - 12.7.2022
 

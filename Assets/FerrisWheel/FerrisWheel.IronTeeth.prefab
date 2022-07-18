@@ -2326,12 +2326,14 @@ MonoBehaviour:
   _soundBaseName: Default
   _hasLoopingSound: 0
   _buildingCost:
-  - _goodId: TreatedPlank
-    _amount: 25
+  - _goodId: Plank
+    _amount: 50
   - _goodId: Gear
     _amount: 50
-  _scienceCost: 1000
-  _placeFinished: 1
+  - _goodId: TreatedPlank
+    _amount: 50
+  _scienceCost: 2500
+  _placeFinished: 0
   _finishableWithBeaversOnSite: 0
   _path: 0
   _drawRangeBoundsOnIt: 0
@@ -3055,8 +3057,8 @@ MonoBehaviour:
   m_Script: {fileID: -871492198, guid: c1ff95bb5ae0e8b420075ec58add6f36, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _toolGroupId: Paths
-  _toolOrder: 2000
+  _toolGroupId: Wellbeing
+  _toolOrder: 1010
   _layout: 0
   _customPivot:
     _hasCustomPivot: 0
