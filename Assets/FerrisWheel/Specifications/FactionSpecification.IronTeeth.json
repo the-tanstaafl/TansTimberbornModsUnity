@@ -1,0 +1,8 @@
+{
+  "CommonBuildings": [
+    "tobbert.ferriswheel/tobbert_ferriswheel/FerrisWheel.IronTeeth"
+  ],
+  "Needs": [
+    "FerrisWheel"
+  ]
+}

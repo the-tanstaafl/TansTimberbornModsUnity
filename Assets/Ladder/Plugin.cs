@@ -13,7 +13,7 @@ namespace Ladder
     {
         public const string PluginGuid = "tobbert.ladder";
         public const string PluginName = "Ladder";
-        public const string PluginVersion = "1.0.0";
+        public const string PluginVersion = "1.0.1";
         
         public static ManualLogSource Log;
         
@@ -25,7 +25,7 @@ namespace Ladder
             
             TimberAPI.AssetRegistry.AddSceneAssets(PluginGuid, SceneEntryPoint.Global);
             
-            TimberAPI.DependencyRegistry.AddConfiguratorBeforeLoad(new LoadingAssets.LadderConfigurator(), SceneEntryPoint.MainMenu);
+            TimberAPI.DependencyRegistry.AddConfiguratorBeforeLoad(new LadderConfigurator(), SceneEntryPoint.MainMenu);
             
             // new Harmony(PluginGuid).PatchAll();
         }

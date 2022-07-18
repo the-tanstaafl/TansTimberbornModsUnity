@@ -1,0 +1,89 @@
+ManifestFileVersion: 0
+CRC: 692325070
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 72674729805ef21b5664466a0b859b13
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b8074b5f5ac015c77041c579b7aec9bb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 406104335, guid: 79523a2b71f4fae881a60ad2e723d456, type: 3}
+- Class: 114
+  Script: {fileID: -790041461, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
+- Class: 114
+  Script: {fileID: -460516431, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
+- Class: 114
+  Script: {fileID: 898950725, guid: 644c1295076bbdbb604b7f96aa6be9c2, type: 3}
+- Class: 114
+  Script: {fileID: 1800879565, guid: c1ff95bb5ae0e8b420075ec58add6f36, type: 3}
+- Class: 114
+  Script: {fileID: -871492198, guid: c1ff95bb5ae0e8b420075ec58add6f36, type: 3}
+- Class: 114
+  Script: {fileID: -296257353, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
+- Class: 114
+  Script: {fileID: -788214902, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
+- Class: 114
+  Script: {fileID: -1418978883, guid: 4ed0189b1e1d234e361262ab78b6f74b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Timberborn.BlockSystemNavigation
+  ClassName: Timberborn.BlockSystemNavigation.BlockObjectNavMeshEdgeSpecification
+- AssemblyName: Timberborn.BlockSystem
+  ClassName: Timberborn.BlockSystem.BlockSpecification
+- AssemblyName: Timberborn.BlockSystem
+  ClassName: Timberborn.BlockSystem.BlocksSpecification
+- AssemblyName: Timberborn.BlockSystem
+  ClassName: Timberborn.BlockSystem.CustomPivotSpecification
+- AssemblyName: Timberborn.BlockSystem
+  ClassName: Timberborn.BlockSystem.EntranceBlockSpecification
+- AssemblyName: Timberborn.Goods
+  ClassName: Timberborn.Goods.GoodAmountSpecification
+Assets:
+- Assets/Timberborn/Texture2D/BaseWood_1024.png
+- Assets/Timberborn/Material/BaseWood_White.mat
+- Assets/Timberborn/Texture2D/Details_D.Folktails.png
+- Assets/Ladder/Model/untitled.fbx
+- Assets/Timberborn/Texture2D/BaseWood_1K_N.png
+- Assets/Ladder/LadderExperimental.prefab
+- Assets/Ladder/Sprites/PlatformIcon.png
+- Assets/Timberborn/Resources/buildings/paths/platform/Platform.Uncovered.Folktails.asset
+- Assets/Timberborn/Texture2D/BaseWood_1K_M.png
+- Assets/Timberborn/Material/BaseWood_Brown.mat
+- Assets/Timberborn/Material/Dirt.mat
+- Assets/Timberborn/Mesh/ConstructionSite1x1Dirt.asset
+- Assets/Timberborn/Shader/Shader GraphsEnvironmentURP.shader
+- Assets/Timberborn/Texture2D/BaseWood_1K_AO.png
+- Assets/Timberborn/Material/BaseWood_Brown.Folktails.mat
+- Assets/Timberborn/Texture2D/Dirt_PlainGradient.png
+- Assets/Timberborn/Texture2D/Details_N.png
+- Assets/Timberborn/Texture2D/Dirt_New6.png
+- Assets/Timberborn/Mesh/ConstructionSite1x1_0.asset
+- Assets/Timberborn/Texture2D/PerlinNoisePath.png
+- Assets/Timberborn/Texture2D/BaseWood_1024_N.png
+- Assets/Timberborn/Shader/Shader GraphsDirtURP.shader
+- Assets/Timberborn/Texture2D/BaseWood_1K_D_Brown.png
+Dependencies: []

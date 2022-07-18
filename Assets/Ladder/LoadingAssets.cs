@@ -35,7 +35,7 @@ namespace Ladder
             var building = _assetLoader.Load<GameObject>(Plugin.PluginGuid, $"tobbert_ladder/{name}");
             
             FixMaterialShader(building, shader);
-            TimberAPI.CustomObjectRegistry.AddGameObject(building);
+            // TimberAPI.CustomObjectRegistry.AddGameObject(building);
         }
         
         private static void FixMaterialShader(GameObject obj, Shader shader)

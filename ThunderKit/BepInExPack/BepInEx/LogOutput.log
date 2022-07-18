@@ -11,17 +11,16 @@
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
 [Info   :   BepInEx] 2 plugins to load
-[Info   :   BepInEx] Loading [TimberAPI 0.3.2]
+[Info   :   BepInEx] Loading [TimberAPI 0.4.0]
 [Info   : TimberAPI] Creating new asset area with prefix: timberApi
 [Info   : TimberAPI] Asset timberApi/timber_api found
 [Info   : TimberAPI] Prefix timberApi, assets: 1
 [Info   : TimberAPI] TimberAPI is loaded!
-[Info   :   BepInEx] Loading [Ladder 1.0.0]
-[Info   :    Ladder] Loaded Ladder Version: 1.0.0!
-[Info   : TimberAPI] Creating new asset area with prefix: tobbert.ladder
-[Info   : TimberAPI] Asset tobbert.ladder/testing found
-[Info   : TimberAPI] Asset tobbert.ladder/tobbert_ladder found
-[Info   : TimberAPI] Prefix tobbert.ladder, assets: 2
+[Info   :   BepInEx] Loading [Ferris Wheel 1.0.0]
+[Info   :Ferris Wheel] Loaded Ferris Wheel Version: 1.0.0!
+[Info   : TimberAPI] Creating new asset area with prefix: tobbert.ferriswheel
+[Info   : TimberAPI] Asset tobbert.ferriswheel/tobbert_ferriswheel found
+[Info   : TimberAPI] Prefix tobbert.ferriswheel, assets: 1
 [Message:   BepInEx] Chainloader startup complete
 [Info   : Unity Log] Starting game version 0.2.1.0-73b43cf-xsw
 [Info   : Unity Log] System info:
@@ -31,25 +30,51 @@ GPU: AMD Radeon RX 6900 XT
 GPU memory: 16337MB
 RAM: 32708MB
 Drives:
-  C:\ 105.42GB free from 930.90GB
+  C:\ 75.08GB free from 930.90GB
   D:\ 485.68GB free from 596.17GB
-  R:\ 1560.70GB free from 3572.56GB
-  S:\ 5032.89GB free from 7330.43GB
-  T:\ 1560.70GB free from 3572.56GB
-  U:\ 1560.70GB free from 3572.56GB
-  V:\ 1560.70GB free from 3572.56GB
-  W:\ 1560.70GB free from 3572.56GB
-  X:\ 1560.70GB free from 3572.56GB
-  Y:\ 5032.89GB free from 7330.43GB
-  Z:\ 5032.89GB free from 7330.43GB
+  R:\ 1550.73GB free from 3572.56GB
+  S:\ 5032.62GB free from 7330.43GB
+  T:\ 1550.73GB free from 3572.56GB
+  U:\ 1550.73GB free from 3572.56GB
+  V:\ 1550.73GB free from 3572.56GB
+  W:\ 1550.73GB free from 3572.56GB
+  X:\ 1550.73GB free from 3572.56GB
+  Y:\ 5032.62GB free from 7330.43GB
+  Z:\ 5032.62GB free from 7330.43GB
 
 [Info   : Unity Log] Modded: true, BepInEx
-[Info   : TimberAPI] Loading scene: Global, prefixes in scene: timberApi,tobbert.ladder
+[Info   : TimberAPI] Loading scene: Global, prefixes in scene: timberApi,tobbert.ferriswheel
 [Info   : TimberAPI] Loading scene: MainMenu, prefixes in scene: 
 [Info   : TimberAPI] Initialized configurators for Global (First)
 [Info   : TimberAPI] Initialized configurators for MainMenu (First)
 [Info   : TimberAPI] Initialized configurators for Global (Last)
 [Info   : TimberAPI] Initialized configurators for MainMenu (Last)
 [Info   : Unity Log] Successfully connected to the Steam client.
-[Info   : TimberAPI] Loaded 3 custom labels
-[Info   :    Ladder] Loaded buildings!
+[Info   : TimberAPI] Loaded 4 custom labels
+[Info   : Unity Log] Reading WorldSave from compressed stream
+[Info   : Unity Log] Deserialized save with version: 0.2.1.0-73b43cf-xsw
+[Info   : TimberAPI] Unloading scene: MainMenu
+[Info   : TimberAPI] Loading scene: InGame, prefixes in scene: 
+[Info   : TimberAPI] Initialized configurators for Global (First)
+[Info   : TimberAPI] Initialized configurators for InGame (First)
+[Info   : TimberAPI] Initialized configurators for Global (Last)
+[Info   : TimberAPI] Initialized configurators for InGame (Last)
+[Info   : Unity Log] Loading game from Development IronTeeth - 2022-07-18 12h49m, Day 1-1.autosave at 2022-07-18 12:55:09Z
+[Info   : Unity Log] Reading WorldSave from compressed stream
+[Info   : Unity Log] Deserialized save with version: 0.2.1.0-73b43cf-xsw
+[Info   : Unity Log] Initialized SettlementName to Development IronTeeth
+[Warning: Unity Log] The EnvironmentVertexColorPrefabOptimizer registry size is now 31, exceeding the expected size of 30
+[Info   : Unity Log] Load time: 10416 ms
+[Info   : Unity Log] Reading WorldSave from compressed stream
+[Info   : Unity Log] Deserialized save with version: 0.2.1.0-73b43cf-xsw
+[Info   : TimberAPI] Unloading scene: InGame
+[Info   : TimberAPI] Loading scene: InGame, prefixes in scene: 
+[Info   : TimberAPI] Initialized configurators for Global (First)
+[Info   : TimberAPI] Initialized configurators for InGame (First)
+[Info   : TimberAPI] Initialized configurators for Global (Last)
+[Info   : TimberAPI] Initialized configurators for InGame (Last)
+[Info   : Unity Log] Loading game from Development - Start at 2022-07-18 12:55:32Z
+[Info   : Unity Log] Reading WorldSave from compressed stream
+[Info   : Unity Log] Deserialized save with version: 0.2.1.0-73b43cf-xsw
+[Info   : Unity Log] Initialized SettlementName to Development
+[Info   : Unity Log] Load time: 9073 ms

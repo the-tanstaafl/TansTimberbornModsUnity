@@ -19,7 +19,12 @@
         "0Harmony.dll",
         "Timberborn.EnterableSystem.dll",
         "Timberborn.Coordinates.dll",
-        "Timberborn.TimeSystem.dll"
+        "Timberborn.TimeSystem.dll",
+        "Timberborn.TickSystem.dll",
+        "Timberborn.WalkingSystem.dll",
+        "Timberborn.Versioning.dll",
+        "Timberborn.Localization.dll",
+        "Timberborn.EntitySystem.dll"
     ],
     "autoReferenced": true,
     "defineConstraints": [],
