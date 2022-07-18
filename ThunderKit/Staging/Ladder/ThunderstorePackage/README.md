@@ -1,6 +1,6 @@
 # Ladder
 
-This mod will allow you to build ladders. This will make it so your beavers will be able to go straight up and down without having to build a stairwell.
+This mod will allow you to build ladders. Ladders will make it so your beavers can go straight up and down without having to build a large stairwell.
 
 ## Disclaimer!
 
@@ -17,9 +17,15 @@ and adding the dll to your bepinex plugins folder. This plugin is dependent on t
 
 ## Problems?
 
-In case you experience problems, message me in the modding channel of the the Timberborn discord or message me directly (Tobbert#1607). I will try to fix it as soon as possible. :D
+In case you experience problems, message me in the modding channel of the the [Timberborn discord](https://discord.gg/mfbBF4cWpX) or message me directly (Tobbert#1607). I will try to fix it as soon as possible. :D
 
 ## Changelog
+
+### 1.0.1 - 18.7.2022
+
+- Migrated to the TimberAPI 0.4.0. Adds support for faction specific buildings. 
+- Added different colors for Iron Teeth.
+- Reduced size by compressing the models. 
 
 ### 1.0.1 - 13.7.2022
 

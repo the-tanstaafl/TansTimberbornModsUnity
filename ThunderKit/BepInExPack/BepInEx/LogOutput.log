@@ -16,11 +16,11 @@
 [Info   : TimberAPI] Asset timberApi/timber_api found
 [Info   : TimberAPI] Prefix timberApi, assets: 1
 [Info   : TimberAPI] TimberAPI is loaded!
-[Info   :   BepInEx] Loading [MyFirstAnimation 1.0.0]
-[Info   :MyFirstAnimation] Loaded MyFirstAnimation Version: 1.0.0!
-[Info   : TimberAPI] Creating new asset area with prefix: Tobbert.MyFirstAnimation
-[Info   : TimberAPI] Asset Tobbert.MyFirstAnimation/tobbert_animation found
-[Info   : TimberAPI] Prefix Tobbert.MyFirstAnimation, assets: 1
+[Info   :   BepInEx] Loading [Ladder 1.1.0]
+[Info   :    Ladder] Loaded Ladder Version: 1.1.0!
+[Info   : TimberAPI] Creating new asset area with prefix: tobbert.ladder
+[Info   : TimberAPI] Asset tobbert.ladder/tobbert_ladder found
+[Info   : TimberAPI] Prefix tobbert.ladder, assets: 1
 [Message:   BepInEx] Chainloader startup complete
 [Info   : Unity Log] Starting game version 0.2.1.0-73b43cf-xsw
 [Info   : Unity Log] System info:
@@ -30,24 +30,22 @@ GPU: AMD Radeon RX 6900 XT
 GPU memory: 16337MB
 RAM: 32708MB
 Drives:
-  C:\ 76.75GB free from 930.90GB
+  C:\ 81.24GB free from 930.90GB
   D:\ 485.68GB free from 596.17GB
-  R:\ 1548.83GB free from 3572.56GB
-  S:\ 5032.64GB free from 7330.43GB
-  T:\ 1548.83GB free from 3572.56GB
-  U:\ 1548.83GB free from 3572.56GB
-  V:\ 1548.83GB free from 3572.56GB
-  W:\ 1548.83GB free from 3572.56GB
-  X:\ 1548.83GB free from 3572.56GB
-  Y:\ 5032.64GB free from 7330.43GB
-  Z:\ 5032.64GB free from 7330.43GB
+  R:\ 1548.49GB free from 3572.56GB
+  S:\ 5032.63GB free from 7330.43GB
+  T:\ 1548.49GB free from 3572.56GB
+  U:\ 1548.49GB free from 3572.56GB
+  V:\ 1548.49GB free from 3572.56GB
+  W:\ 1548.49GB free from 3572.56GB
+  X:\ 1548.49GB free from 3572.56GB
+  Y:\ 5032.63GB free from 7330.43GB
+  Z:\ 5032.63GB free from 7330.43GB
 
 [Info   : Unity Log] Modded: true, BepInEx
-[Info   : TimberAPI] Loading scene: Global, prefixes in scene: timberApi,Tobbert.MyFirstAnimation
+[Info   : TimberAPI] Loading scene: Global, prefixes in scene: timberApi,tobbert.ladder
 [Info   : TimberAPI] Loading scene: MainMenu, prefixes in scene: 
 [Info   : TimberAPI] Initialized configurators for Global (First)
 [Info   : TimberAPI] Initialized configurators for MainMenu (First)
 [Info   : TimberAPI] Initialized configurators for Global (Last)
 [Info   : TimberAPI] Initialized configurators for MainMenu (Last)
-[Info   : Unity Log] Successfully connected to the Steam client.
-[Info   : TimberAPI] Loaded 0 custom labels

@@ -1,9 +1,7 @@
 using BepInEx;
 using BepInEx.Logging;
-using HarmonyLib;
 using TimberbornAPI;
 using TimberbornAPI.Common;
-
 
 namespace Ladder
 {
@@ -13,22 +11,19 @@ namespace Ladder
     {
         public const string PluginGuid = "tobbert.ladder";
         public const string PluginName = "Ladder";
-        public const string PluginVersion = "1.0.1";
-        
+        public const string PluginVersion = "1.1.0";
+
         public static ManualLogSource Log;
-        
-        void Awake()
+
+        private void Awake()
         {
             Log = Logger;
             
             Log.LogInfo($"Loaded {PluginName} Version: {PluginVersion}!");
-            
+
             TimberAPI.AssetRegistry.AddSceneAssets(PluginGuid, SceneEntryPoint.Global);
-            
-            TimberAPI.DependencyRegistry.AddConfiguratorBeforeLoad(new LadderConfigurator(), SceneEntryPoint.MainMenu);
-            
+
             // new Harmony(PluginGuid).PatchAll();
         }
-
     }
 }

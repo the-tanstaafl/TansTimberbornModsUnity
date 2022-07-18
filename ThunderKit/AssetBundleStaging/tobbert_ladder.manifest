@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 663627001
+CRC: 3435945756
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 65c3d92a102afdd4f75d232516db6739
+    Hash: f6a984fdd7f779eb93f21a2452547996
   TypeTreeHash:
     serializedVersion: 2
     Hash: b8074b5f5ac015c77041c579b7aec9bb
@@ -64,26 +64,34 @@ SerializeReferenceClassIdentifiers:
   ClassName: Timberborn.Goods.GoodAmountSpecification
 Assets:
 - Assets/Timberborn/Texture2D/BaseWood_1024.png
+- Assets/Timberborn/Material/BaseWood_DarkBrown.IronTeeth.mat
+- Assets/Timberborn/Texture2D/Details_AO.png
 - Assets/Timberborn/Material/BaseWood_White.mat
+- Assets/Timberborn/Texture2D/Details_D.IronTeeth.png
+- Assets/Timberborn/Material/Details.IronTeeth.mat
 - Assets/Timberborn/Texture2D/Details_D.Folktails.png
-- Assets/Ladder/Model/untitled.fbx
-- Assets/Timberborn/Texture2D/BaseWood_1K_N.png
-- Assets/Ladder/Ladder.prefab
+- Assets/Ladder/Model/Ladder.fbx
 - Assets/Ladder/Sprites/PlatformIcon.png
+- Assets/Timberborn/Material/BaseWood_Brown.mat
+- Assets/Timberborn/Texture2D/BaseWood_1K_N.png
 - Assets/Timberborn/Resources/buildings/paths/platform/Platform.Uncovered.Folktails.asset
 - Assets/Timberborn/Texture2D/BaseWood_1K_M.png
-- Assets/Timberborn/Material/BaseWood_Brown.mat
+- Assets/Ladder/Ladder.IronTeeth.prefab
+- Assets/Timberborn/Material/Details.Folktails.mat
+- Assets/Timberborn/Texture2D/BaseWood_1K_D_Grey.png
 - Assets/Timberborn/Material/Dirt.mat
 - Assets/Timberborn/Mesh/ConstructionSite1x1Dirt.asset
 - Assets/Timberborn/Shader/Shader GraphsEnvironmentURP.shader
 - Assets/Timberborn/Texture2D/BaseWood_1K_AO.png
 - Assets/Timberborn/Material/BaseWood_Brown.Folktails.mat
 - Assets/Timberborn/Texture2D/Dirt_PlainGradient.png
-- Assets/Timberborn/Texture2D/Details_N.png
+- Assets/Ladder/Ladder.Folktails.prefab
 - Assets/Timberborn/Texture2D/Dirt_New6.png
 - Assets/Timberborn/Mesh/ConstructionSite1x1_0.asset
 - Assets/Timberborn/Texture2D/PerlinNoisePath.png
 - Assets/Timberborn/Texture2D/BaseWood_1024_N.png
+- Assets/Timberborn/Texture2D/Details_N.png
 - Assets/Timberborn/Shader/Shader GraphsDirtURP.shader
 - Assets/Timberborn/Texture2D/BaseWood_1K_D_Brown.png
+- Assets/Timberborn/Texture2D/Details_M.png
 Dependencies: []
