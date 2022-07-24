@@ -20,7 +20,7 @@ namespace Bucket
             Log = Logger;
             
             Log.LogInfo($"Loaded {PluginName} Version: {PluginVersion}!");
-            
+                        
             TimberAPI.AssetRegistry.AddSceneAssets(PluginGuid, SceneEntryPoint.InGame);
         }
     }

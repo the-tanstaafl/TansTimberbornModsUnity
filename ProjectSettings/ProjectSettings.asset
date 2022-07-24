@@ -174,10 +174,10 @@ PlayerSettings:
   StripUnusedMeshComponents: 1
   VertexChannelCompressionMask: 4054
   iPhoneSdkVersion: 988
-  iOSTargetOSVersionString: 11.0
+  iOSTargetOSVersionString: 12.0
   tvOSSdkVersion: 0
   tvOSRequireExtendedGameController: 0
-  tvOSTargetOSVersionString: 11.0
+  tvOSTargetOSVersionString: 12.0
   uIPrerenderedIcon: 0
   uIRequiresPersistentWiFi: 0
   uIRequiresFullScreen: 1
@@ -611,11 +611,13 @@ PlayerSettings:
     Android: bepinex-bepinexpack_timberborn;timberborn_central-timberapi
     CloudRendering: bepinex-bepinexpack_timberborn;timberborn_central-timberapi
     EmbeddedLinux: bepinex-bepinexpack_timberborn;timberborn_central-timberapi
+    GameCoreScarlett: timberborn
     GameCoreXboxOne: bepinex-bepinexpack_timberborn;timberborn_central-timberapi
     Lumin: bepinex-bepinexpack_timberborn;timberborn_central-timberapi
     Nintendo Switch: bepinex-bepinexpack_timberborn;timberborn_central-timberapi
     PS4: bepinex-bepinexpack_timberborn;timberborn_central-timberapi
     PS5: bepinex-bepinexpack_timberborn;timberborn_central-timberapi
+    QNX: timberborn
     Stadia: bepinex-bepinexpack_timberborn;timberborn_central-timberapi
     Standalone: bepinex-bepinexpack_timberborn;timberborn_central-timberapi
     WebGL: bepinex-bepinexpack_timberborn;timberborn_central-timberapi
@@ -635,7 +637,7 @@ PlayerSettings:
   additionalIl2CppArgs: 
   scriptingRuntimeVersion: 1
   gcIncremental: 1
-  assemblyVersionValidation: 1
+  assemblyVersionValidation: 0
   gcWBarrierValidation: 0
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
