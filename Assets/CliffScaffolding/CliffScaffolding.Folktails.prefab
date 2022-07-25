@@ -30,7 +30,7 @@ Transform:
   m_Children:
   - {fileID: 5104768658571725704}
   m_Father: {fileID: 4979681822385896400}
-  m_RootOrder: -1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &4827488320552563486
 GameObject:
@@ -248,19 +248,19 @@ MonoBehaviour:
   _blocksSpecification:
     _size: {x: 2, y: 1, z: 1}
     _blockSpecifications:
-    - _matterBelow: 1
-      _occupation: 0
-      _stackable: 1
-      _optionallyUnderground: 0
-    - _matterBelow: 2
+    - _matterBelow: 3
       _occupation: 1
+      _stackable: 1
+      _optionallyUnderground: 1
+    - _matterBelow: 3
+      _occupation: 0
       _stackable: 1
       _optionallyUnderground: 0
   _entrance:
     _hasEntrance: 0
     _coordinates: {x: 0, y: 0, z: 0}
-  _baseZ: -1
-  _overridable: 1
+  _baseZ: 1
+  _overridable: 0
 --- !u!114 &2394822167593493712
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -340,5 +340,5 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4979681822385896400}
-  m_RootOrder: -1
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
