@@ -1,0 +1,10 @@
+{
+  "CommonBuildings": [
+    "tobbert.moreplatforms/tobbert_moreplatforms/HorizontalPlatformEnd1x1.Folktails",
+    "tobbert.moreplatforms/tobbert_moreplatforms/HorizontalPlatformEnd2x1.Folktails",
+    "tobbert.moreplatforms/tobbert_moreplatforms/HorizontalPlatformEnd3x1.Folktails",
+    "tobbert.moreplatforms/tobbert_moreplatforms/HorizontalPlatformEnd4x1.Folktails",
+    "tobbert.moreplatforms/tobbert_moreplatforms/HorizontalPlatformMiddle1x1.Folktails",
+    "tobbert.moreplatforms/tobbert_moreplatforms/HorizontalPlatformMiddle1x2.Folktails"
+  ]
+}

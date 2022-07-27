@@ -1,0 +1,19 @@
+ID,Text,Comment
+Tobbert.HorizontalPlatformEnd1x1.DisplayName,Side Platform 1x1,-
+Tobbert.HorizontalPlatformEnd1x1.Description,A platform that can be placed on the side of a cliff or a stack of levees.,-
+Tobbert.HorizontalPlatformEnd1x1.FlavorDescription,Imagine if you could stack these.,-
+Tobbert.HorizontalPlatformEnd2x1.DisplayName,Side Platform 2x1,-
+Tobbert.HorizontalPlatformEnd2x1.Description,A platform that can be placed on the side of a cliff or a stack of levees.,-
+Tobbert.HorizontalPlatformEnd2x1.FlavorDescription,"Double the platforms, double the fun!",-
+Tobbert.HorizontalPlatformEnd3x1.DisplayName,Side Platform 3x1,-
+Tobbert.HorizontalPlatformEnd3x1.Description,A platform that can be placed on the side of a cliff or a stack of levees.,-
+Tobbert.HorizontalPlatformEnd3x1.FlavorDescription,This is for the looooooong bois.,-
+Tobbert.HorizontalPlatformEnd4x1.DisplayName,Side Platform 4x1,-
+Tobbert.HorizontalPlatformEnd4x1.Description,A platform that can be placed on the side of a cliff or a stack of levees.,-
+Tobbert.HorizontalPlatformEnd4x1.FlavorDescription,This is pushing it till the edge.,-
+Tobbert.HorizontalPlatformMiddle1x1.DisplayName,Side Platform Middle Piece 1 High,-
+Tobbert.HorizontalPlatformMiddle1x1.Description,A platform that can be placed anywhere. Let your creativity lose!,-
+Tobbert.HorizontalPlatformMiddle1x1.FlavorDescription,Let's build a floating city!,-
+Tobbert.HorizontalPlatformMiddle1x2.DisplayName,Side Platform Middle Piece 1.5 High,-
+Tobbert.HorizontalPlatformMiddle1x2.Description,A platform that can be placed anywhere. Let your creativity lose!,-
+Tobbert.HorizontalPlatformMiddle1x2.FlavorDescription,For when one high is just not enough.,-
