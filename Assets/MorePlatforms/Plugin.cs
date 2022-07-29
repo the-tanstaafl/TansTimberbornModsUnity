@@ -23,7 +23,7 @@ namespace MorePlatforms
     {
         public const string PluginGuid = "tobbert.moreplatforms";
         public const string PluginName = "More Platforms";
-        public const string PluginVersion = "1.0.0";
+        public const string PluginVersion = "1.1.0";
         
         public static ManualLogSource Log;
         

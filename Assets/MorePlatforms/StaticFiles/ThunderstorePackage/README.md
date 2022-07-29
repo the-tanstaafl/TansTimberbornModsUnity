@@ -1,6 +1,6 @@
 # More Platforms
 
-Think that the current platforms limit your creativity? Then this mod will let you add 4 new platforms to the game which can be build to the side of mountains or stacks of levees, giving more freedom of placing buildings as anything can be below these platforms. There is another platform which is disabled by default as it can be placed nearly anywhere! You can enable it in the configs.
+Think that the current platforms limit your creativity? Then this mod will let you add 4 new platforms to the game which can be build to the side of mountains or stacks of levees, giving more freedom of placing buildings as anything can be below these platforms. There are also reinforced Platforms which you can use instead of levees and will allow your beavers to walk under aswell! There is another platform which is disabled by default as it can be placed nearly anywhere! You can enable it in the configs.
 
 # Disclaimer!
 
@@ -22,12 +22,12 @@ All platforms can be found under the paths tab. You can place them to the side o
 
 The reinforced platforms have the same properties as levees, except it won't stop water. Though they look better and you can place things under it. 
 
+![Example Image](https://media.githubusercontent.com/media/TobbyTheBobby/TimberbornModsUnity/master/Assets/MorePlatforms/StaticFiles/Images/ExampleImage4.png)
+
 ### Middle Platform
 The middle platforms are disabled by default and have to be enabled to use them. These platforms can be placed nearly everywhere. They can be placed against any cliff, platform, building etc. It should be noted that this makes it possible to make floating buildings and as such is not advised when you like reality and game integrity. The image below shows the usage of the Middle Platform as these platforms are placed against the wall, which is normally not possible:
 
 ![Example Image](https://media.githubusercontent.com/media/TobbyTheBobby/TimberbornModsUnity/master/Assets/MorePlatforms/StaticFiles/Images/ExampleImage2.png)
-
-### 
 
 ## Installing
 
@@ -44,10 +44,11 @@ In case you experience problems, message me in the modding channel of the the [T
 
 ## Changelog
 
-### 1.1.0 - 28.7.2022
+### 1.1.0 - 29.7.2022
 
 - Fixed some typos in the description.
-- Added three Reinforced platforms as a replacement for stacks of levees.
+- Added three Reinforced platforms as a possible replacement for stacks of levees.
+- Fixed that the platforms did not disappear in layer view. 
 
 ### 1.0.0 - 27.7.2022
 
