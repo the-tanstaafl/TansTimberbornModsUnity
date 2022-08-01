@@ -1,6 +1,6 @@
 {
   "name": "VerticalPowerShafts",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://github.com/TobbyTheBobby",
   "description": "Adds three new power shafts that allow the transfer of power vertically.",
   "dependencies": [

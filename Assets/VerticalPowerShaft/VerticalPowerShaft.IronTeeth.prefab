@@ -427,8 +427,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 100.046326, y: 110.7715, z: 101.147545}
-  m_Center: {x: 50.01303, y: 55.385742, z: 50.56364}
+  m_Size: {x: 100.046326, y: 100.5359, z: 101.147545}
+  m_Center: {x: 50.01303, y: 50.267937, z: 50.563637}
 --- !u!1 &6190661508642916098
 GameObject:
   m_ObjectHideFlags: 0
@@ -576,7 +576,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _noAutoWalls: 0
-  _generateFloorsOnStackable: 0
+  _generateFloorsOnStackable: 1
   _addedEdges: []
 --- !u!114 &1488323438444022846
 MonoBehaviour:
