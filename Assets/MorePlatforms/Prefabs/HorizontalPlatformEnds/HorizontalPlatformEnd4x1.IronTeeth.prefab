@@ -124,6 +124,8 @@ MonoBehaviour:
     _amount: 42
   - _goodId: Plank
     _amount: 45
+  - _goodId: MetalBlock
+    _amount: 40
   _scienceCost: 1000
   _placeFinished: 0
   _finishableWithBeaversOnSite: 0
@@ -544,6 +546,26 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: f0673e1fae278014881868c946434506, type: 2}
+    - target: {fileID: 4802153759386110174, guid: 10a2b4d6e98050a4cb955ab92a1b84d5, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: c3c5d3b3260cb37428c36f0d41701883, type: 2}
+    - target: {fileID: 4885509986545927105, guid: 10a2b4d6e98050a4cb955ab92a1b84d5, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 250fd6adf16aff343bd8fefd78533fd6, type: 2}
+    - target: {fileID: 4885509986545927105, guid: 10a2b4d6e98050a4cb955ab92a1b84d5, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: f0673e1fae278014881868c946434506, type: 2}
+    - target: {fileID: 4885509986545927105, guid: 10a2b4d6e98050a4cb955ab92a1b84d5, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 250fd6adf16aff343bd8fefd78533fd6, type: 2}
+    - target: {fileID: 4885509986545927105, guid: 10a2b4d6e98050a4cb955ab92a1b84d5, type: 3}
+      propertyPath: m_Materials.Array.data[3]
+      value: 
+      objectReference: {fileID: 2100000, guid: f0673e1fae278014881868c946434506, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 10a2b4d6e98050a4cb955ab92a1b84d5, type: 3}
 --- !u!1 &557839528506728194 stripped
@@ -562,8 +584,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 400.22537, y: 17.621778, z: 100.22549}
-  m_Center: {x: 100.07036, y: -9.462224, z: 50.000004}
+  m_Size: {x: 400.22537, y: 17, z: 100}
+  m_Center: {x: 50, y: -2, z: 0}
 --- !u!1 &5442278414799796522 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 113742497182973117, guid: 10a2b4d6e98050a4cb955ab92a1b84d5, type: 3}

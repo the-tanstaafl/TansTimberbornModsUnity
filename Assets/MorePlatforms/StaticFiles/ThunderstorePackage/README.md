@@ -44,6 +44,12 @@ In case you experience problems, message me in the modding channel of the the [T
 
 ## Changelog
 
+### 1.1.1 - 1.8.2022
+
+- Changed models of the 3 and 4 long side platform to include metal to look more realistic. 
+- Added metal as building supplies for the 3 and 4 long side platforms. 
+- Fixed that side platforms weren't the same height as all other platforms and other imperfections with the models. 
+
 ### 1.1.0 - 29.7.2022
 
 - Fixed some typos in the description.
