@@ -1,0 +1,25 @@
+{
+  "CommonBuildings": [
+    "tobbert.morepaths/tobbert_morepaths/TestPath.Folktails",
+    "tobbert.morepaths/tobbert_morepaths/DirtPath0000_0",
+    "tobbert.morepaths/tobbert_morepaths/DirtPath0010_0",
+    "tobbert.morepaths/tobbert_morepaths/DirtPath0011_0",
+    "tobbert.morepaths/tobbert_morepaths/DirtPath0111_0",
+    "tobbert.morepaths/tobbert_morepaths/DirtPath1010_0",
+    "tobbert.morepaths/tobbert_morepaths/DirtPath1111_0",
+    "tobbert.morepaths/tobbert_morepaths/RoofPath0000.Folktails_0",
+    "tobbert.morepaths/tobbert_morepaths/RoofPath0010.Folktails_0",
+    "tobbert.morepaths/tobbert_morepaths/RoofPath0011.Folktails_0",
+    "tobbert.morepaths/tobbert_morepaths/RoofPath0111.Folktails_0",
+    "tobbert.morepaths/tobbert_morepaths/RoofPath1010.Folktails_0",
+    "tobbert.morepaths/tobbert_morepaths/RoofPath1111.Folktails_0",
+    "tobbert.morepaths/tobbert_morepaths/DirtDrivewayNarrowCenter_0",
+    "tobbert.morepaths/tobbert_morepaths/DirtDrivewayNarrowLeft_0",
+    "tobbert.morepaths/tobbert_morepaths/DirtDrivewayNarrowRight_0",
+    "tobbert.morepaths/tobbert_morepaths/DirtDrivewayShortCenter_0",
+    "tobbert.morepaths/tobbert_morepaths/DirtDrivewayStraightPath_0",
+    "tobbert.morepaths/tobbert_morepaths/DirtDrivewayWideCenter_0",
+    "tobbert.morepaths/tobbert_morepaths/DirtDrivewayLongCenter_0"
+    
+  ]
+}

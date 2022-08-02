@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-3931462110823901632
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f22bb7fd1d3b56a48bc52f8e407901d6, type: 3}
+  m_Name: ManifestIdentity
+  m_EditorClassIdentifier: 
+  StagingPaths:
+  - <ManifestPluginStaging>
+  Author: Tobbert
+  Name: MorePaths
+  Description: MorePaths
+  Version: 1.0.0
+  Dependencies: []
+--- !u!114 &-3041366049039997682
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b243ff405b33b94dbf5b6775dd9aa33, type: 3}
+  m_Name: Files
+  m_EditorClassIdentifier: 
+  StagingPaths:
+  - <ManifestPluginStaging>/Specifications
+  - <ThunderstorePackage>/<ManifestName>/plugins/Specifications
+  files:
+  - {fileID: 4900000, guid: f1687cdaeaeacf24b8c2829a19d92fd5, type: 3}
+  - {fileID: 4900000, guid: 59fbc00bb5bf3a640a9ca3b310f6d6ba, type: 3}
+--- !u!114 &-1800585617083543040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b7e13dda513544419a89926bd12ad8a, type: 3}
+  m_Name: AssemblyDefinitions
+  m_EditorClassIdentifier: 
+  StagingPaths:
+  - <ManifestPluginStaging>
+  - <ThunderstorePackage>/<ManifestName>/plugins
+  definitions:
+  - {fileID: 5897886265953266890, guid: 19fe5d1e832e5064ea4960d2019b3c01, type: 3}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e563561e08b6a3642a487177f5cfbb37, type: 3}
+  m_Name: MorePaths
+  m_EditorClassIdentifier: 
+  Data:
+  - {fileID: -3931462110823901632}
+  - {fileID: -1800585617083543040}
+  - {fileID: 9120418034178625098}
+  - {fileID: 2590189338767857166}
+  - {fileID: 7276679206402820566}
+  - {fileID: -3041366049039997682}
+  identity: {fileID: -3931462110823901632}
+  QuickAccess: 1
+--- !u!114 &2590189338767857166
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17d1008b78cb6e846889b7778282fbef, type: 3}
+  m_Name: AssetBundleDefinitions
+  m_EditorClassIdentifier: 
+  StagingPaths:
+  - <ManifestPluginStaging>/assets
+  - <ThunderstorePackage>/<ManifestName>/plugins/assets
+  assetBundles:
+  - assetBundleName: Tobbert_MorePaths
+    assets:
+    - {fileID: 1591862065154699, guid: 73438a0dba4b06042bc719ad26c40115, type: 3}
+    - {fileID: 1588580708458907, guid: b0936fad15e18664bac1190530c616ce, type: 3}
+    - {fileID: 1705540407893954, guid: 2391ee96f06b0ca448c842ec409de259, type: 3}
+    - {fileID: 1127255307698308, guid: 61644e31e4923924abfb27a1203caeba, type: 3}
+    - {fileID: 1520580621987610, guid: c8c86add6e37f76438add3a8a4410c42, type: 3}
+    - {fileID: 1930791501476809, guid: 0786ef6f23f5761489b36fe9b8fb0422, type: 3}
+    - {fileID: 1934414974581542, guid: 48015668d65bbc94da1d53c01dc72b62, type: 3}
+    - {fileID: 1446558786232260, guid: a903e6f6f7d8cd7488da717512fcab47, type: 3}
+    - {fileID: 5181973206439326085, guid: c8244f17f60468c4a8c4ae959bd464ef, type: 3}
+    - {fileID: 3544688781234416488, guid: 282fd03ca9e84e54bbe4586f71082254, type: 3}
+    - {fileID: 6049970864658347677, guid: d874a5d96166ef94186b3e92c0f2090b, type: 3}
+    - {fileID: 8617191865094238210, guid: 5d9f8194eb91f9c49a6c53568835e556, type: 3}
+    - {fileID: 8439409727892722051, guid: 8cffe2a3e366ae049aa68802acf97ce0, type: 3}
+    - {fileID: 4117357653496214469, guid: ead3d00cce93f7b4b9b217aa9910a431, type: 3}
+    - {fileID: 1446558786232260, guid: 730e01dfd05fa2b40bbc664fffc2d6d8, type: 3}
+    - {fileID: 1948664365980219, guid: ff693c49632f87f4390cbee8f625bca4, type: 3}
+    - {fileID: 1650812146522722, guid: 2129a69e2357d0444a9591a4bb8cab45, type: 3}
+    - {fileID: 1225832226490919, guid: 84cec045f623fa54286834f0ba8abb2c, type: 3}
+    - {fileID: 1674543689793380, guid: ad1d178b94fbc4040af2f66223ce3c5e, type: 3}
+    - {fileID: 1393367931266421, guid: 5258bcc99c0e61d488f25db154a31bc4, type: 3}
+    - {fileID: 1288347740895210, guid: 71e26cfaa4250aa4697e0be3071f0e28, type: 3}
+--- !u!114 &7276679206402820566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b243ff405b33b94dbf5b6775dd9aa33, type: 3}
+  m_Name: Files
+  m_EditorClassIdentifier: 
+  StagingPaths:
+  - <ThunderstorePackage>
+  files:
+  - {fileID: 2800000, guid: da499779d4628ad40948e052b456386c, type: 3}
+  - {fileID: 4900000, guid: 209f2ca0e80a8fd4195217977ea1dcc5, type: 3}
+  - {fileID: 4900000, guid: 79e43886b3dd6454da6221468d580a71, type: 3}
+--- !u!114 &9120418034178625098
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b243ff405b33b94dbf5b6775dd9aa33, type: 3}
+  m_Name: Files
+  m_EditorClassIdentifier: 
+  StagingPaths:
+  - <ManifestPluginStaging>/lang
+  - <ThunderstorePackage>/<ManifestName>/plugins/lang
+  files:
+  - {fileID: 4900000, guid: 75834cd4dfe7e1d4e8fe6e92cd89e0aa, type: 3}
