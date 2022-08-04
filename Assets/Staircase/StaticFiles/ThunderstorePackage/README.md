@@ -23,6 +23,8 @@ Recommended way to install this mod is through [Thunderstore](https://timberborn
 In case you experience problems or have any feedback, message us in the modding channel of the the [Timberborn discord](https://discord.gg/mfbBF4cWpX) or message us directly (Tobbert#1607 and Knatte_Anka#6800). We will try to fix it as soon as possible. :D
 
 ## Changelog
+### 1.1.0 - 03.08.2022
+- Redesigned the Stairs and added textures
 
 ### 1.0.0 - 29.7.2022
 
