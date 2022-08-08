@@ -17,7 +17,7 @@ MonoBehaviour:
   Author: Tobbert
   Name: VerticalPowerShaft
   Description: VerticalPowerShaft
-  Version: 1.0.0
+  Version: 1.0.2
   Dependencies: []
 --- !u!114 &-3041366049039997682
 MonoBehaviour:

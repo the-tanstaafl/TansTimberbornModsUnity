@@ -118,7 +118,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3866699224026399585}
-  m_Mesh: {fileID: 4300000, guid: 73703b92c9dd87b4ea8b4b9327af8a29, type: 2}
+  m_Mesh: {fileID: 4300000, guid: 57a4df5c12493e04ea4cf9e82f0b8d4e, type: 2}
 --- !u!23 &3606348368544964979
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -139,8 +139,8 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: b64248bd04e1a004da0e9adbfc99a78a, type: 2}
-  - {fileID: 2100000, guid: 2b526dc1b8a8e6f48b0dba0b00eb5404, type: 2}
+  - {fileID: 2100000, guid: 5274f4f0b19b5144cb74c75eb1840ca4, type: 2}
+  - {fileID: 2100000, guid: 21cadcb577660384ebb1613665641bd4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -175,7 +175,6 @@ GameObject:
   - component: {fileID: 9097392271342064402}
   - component: {fileID: 912073379541481980}
   - component: {fileID: 6713698176795930}
-  - component: {fileID: 668918330476441707}
   - component: {fileID: 5574158660608863347}
   - component: {fileID: 2394822167593493712}
   - component: {fileID: 1488323438444022846}
@@ -183,6 +182,7 @@ GameObject:
   - component: {fileID: 5744514069557395283}
   - component: {fileID: 3353309309229693137}
   - component: {fileID: 7119693196506549016}
+  - component: {fileID: -2764506625869643404}
   m_Layer: 0
   m_Name: StraightToVerticalPowerShaft.IronTeeth
   m_TagString: Untagged
@@ -276,18 +276,6 @@ MonoBehaviour:
   _prefabName: StraightToVerticalPowerShaft.Folktails
   _backwardCompatiblePrefabNames: []
   _requiredFeatureToggle: 
---- !u!114 &668918330476441707
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6190661508642916098}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 898950725, guid: 644c1295076bbdbb604b7f96aa6be9c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &5574158660608863347
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -334,6 +322,7 @@ MonoBehaviour:
       _occupation: 7
       _stackable: 1
       _optionallyUnderground: 0
+      _occupyAllBelow: 0
   _entrance:
     _hasEntrance: 0
     _coordinates: {x: 0, y: 0, z: 0}
@@ -411,6 +400,18 @@ MonoBehaviour:
   _descriptionLocKey: Tobbert.StraightToVerticalPowerShaft.Description
   _flavorDescriptionLocKey: Tobbert.StraightToVerticalPowerShaft.FlavorDiscription
   _image: {fileID: 21300000, guid: b075b21a4f30fdc4086cdceaa3109a56, type: 3}
+--- !u!114 &-2764506625869643404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6190661508642916098}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1604455801, guid: fb0076526bca5246b24d6c818d68ce00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7168431281884234789
 GameObject:
   m_ObjectHideFlags: 0
@@ -501,11 +502,11 @@ PrefabInstance:
     - target: {fileID: -4879962612821326166, guid: aa238efe0b5eb1049b3f6fbe4774f70e, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: f0673e1fae278014881868c946434506, type: 2}
+      objectReference: {fileID: 2100000, guid: 87b0a18630b7a224d880505f62b1587b, type: 2}
     - target: {fileID: -4879962612821326166, guid: aa238efe0b5eb1049b3f6fbe4774f70e, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
-      objectReference: {fileID: 2100000, guid: f0673e1fae278014881868c946434506, type: 2}
+      objectReference: {fileID: 2100000, guid: 87b0a18630b7a224d880505f62b1587b, type: 2}
     - target: {fileID: -4675739116224821191, guid: aa238efe0b5eb1049b3f6fbe4774f70e, type: 3}
       propertyPath: m_Name
       value: ShaftStraightToVertical2_Animated
@@ -513,15 +514,15 @@ PrefabInstance:
     - target: {fileID: -2615804484262473647, guid: aa238efe0b5eb1049b3f6fbe4774f70e, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 34670034b62effa40a066c032e6ecc14, type: 2}
+      objectReference: {fileID: 2100000, guid: d74cd7127cf32b34eba277aa4402e13d, type: 2}
     - target: {fileID: -2615804484262473647, guid: aa238efe0b5eb1049b3f6fbe4774f70e, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
-      objectReference: {fileID: 2100000, guid: d47fb0e09925bfb43b8263598cc38d19, type: 2}
+      objectReference: {fileID: 2100000, guid: cc82111a4b0299746bc8156bfeef775e, type: 2}
     - target: {fileID: -2615804484262473647, guid: aa238efe0b5eb1049b3f6fbe4774f70e, type: 3}
       propertyPath: m_Materials.Array.data[2]
       value: 
-      objectReference: {fileID: 2100000, guid: f0673e1fae278014881868c946434506, type: 2}
+      objectReference: {fileID: 2100000, guid: 87b0a18630b7a224d880505f62b1587b, type: 2}
     - target: {fileID: 919132149155446097, guid: aa238efe0b5eb1049b3f6fbe4774f70e, type: 3}
       propertyPath: m_Name
       value: StraightToVerticalPowerShaft
@@ -529,15 +530,15 @@ PrefabInstance:
     - target: {fileID: 3701459751649684144, guid: aa238efe0b5eb1049b3f6fbe4774f70e, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: d47fb0e09925bfb43b8263598cc38d19, type: 2}
+      objectReference: {fileID: 2100000, guid: cc82111a4b0299746bc8156bfeef775e, type: 2}
     - target: {fileID: 3701459751649684144, guid: aa238efe0b5eb1049b3f6fbe4774f70e, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
-      objectReference: {fileID: 2100000, guid: 34670034b62effa40a066c032e6ecc14, type: 2}
+      objectReference: {fileID: 2100000, guid: d74cd7127cf32b34eba277aa4402e13d, type: 2}
     - target: {fileID: 3701459751649684144, guid: aa238efe0b5eb1049b3f6fbe4774f70e, type: 3}
       propertyPath: m_Materials.Array.data[2]
       value: 
-      objectReference: {fileID: 2100000, guid: f0673e1fae278014881868c946434506, type: 2}
+      objectReference: {fileID: 2100000, guid: 87b0a18630b7a224d880505f62b1587b, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: aa238efe0b5eb1049b3f6fbe4774f70e, type: 3}
 --- !u!1 &590822950510518867 stripped

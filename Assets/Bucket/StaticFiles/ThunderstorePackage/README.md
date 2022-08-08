@@ -21,6 +21,10 @@ In case you experience problems, message me in the modding channel of the the [T
 
 ## Changelog
 
+### 1.0.2 - 05.08.2022
+- Migrated to TimberAPI 0.4.4
+- updated Icon
+
 ### 1.0.1 - 19.7.2022
 
 - Migrated to TimberAPI 0.4.0.
