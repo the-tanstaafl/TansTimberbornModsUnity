@@ -1,0 +1,11 @@
+ID,Text,Comment
+KnatteTobbert.TinyLogPile.DisplayName,Tinylogpile,-
+KnatteTobbert.TinyLogPile.Description,A Tinylogpile.,-
+KnatteTobbert.TinyLogPile.FlavorDescription,That is a miniature logpile.,-
+KnatteTobbert.IndustialTinylogpile.DisplayName,Industrial Tinylogpile,-
+KnatteTobbert.IndustialTinylogpile.Description,A Industial Tinylogpile.,-
+KnatteTobbert.IndustialTinylogpile.FlavorDescription,That is a miniature logpile.,-
+KnatteTobbert.TinyMetalLogPile.DisplayName,Metal Tinylogpile,-
+KnatteTobbert.TinyMetalLogPile.Description,A Metal Tinylogpile.,-
+KnatteTobbert.TinyMetalLogPile.FlavorDescription,That is a miniature stacking logpile.,-
+
