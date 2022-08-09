@@ -59,7 +59,7 @@ MonoBehaviour:
   _soundBaseName: LogPile
   _hasLoopingSound: 0
   _buildingCost:
-  - _goodId: Metal
+  - _goodId: ScrapMetal
     _amount: 4
   - _goodId: Plank
     _amount: 4
@@ -216,8 +216,8 @@ MonoBehaviour:
   m_Script: {fileID: -419467237, guid: 0e822cc0fc83f501e1c55e94dd1f0b21, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _centerStackOffset: {x: 0.5, y: 1, z: 0}
-  _xyOffsetPerStack: 0.3
+  _centerStackOffset: {x: 0.5, y: 0.55, z: 0.02}
+  _xyOffsetPerStack: 0.88
 --- !u!114 &-7256866725485912153
 MonoBehaviour:
   m_ObjectHideFlags: 0

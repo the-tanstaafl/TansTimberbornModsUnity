@@ -216,8 +216,8 @@ MonoBehaviour:
   m_Script: {fileID: -419467237, guid: 0e822cc0fc83f501e1c55e94dd1f0b21, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _centerStackOffset: {x: 0.5, y: 1, z: 0}
-  _xyOffsetPerStack: 0.3
+  _centerStackOffset: {x: 0.5, y: 0.55, z: 0.03}
+  _xyOffsetPerStack: 0.88
 --- !u!114 &5069279442824417962
 MonoBehaviour:
   m_ObjectHideFlags: 0

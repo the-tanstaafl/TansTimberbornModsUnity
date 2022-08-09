@@ -183,7 +183,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _displayNameLocKey: KnatteTobbert.TinyLogPile.DisplayName
-  _descriptionLocKey: KnatteTobbert.TinyLogPileDescription
+  _descriptionLocKey: KnatteTobbert.TinyLogPile.Description
   _flavorDescriptionLocKey: KnatteTobbert.TinyLogPile.FlavorDescription
   _image: {fileID: 21300000, guid: 682c69faa1cc33b4ebacc54dfe15e049, type: 3}
 --- !u!114 &4440177359970826680
@@ -213,8 +213,8 @@ MonoBehaviour:
   m_Script: {fileID: -419467237, guid: 0e822cc0fc83f501e1c55e94dd1f0b21, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _centerStackOffset: {x: 0.5, y: 1, z: 0}
-  _xyOffsetPerStack: 0.3
+  _centerStackOffset: {x: 0.5, y: 0.55, z: 0}
+  _xyOffsetPerStack: 0.88
 --- !u!1 &1907051363735039
 GameObject:
   m_ObjectHideFlags: 0

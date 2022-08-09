@@ -5,9 +5,11 @@ This mod adds a new tinylogpile to the game. These will let you Store a small am
 - 1x2 LogPile for Folktale
 - 1x2 Metal Stackable for Folktale
 
-## Collaboration
 
-This mod is a collaboration between [Knatte Anka](https://github.com/KnatteAnka) and [Tobbert](https://github.com/TobbyTheBobby).
+
+## Helper 
+
+This mod is possible thanks to help from [Tobbert](https://github.com/TobbyTheBobby).
 
 ## Disclaimer!
 
@@ -24,10 +26,18 @@ Recommended way to install this mod is through [Thunderstore](https://timberborn
 
 ## Problems?
 
-In case you experience problems or have any feedback, message us in the modding channel of the the [Timberborn discord](https://discord.gg/mfbBF4cWpX) or message us directly (Knatte_Anka#6800 and Tobbert#1607). We will try to fix it as soon as possible. :D
+In case you experience problems or have any feedback, message us in the modding channel of the the [Timberborn discord](https://discord.gg/mfbBF4cWpX) or message us directly (Knatte_Anka#6800). We will try to fix it as soon as possible. :D
 
 ## Changelog
 
+### 1.0.2 - 9.8.2022
+
+- Bugfix placment of logs on normal parts
+
+### 1.0.1 - 9.8.2022
+
+- Bugfix Building of Metal Stackable logpile
+- Fix placement of logs to not go outside the part
 
 ### 1.0.0 - 8.8.2022
 
