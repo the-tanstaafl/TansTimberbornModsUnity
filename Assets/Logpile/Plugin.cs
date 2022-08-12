@@ -34,31 +34,30 @@ namespace TinyLogpile
     {
         static bool Prefix(LogPileStockpileVisualizer __instance, int x, int y)
         {
-            var BuildingComp = __instance.gameObject.GetComponent<Stockpile>().name;
+            var BuildingComp = __instance.gameObject.GetComponent<Stockpile>().name.Replace("(Clone)", "");
             var BuildingnameName = BuildingComp.Split(".");
 
             bool Returnvalue = true;
             if (x == 0 & y == 0)
             {
-                //Plugin.Log.LogInfo($"*Right Stack startup X: {x} y: {y} Model: {BuildingnameName[0]}");
+                Plugin.Log.LogInfo($"*Right Stack startup X: {x} y: {y} Model: {BuildingnameName[0]}");
                 return Returnvalue;
             }
             if (x == 0 & y == 1)
             {
-                //Plugin.Log.LogInfo($"*Right Stack startup X: {x} y: {y} Model: {BuildingnameName[0]}");
+                Plugin.Log.LogInfo($"*Right Stack startup X: {x} y: {y} Model: {BuildingnameName[0]}");
                 return Returnvalue;
             }
-            /*if (x != 0 & y != 1)
-            {
-                Plugin.Log.LogInfo($"Outer Stack startup X: {x} y: {y}");
-                return Returnvalue;
-            }*/
             if (BuildingnameName[0] == "TinyLogPile" | BuildingnameName[0] == "TinyMetalLogPile")
             {
-                //Plugin.Log.LogInfo($" Wrong Stack Should place X: {x} y: {y} Model: {BuildingnameName[0]}");
+                Plugin.Log.LogInfo($" Wrong Stack Should place X: {x} y: {y} Model: {BuildingnameName[0]}");
                 return !Returnvalue;
             }
-            else return Returnvalue;
+            else
+            {
+                Plugin.Log.LogInfo($" Wrong Stack Should place X: {x} y: {y} Model: {BuildingnameName[0]}");
+                return Returnvalue;
+            }
         }
     }
 }

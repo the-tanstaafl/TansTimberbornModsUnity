@@ -5,3 +5,6 @@ KnatteTobbert.StaircaseRight.FlavorDiscription,That is a big boi log in the midd
 KnatteTobbert.StaircaseLeft.DisplayName,Staircase Left,-
 KnatteTobbert.StaircaseLeft.Description,A staircase that goes left.,-
 KnatteTobbert.StaircaseLeft.FlavorDiscription,That is a big boi log in the middle.,-
+KnatteTobbert.MetalStaircase.DisplayName,Metal Staircase,-
+KnatteTobbert.MetalStaircase.Description,A better staircase in Metal.,-
+KnatteTobbert.MetalStaircase.FlavorDiscription,Hope it dont rust.,-
