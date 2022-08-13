@@ -24,6 +24,9 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
+### 1.3.0 - 12.08.2022
+- Added Metal staircase with a speed boost.
+
 ### 1.2.0 - 05.08.2022
 - Small change to the textures
 - updated for TimberAPI 4.4

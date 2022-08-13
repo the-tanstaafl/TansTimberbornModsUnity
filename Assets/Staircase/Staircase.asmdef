@@ -8,8 +8,14 @@
     "overrideReferences": true,
     "precompiledReferences": [
         "BepInEx.dll",
+        "TimberAPI.dll",
         "Bindito.Core.dll",
-        "TimberAPI.dll"
+        "Bindito.Unity.dll",
+        "0Harmony.dll",
+        "Timberborn.BuildingRange.dll",
+        "Timberborn.Effects.dll",
+        "Timberborn.NeedSpecifications.dll",
+        "Timberborn.PreviewSystem.dll"
     ],
     "autoReferenced": true,
     "defineConstraints": [],

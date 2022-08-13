@@ -169,6 +169,8 @@ GameObject:
   - component: {fileID: 5860367570422035011}
   - component: {fileID: 2088881534276268686}
   - component: {fileID: 1007168838181199566}
+  - component: {fileID: 557469914627019427}
+  - component: {fileID: 412092115142242156}
   m_Layer: 0
   m_Name: MetalStaircase
   m_TagString: Untagged
@@ -349,6 +351,35 @@ MonoBehaviour:
   m_Script: {fileID: -1604455801, guid: fb0076526bca5246b24d6c818d68ce00, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &557469914627019427
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5574067095167738340}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1933139831, guid: 75be7af0b34ada5bff62a949a3c4181d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _effectSpecifications:
+  - _needId: StairMovementSpeed
+    _pointsPerHour: 1
+    _satisfyToMaxValue: 1
+--- !u!114 &412092115142242156
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5574067095167738340}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1115272012, guid: 75be7af0b34ada5bff62a949a3c4181d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _effectRadius: 0
 --- !u!1 &6736828852267667355
 GameObject:
   m_ObjectHideFlags: 0
@@ -486,6 +517,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1226888942004063654}
     m_Modifications:
+    - target: {fileID: -9217902777048900214, guid: 74f019fc794269e48851e295128abd0a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b0703e4e3a1a3a54987de9a4734686ea, type: 2}
+    - target: {fileID: -9217902777048900214, guid: 74f019fc794269e48851e295128abd0a, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8cc6814abf57d22488fc8f74a5712b3b, type: 2}
     - target: {fileID: -9153034307601791561, guid: 74f019fc794269e48851e295128abd0a, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -534,6 +573,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -5850880018235856690, guid: 74f019fc794269e48851e295128abd0a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8cc6814abf57d22488fc8f74a5712b3b, type: 2}
+    - target: {fileID: -5850880018235856690, guid: 74f019fc794269e48851e295128abd0a, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: b0703e4e3a1a3a54987de9a4734686ea, type: 2}
     - target: {fileID: -1397535787224422231, guid: 74f019fc794269e48851e295128abd0a, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -566,6 +613,14 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 233598e57b9834f40a1753137f7b7078, type: 2}
+    - target: {fileID: 9057032581870516862, guid: 74f019fc794269e48851e295128abd0a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3408e422cd046c54a8fbb89a2b5da2ce, type: 2}
+    - target: {fileID: 9057032581870516862, guid: 74f019fc794269e48851e295128abd0a, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: f5095177e463efb4791edf80451f3295, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 74f019fc794269e48851e295128abd0a, type: 3}
 --- !u!4 &1359984189114255845 stripped

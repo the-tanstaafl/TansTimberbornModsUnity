@@ -48,8 +48,8 @@ sysinfo.txt
 crashlytics-build.properties
 
 #Timberborn Files
-Packages/Timberborn
-Assets/Timberborn
-ThunderKit
-UserSettings
+Packages/Timberborn/*
+Assets/Timberborn/*
+ThunderKit/*
+UserSettings/*
 .idea

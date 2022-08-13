@@ -3,5 +3,8 @@
     "knattetobbert.staircase/knattetobbert_staircase/StaircaseRight",
     "knattetobbert.staircase/knattetobbert_staircase/StaircaseLeft",
 	"knattetobbert.staircase/knattetobbert_staircase/MetalStaircase"
+  ],
+  "Needs": [
+    "StairMovementSpeed"
   ]
 }

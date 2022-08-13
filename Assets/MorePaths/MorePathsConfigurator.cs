@@ -14,7 +14,7 @@ namespace MorePaths
             containerDefinition.MultiBind<TemplateModule>().ToProvider(ProvideTemplateModule).AsSingleton();
         }
 
-        private static TemplateModule ProvideTemplateModule()
+        private TemplateModule ProvideTemplateModule()
         {
             TemplateModule.Builder builder = new TemplateModule.Builder();
             builder.AddDecorator<DrivewayModel, CustomDrivewayModel>();
