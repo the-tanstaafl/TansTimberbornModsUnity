@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!43 &4300000
 Mesh:
-  serializedVersion: 10
+  serializedVersion: 11
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -154,6 +154,7 @@ Mesh:
     m_Center: {x: 0.49999842, y: 0.0009999184, z: 0.4999977}
     m_Extent: {x: 0.5215164, y: 8.492498E-08, z: 0.5215164}
   m_MeshUsageFlags: 0
+  m_CookingOptions: 30
   m_BakedConvexCollisionMesh:
   m_BakedTriangleCollisionMesh:
   m_MeshMetrics[0]: 0.03427479

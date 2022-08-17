@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 41af08d3a90ea3844a3771ebbd42eab3
-timeCreated: 1657385746
+guid: dd4c1b7ed8eaace4d99c947e14d9159b
+timeCreated: 1659901517
 licenseType: Free
 TextureImporter:
   serializedVersion: 11
@@ -28,6 +28,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+  flipGreenChannel: 0
   isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
@@ -71,6 +72,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -123,7 +125,6 @@ TextureImporter:
       sourceWasHDR: 0
     importInspectorWarnings:
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData:
   assetBundleName:
   assetBundleVariant:

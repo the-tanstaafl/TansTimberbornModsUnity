@@ -8,10 +8,11 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Dirt
-  m_Shader: {fileID: 4800000, guid: 4bfb25c155ffd0446bcc236a480d6a72, type: 3}
+  m_Shader: {fileID: 4800000, guid: 311ff28cee721bb4cbe1183ea2e3dd2f, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords:
-  - _ALPHATEST_ON
   - _MAINUVFROMCOORDINATES_ON
   - _NORMALMAP
   - _SPECULARHIGHLIGHTS_OFF
@@ -21,6 +22,7 @@ Material:
   m_CustomRenderQueue: 2999
   stringTagMap: {}
   disabledShaderPasses: []
+  m_LockedProperties:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -29,15 +31,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _FadeTex:
-        m_Texture: {fileID: 2800000, guid: 051cbf64a8fa60d4dbfcc535b7ecfed9, type: 3}
+        m_Texture: {fileID: 2800000, guid: 1dc3e5d2c975b81449bb055b0d7b64a6, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 8e9f272404a9f81429cb1ee96fadb389, type: 3}
+        m_Texture: {fileID: 2800000, guid: 48f12fed46a79444895ab9c5dd36c9b5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NoiseTex:
-        m_Texture: {fileID: 2800000, guid: c7a2af387d730714b9f4129aa6b47467, type: 3}
+        m_Texture: {fileID: 2800000, guid: 2714195cd23cb3e4482c492067b0f74a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:

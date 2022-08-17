@@ -8,7 +8,9 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Plaster_White.Folktails
-  m_Shader: {fileID: 4800000, guid: a565c952dc684e6498f0092e5c6f0087, type: 3}
+  m_Shader: {fileID: 4800000, guid: 0be74443ce700094f997853de662a1c2, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords:
   - _NORMALMAP
@@ -18,15 +20,16 @@ Material:
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
+  m_LockedProperties:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
     - _AmbientOcclusion:
-        m_Texture: {fileID: 2800000, guid: 534d21aac55d1934ca2fb0f71bc23ed5, type: 3}
+        m_Texture: {fileID: 2800000, guid: fc500955af555b643bdb481dd93626d5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 9999c89274ae6fd42aa24d4411112766, type: 3}
+        m_Texture: {fileID: 2800000, guid: ac8ed16f5e33d324f9733f25051f083e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _CutoutTex:
@@ -46,11 +49,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 22bdab4b4efd90f4d907d18bc5d08d6c, type: 3}
+        m_Texture: {fileID: 2800000, guid: 4a22df6adcd74534bbbcdfd57f44c47d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: f4a536860da971f4e9e54e6a13936515, type: 3}
+        m_Texture: {fileID: 2800000, guid: 7843fb1ab8b820a409249f66c2b75fd0, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:

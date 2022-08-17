@@ -125,13 +125,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ToolBarButtonNames:
   - MetalFloodgate4.Folktails
-  - MetalFloodgate4.IronTeeth
   - MetalFloodgate5.Folktails
-  - MetalFloodgate5.IronTeeth
   - MetalFloodgate6.Folktails
-  - MetalFloodgate6.IronTeeth
-  - MetalFloodgate7.IronTeeth
   - MetalFloodgate7.Folktails
   - MetalFloodgate8.Folktails
   - MetalFloodgate9.Folktails
   - MetalFloodgate10.Folktails
+  - MetalFloodgate4.IronTeeth
+  - MetalFloodgate5.IronTeeth
+  - MetalFloodgate6.IronTeeth
+  - MetalFloodgate7.IronTeeth
+  - MetalFloodgate8.IronTeeth
+  - MetalFloodgate9.IronTeeth
+  - MetalFloodgate10.IronTeeth
