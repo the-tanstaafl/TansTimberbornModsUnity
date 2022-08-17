@@ -5,3 +5,12 @@ Knatte.MetalFloodgate.DisplayName,Metal Flood gate,-
 Knatte.MetalFloodgate.Description,Bigger better Flood gate that can be stacked stuff on top,-
 
 Knatte.Floodgate.DisplayName,Metal Flood gates,-
+
+Knatte.MetalFloodgate4.DisplayName,Metal Flood gate 4 High,-
+Knatte.MetalFloodgate5.DisplayName,Metal Flood gate 5 High,-
+Knatte.MetalFloodgate6.DisplayName,Metal Flood gate 6 High,-
+Knatte.MetalFloodgate7.DisplayName,Metal Flood gate 7 High,-
+Knatte.MetalFloodgate8.DisplayName,Metal Flood gate 8 High,-
+Knatte.MetalFloodgate9.DisplayName,Metal Flood gate 9 High,-
+Knatte.MetalFloodgate10.DisplayName,Metal Flood gate 10 High,-
+

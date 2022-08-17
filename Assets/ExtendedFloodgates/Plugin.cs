@@ -17,8 +17,8 @@ namespace WaterAlarm
     public class Plugin : BaseUnityPlugin
     {
         public const string PluginGuid = "knatte.floodgates";
-        public const string PluginName = "WaterAlarm";
-        public const string PluginVersion = "0.1.0";
+        public const string PluginName = "ExtendedFloodgates";
+        public const string PluginVersion = "0.6.0";
 
         public static ManualLogSource Log;
 
@@ -35,11 +35,11 @@ namespace WaterAlarm
     }
     
     
-    [HarmonyPatch(typeof(FloodgateFragment), "UpdateSliderValue", new Type[] { typeof(float),typeof(Slider) })]
+    /*[HarmonyPatch(typeof(FloodgateFragment), "UpdateSliderValue", new Type[] { typeof(float),typeof(Slider) })]
     public class FixMoreStepsPatch
     {
         
-        static void Prefix( float value, ref float __result , ref Slider _slider)
+        static bool Prefix( float value, ref float __result , ref Slider _slider)
         {
             
             // Original code
@@ -54,14 +54,14 @@ namespace WaterAlarm
             _slider.SetValueWithoutNotify(num);
             Plugin.Log.LogInfo($"*Input: {value} Result: {num}");
             __result = num;
-            //return false;
+            return false;
         }
-        /*static void Postfix( float num , ref float __result)
-        {
-            Plugin.Log.LogInfo($"*Input: {num} Result: {__result}");
-            __result = num / 2f;
-        }*/
-    }
+       // static void Postfix( float num , ref float __result)
+       // {
+       //     Plugin.Log.LogInfo($"*Input: {num} Result: {__result}");
+       //     __result = num / 2f;
+       // }
+    }*/
     
 
 

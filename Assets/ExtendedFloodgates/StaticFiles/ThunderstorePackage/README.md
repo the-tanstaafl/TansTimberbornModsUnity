@@ -23,7 +23,12 @@ In case you experience problems, message me in the modding channel of the the [T
 
 ## Changelog
 
+### 0.6.0 - 17.8.2022
+- Fixed all IronTeeth floodgates 
+- added more Descriptions and 
+- Fix FlavorDescription
+- Known problem IronTeeth looses unlock of 6+ flow gates but no building.
 
-### 0.5.0 - 12.7.2022
+### 0.5.0 - 16.8.2022
 
 - Pre Released the plugin with just the WaterAlarm.

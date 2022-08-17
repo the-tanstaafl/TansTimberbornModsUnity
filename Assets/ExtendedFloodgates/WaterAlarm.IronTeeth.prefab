@@ -218,7 +218,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _displayNameLocKey: Knatte.WaterAlarm.DisplayName
   _descriptionLocKey: Knatte.WaterAlarm.Description
-  _flavorDescriptionLocKey: Knatte.WaterAlarm.FlavorDescription
+  _flavorDescriptionLocKey: 
   _image: {fileID: 21300000, guid: 3398bc9d1f3d65a4094deff97a467d31, type: 3}
 --- !u!114 &7009862996800419808
 MonoBehaviour:

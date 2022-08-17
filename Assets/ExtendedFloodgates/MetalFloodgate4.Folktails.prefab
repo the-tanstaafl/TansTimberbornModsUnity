@@ -267,7 +267,7 @@ MonoBehaviour:
   m_Script: {fileID: -296257353, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _displayNameLocKey: Knatte.MetalFloodgate.DisplayName
+  _displayNameLocKey: Knatte.MetalFloodgate4.DisplayName
   _descriptionLocKey: Knatte.MetalFloodgate.Description
   _flavorDescriptionLocKey: 
   _image: {fileID: 21300000, guid: 634bf65c5ed691d40882e58271b8a54b, type: 3}
