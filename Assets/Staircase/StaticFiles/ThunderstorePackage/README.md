@@ -23,6 +23,17 @@ Recommended way to install this mod is through [Thunderstore](https://timberborn
 In case you experience problems or have any feedback, message us in the modding channel of the the [Timberborn discord](https://discord.gg/mfbBF4cWpX) or message us directly (Tobbert#1607 and Knatte_Anka#6800). We will try to fix it as soon as possible. :D
 
 ## Changelog
+### 1.3.3 - 17.08.2022
+- Fix category not showing ground only anymore
+
+### 1.3.2 - 15.08.2022
+- Uppdated Staircase category to add ladder mod if installed
+- Fix Metal staircase to use Metal
+- Lower the research cost for staircase and raise the cost for Metal staircase  
+
+### 1.3.1 - 14.08.2022
+- Added Staircase category
+
 
 ### 1.3.0 - 12.08.2022
 - Added Metal staircase with a speed boost.

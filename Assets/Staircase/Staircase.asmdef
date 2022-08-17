@@ -15,7 +15,8 @@
         "Timberborn.BuildingRange.dll",
         "Timberborn.Effects.dll",
         "Timberborn.NeedSpecifications.dll",
-        "Timberborn.PreviewSystem.dll"
+        "Timberborn.PreviewSystem.dll",
+        "Timberborn.RangedEffectSystem.dll"
     ],
     "autoReferenced": true,
     "defineConstraints": [],

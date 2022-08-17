@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-3931462110823901632
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f22bb7fd1d3b56a48bc52f8e407901d6, type: 3}
+  m_Name: ManifestIdentity
+  m_EditorClassIdentifier: 
+  StagingPaths:
+  - <ManifestPluginStaging>
+  Author: Knatte
+  Name: Extended Floodgates
+  Description: More Floodgates and accessories.
+  Version: 0.1.0
+  Dependencies: []
+--- !u!114 &-1800585617083543040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b7e13dda513544419a89926bd12ad8a, type: 3}
+  m_Name: AssemblyDefinitions
+  m_EditorClassIdentifier: 
+  StagingPaths:
+  - <ManifestPluginStaging>
+  - <ThunderstorePackage>/<ManifestName>/plugins
+  definitions:
+  - {fileID: 5897886265953266890, guid: 5de0f222560a1624ca68f5100a32aa3a, type: 3}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e563561e08b6a3642a487177f5cfbb37, type: 3}
+  m_Name: ExtendedFloodgates
+  m_EditorClassIdentifier: 
+  Data:
+  - {fileID: -3931462110823901632}
+  - {fileID: -1800585617083543040}
+  - {fileID: 9120418034178625098}
+  - {fileID: 2590189338767857166}
+  - {fileID: 7276679206402820566}
+  - {fileID: 7788702448107751720}
+  identity: {fileID: -3931462110823901632}
+  QuickAccess: 1
+--- !u!114 &2590189338767857166
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17d1008b78cb6e846889b7778282fbef, type: 3}
+  m_Name: AssetBundleDefinitions
+  m_EditorClassIdentifier: 
+  StagingPaths:
+  - <ManifestPluginStaging>/assets
+  - <ThunderstorePackage>/<ManifestName>/plugins/assets
+  assetBundles:
+  - assetBundleName: Knatte_Floodgates
+    assets:
+    - {fileID: 3253139709501052812, guid: 1fa07b9078f9fc04db619df8b6e50378, type: 3}
+    - {fileID: 1782758416770236, guid: e755ad40a4a892d49a938a8d34b300ad, type: 3}
+    - {fileID: 1044374658342017, guid: ab1f2207857b064418c64e982173acf4, type: 3}
+    - {fileID: 1091995799021445, guid: b9113ad71710ccc418f69aa85b0bbef7, type: 3}
+    - {fileID: 1091995799021445, guid: 1586b04c18cef274183d7ed5a60631bb, type: 3}
+    - {fileID: 1091995799021445, guid: 7347a08b60ece8648a97061873485dbd, type: 3}
+    - {fileID: 1091995799021445, guid: 0a3c096623352c943b02dcc0ad18be5f, type: 3}
+    - {fileID: 1091995799021445, guid: a6ea653ba24bfbf41af3667c1600df49, type: 3}
+    - {fileID: 1091995799021445, guid: ed8a4cc5b0c0aca46ae0fc60193451dd, type: 3}
+    - {fileID: 1091995799021445, guid: 64c8b380a8bbd9945a94fe099f217742, type: 3}
+    - {fileID: 1091995799021445, guid: edce3e5e2acccb844b14a61327ce699e, type: 3}
+    - {fileID: 1091995799021445, guid: 2fb5f09641159374f8c1833bcff5e5f7, type: 3}
+    - {fileID: 1091995799021445, guid: 1505513356c229548861f4a2d5f518b9, type: 3}
+    - {fileID: 1091995799021445, guid: d977b3503acc12b41933caa0437f66b5, type: 3}
+    - {fileID: 1091995799021445, guid: 33ce0db7db0315045bf785b27d7a82f8, type: 3}
+    - {fileID: 1091995799021445, guid: a7e563d89a0239044ae22a7e81d12ff7, type: 3}
+    - {fileID: 1091995799021445, guid: 81d489f4b4bd05c4897d6bdfb36d610b, type: 3}
+--- !u!114 &7276679206402820566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b243ff405b33b94dbf5b6775dd9aa33, type: 3}
+  m_Name: Files
+  m_EditorClassIdentifier: 
+  StagingPaths:
+  - <ThunderstorePackage>
+  files:
+  - {fileID: 2800000, guid: 3bd7e12603e3979408c440ac1b09c76b, type: 3}
+  - {fileID: 4900000, guid: d36e571da2467db46a4d55a79c1b1c73, type: 3}
+  - {fileID: 4900000, guid: 9de987f83c64f354db0263332bc33097, type: 3}
+--- !u!114 &7788702448107751720
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b243ff405b33b94dbf5b6775dd9aa33, type: 3}
+  m_Name: Files
+  m_EditorClassIdentifier: 
+  StagingPaths:
+  - <ManifestPluginStaging>/Specifications
+  - <ThunderstorePackage>/<ManifestName>/plugins/Specifications
+  files:
+  - {fileID: 4900000, guid: e56cf39a39475a544916717d867a25ba, type: 3}
+  - {fileID: 4900000, guid: 8b298b128b7e2ee4981fdf3c7e826065, type: 3}
+--- !u!114 &9120418034178625098
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b243ff405b33b94dbf5b6775dd9aa33, type: 3}
+  m_Name: Files
+  m_EditorClassIdentifier: 
+  StagingPaths:
+  - <ManifestPluginStaging>/lang
+  - <ThunderstorePackage>/<ManifestName>/plugins/lang
+  files:
+  - {fileID: 4900000, guid: 8e73f2546029c7543a6c1eccd24223a5, type: 3}

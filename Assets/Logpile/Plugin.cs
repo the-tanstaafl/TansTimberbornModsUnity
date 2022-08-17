@@ -15,7 +15,7 @@ namespace TinyLogpile
     {
         public const string PluginGuid = "knattetobbert.tinylogpile";
         public const string PluginName = "Tinylogpile";
-        public const string PluginVersion = "1.0.1";
+        public const string PluginVersion = "1.0.4";
 
         public static ManualLogSource Log;
 
@@ -29,6 +29,7 @@ namespace TinyLogpile
             new Harmony(PluginGuid).PatchAll();
         }
     }
+    
     [HarmonyPatch(typeof(LogPileStockpileVisualizer), "InitializeLogStack", new Type[] { typeof(int) , typeof(int) })]
     public class FixInitialStackPatch
     {
@@ -40,22 +41,22 @@ namespace TinyLogpile
             bool Returnvalue = true;
             if (x == 0 & y == 0)
             {
-                Plugin.Log.LogInfo($"*Right Stack startup X: {x} y: {y} Model: {BuildingnameName[0]}");
+                //Plugin.Log.LogInfo($"*Right Stack startup X: {x} y: {y} Model: {BuildingnameName[0]}");
                 return Returnvalue;
             }
             if (x == 0 & y == 1)
             {
-                Plugin.Log.LogInfo($"*Right Stack startup X: {x} y: {y} Model: {BuildingnameName[0]}");
+                //Plugin.Log.LogInfo($"*Right Stack startup X: {x} y: {y} Model: {BuildingnameName[0]}");
                 return Returnvalue;
             }
             if (BuildingnameName[0] == "TinyLogPile" | BuildingnameName[0] == "TinyMetalLogPile")
             {
-                Plugin.Log.LogInfo($" Wrong Stack Should place X: {x} y: {y} Model: {BuildingnameName[0]}");
+                //Plugin.Log.LogInfo($" Wrong Stack Should place X: {x} y: {y} Model: {BuildingnameName[0]}");
                 return !Returnvalue;
             }
             else
             {
-                Plugin.Log.LogInfo($" Wrong Stack Should place X: {x} y: {y} Model: {BuildingnameName[0]}");
+                //Plugin.Log.LogInfo($" Wrong Stack Should place X: {x} y: {y} Model: {BuildingnameName[0]}");
                 return Returnvalue;
             }
         }

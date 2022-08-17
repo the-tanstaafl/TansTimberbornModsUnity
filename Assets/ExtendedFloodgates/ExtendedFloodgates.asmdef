@@ -1,0 +1,20 @@
+{
+    "name": "ExtendedFloodgates",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "BepInEx.dll",
+        "Bindito.Core.dll",
+        "TimberAPI.dll",
+        "0Harmony.dll",
+        "Timberborn.WaterBuildingsUI.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

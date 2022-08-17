@@ -14,6 +14,7 @@ using Timberborn.Effects;
 using Timberborn.NeedSpecifications;
 using Timberborn.PreviewSystem;
 using TimberbornAPI.AssetLoaderSystem.ResourceAssetPatch;
+using Timberborn.RangedEffectSystem;
 using UnityEngine;
 
 
@@ -21,11 +22,12 @@ namespace Staircase
 {
     [BepInPlugin(PluginGuid, PluginName, PluginVersion)]
     [BepInDependency("com.timberapi.timberapi")]
+    [BepInDependency("tobbert.categorybutton")]
     public class Plugin : BaseUnityPlugin
     {
         public const string PluginGuid = "knattetobbert.staircase";
         public const string PluginName = "Staircase";
-        public const string PluginVersion = "1.3.0";
+        public const string PluginVersion = "1.3.4";
 
         public static ManualLogSource Log;
 
@@ -36,8 +38,26 @@ namespace Staircase
             Log.LogInfo($"Loaded {PluginName} Version: {PluginVersion}!");
 
             TimberAPI.AssetRegistry.AddSceneAssets(PluginGuid, SceneEntryPoint.Global);
+            new Harmony(PluginGuid).PatchAll();
         }
     }
+    [HarmonyPatch(typeof(Debug), "LogWarning", typeof(object))]
+    public class LogWarningPatch
+    {
+        static bool Prefix(object message, bool __runOriginal)
+        {
+            if (__runOriginal)
+            {
+                string mess = message as string;
+                if (mess.Contains("path marker mesh at"))
+                {
+                    return false;
+                }
+            }
+            return __runOriginal;
+        }
+    }
+    
     [HarmonyPatch(typeof(RangedEffectBuilding), "RangeNames", new Type[] { })]
     public class PreventOrangePatch
     {
@@ -52,6 +72,7 @@ namespace Staircase
             }
         }
     }
+    /*
     [HarmonyPatch(typeof(EffectDescriber), "DescribeRangeEffects", new Type[] { typeof(IEnumerable<ContinuousEffectSpecification>), typeof(StringBuilder), typeof(StringBuilder), typeof(int) })]
     public class PreventDescriber2Patch
     {
@@ -78,5 +99,5 @@ namespace Staircase
                 }
             }
         }
-    }
+    }*/
 }

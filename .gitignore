@@ -50,6 +50,7 @@ crashlytics-build.properties
 #Timberborn Files
 Packages/Timberborn/*
 Assets/Timberborn/*
+Assets/Timberborn
 ThunderKit/*
 UserSettings/*
 .idea
