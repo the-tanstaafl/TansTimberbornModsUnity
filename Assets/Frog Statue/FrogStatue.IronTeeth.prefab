@@ -116,22 +116,22 @@ MonoBehaviour:
   _blocksSpecification:
     _size: {x: 2, y: 2, z: 2}
     _blockSpecifications:
-    - _matterBelow: 0
+    - _matterBelow: 1
       _occupation: 8
       _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
-    - _matterBelow: 0
+    - _matterBelow: 1
       _occupation: 8
       _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
-    - _matterBelow: 0
+    - _matterBelow: 1
       _occupation: 8
       _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
-    - _matterBelow: 0
+    - _matterBelow: 1
       _occupation: 0
       _stackable: 0
       _optionallyUnderground: 0
@@ -239,7 +239,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _effectSpecifications:
   - _needId: FrogStatue
-    _pointsPerHour: 0.5
+    _pointsPerHour: 1.5
     _satisfyToMaxValue: 0
 --- !u!114 &-6208596937050152778
 MonoBehaviour:
@@ -608,7 +608,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: cc82111a4b0299746bc8156bfeef775e, type: 2}
+  - {fileID: 2100000, guid: 87b0a18630b7a224d880505f62b1587b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -797,7 +797,7 @@ PrefabInstance:
     - target: {fileID: -1894010833357673166, guid: b4290340ed55eb842a32d4c90f6945e6, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: cc82111a4b0299746bc8156bfeef775e, type: 2}
+      objectReference: {fileID: 2100000, guid: 87b0a18630b7a224d880505f62b1587b, type: 2}
     - target: {fileID: 919132149155446097, guid: b4290340ed55eb842a32d4c90f6945e6, type: 3}
       propertyPath: m_Name
       value: Frog Statue
@@ -809,7 +809,7 @@ PrefabInstance:
     - target: {fileID: 6126168450916748872, guid: b4290340ed55eb842a32d4c90f6945e6, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: cc82111a4b0299746bc8156bfeef775e, type: 2}
+      objectReference: {fileID: 2100000, guid: 87b0a18630b7a224d880505f62b1587b, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b4290340ed55eb842a32d4c90f6945e6, type: 3}
 --- !u!1 &5331394264017559906 stripped

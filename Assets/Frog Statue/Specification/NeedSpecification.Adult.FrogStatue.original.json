@@ -1,15 +1,15 @@
 {
   "Id": "FrogStatue",
   "BackwardCompatibleIds": [],
-  "Order": 100,
+  "Order": 1,
   "NeedGroupId": "Spirituality",
   "CharacterType": "BeaverAdult",
   "DisplayNameLocKey": "Knatte.FrogStatue.DisplaynameLocKey",
   "StartingValue": 0.0,
   "MinimumValue": 0.0,
-  "MaximumValue": 1.0,
-  "DailyDelta": -0.5,
-  "ImportanceMultiplier": 1.0,
+  "MaximumValue": 2.0,
+  "DailyDelta": -0.02,
+  "ImportanceMultiplier": 2.0,
   "CriticalNeedType": {
     "Value": "None"
   },
@@ -27,6 +27,6 @@
   "DeathMessageLocKey": "",
   "Effectiveness": 1.0,
   "Wastable": false,
-  "PositiveWellbeing": 0,
-  "HideWhenInactive": true
+  "FavorableWellbeing": 1,
+  "PositiveWellbeing": 3
 }

@@ -17,7 +17,7 @@ MonoBehaviour:
   Author: KnatteAnka
   Name: FrogStatue
   Description: FrogStatue
-  Version: 0.5.0
+  Version: 1.0.0
   Dependencies: []
 --- !u!114 &-1800585617083543040
 MonoBehaviour:
@@ -76,6 +76,7 @@ MonoBehaviour:
   - assetBundleName: Knatte_FrogStatue
     assets:
     - {fileID: 1892513168112050, guid: 307ae2eb8a43ac44ca62cf3e3cd10b1c, type: 3}
+    - {fileID: 1892513168112050, guid: 583ca72b23d26df4da47260e391249a7, type: 3}
 --- !u!114 &7276679206402820566
 MonoBehaviour:
   m_ObjectHideFlags: 0

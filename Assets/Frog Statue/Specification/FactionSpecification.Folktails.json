@@ -1,6 +1,6 @@
 {
   "CommonBuildings": [
-    "knatte.frogstatue/knatte_frogstatue/FrogStatue"
+    "knatte.frogstatue/knatte_frogstatue/FrogStatue.Folktails"
   ],
   "Needs": [
     "FrogStatue"

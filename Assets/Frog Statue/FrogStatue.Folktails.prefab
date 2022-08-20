@@ -23,7 +23,7 @@ GameObject:
   - component: {fileID: 8301357133823993450}
   - component: {fileID: -7062841016316864185}
   m_Layer: 0
-  m_Name: FrogStatue
+  m_Name: FrogStatue.Folktails
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -86,8 +86,9 @@ MonoBehaviour:
   m_Script: {fileID: -788214902, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _prefabName: FrogStatue
-  _backwardCompatiblePrefabNames: []
+  _prefabName: FrogStatue.Folktails
+  _backwardCompatiblePrefabNames:
+  - FrogStatue
   _requiredFeatureToggle: 
 --- !u!114 &114531841495513050
 MonoBehaviour:
@@ -116,22 +117,22 @@ MonoBehaviour:
   _blocksSpecification:
     _size: {x: 2, y: 2, z: 2}
     _blockSpecifications:
-    - _matterBelow: 0
+    - _matterBelow: 1
       _occupation: 8
       _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
-    - _matterBelow: 0
+    - _matterBelow: 1
       _occupation: 8
       _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
-    - _matterBelow: 0
+    - _matterBelow: 1
       _occupation: 8
       _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
-    - _matterBelow: 0
+    - _matterBelow: 1
       _occupation: 0
       _stackable: 0
       _optionallyUnderground: 0
@@ -239,7 +240,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _effectSpecifications:
   - _needId: FrogStatue
-    _pointsPerHour: 0.5
+    _pointsPerHour: 1.5
     _satisfyToMaxValue: 0
 --- !u!114 &-6208596937050152778
 MonoBehaviour:

@@ -26,6 +26,11 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
+### 1.0.0 - 20.8.2022
+
+- Add IT variant.
+- Update Need to be faster to fill and last longer.
+
 ### 0.5.0 - 20.8.2022
 
 - Released the plugin.
