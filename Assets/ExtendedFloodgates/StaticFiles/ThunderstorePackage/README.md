@@ -5,7 +5,7 @@ This mod will allow you to build Higher Metal Floodgates (4-10 High) and more ad
 ## Disclaimer!
 
 This plugin is currently only supported in the **experimental** version of Timberborn.  
-Currently only 4,5 exist for IronTeeth but they will come soon.
+
 
 ## How to use
 
@@ -22,6 +22,9 @@ and adding the dll to your bepinex plugins folder. This plugin is dependent on t
 In case you experience problems, message me in the modding channel of the the [Timberborn discord](https://discord.gg/mfbBF4cWpX) or message me directly (Knatte_Anka#6800). I will try to fix it as soon as possible.  
 
 ## Changelog
+
+### 0.6.1 - 18.8.2022
+- Fix sorting of Floodgates
 
 ### 0.6.0 - 17.8.2022
 - Fixed all IronTeeth floodgates 
