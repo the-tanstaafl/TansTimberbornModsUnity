@@ -1,0 +1,10 @@
+{
+  "name": "IrrigationTowerV2",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/KnatteAnka/KATimberbornModsUnity",
+  "description": "Adds a (FolkTail only!) Upgraded Irrigation Tower that is actually usefull, Range 250% Water usage 4% of original",
+  "dependencies": [
+    "BepInEx-BepInExPack_Timberborn-5.4.19",
+    "Timberborn_Central-TimberAPI-0.4.4"
+  ]
+}
