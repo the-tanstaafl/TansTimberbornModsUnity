@@ -14,7 +14,7 @@ Test done how long 3 Water sustain green land
 | Water Dump | 15 Days   | 15    | Left        |
 | IT         | 2 Hr      | 9     | Upper       |
 
-![Test setup:](https://github.com/KnatteAnka/KATimberbornModsUnity/raw/master/Assets/IrigationTowerV2/StaticFiles/Images/Compare%20Buildings.png)
+![Test setup:](https://github.com/KnatteAnka/KATimberbornModsUnity/raw/master/Assets/IrrigationTowerV2/StaticFiles/Images/Compare%20Buildings.png)
 
 ### Comparing IT V2:
 Above Statistics converted to Percentage compared to Base game items  
