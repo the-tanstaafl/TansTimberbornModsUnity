@@ -1,0 +1,10 @@
+{
+  "name": "DamDecoration",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/KnatteAnka/KATimberbornModsUnity",
+  "description": "Adds a some Dam Decorations, To beautify the Dam",
+  "dependencies": [
+    "BepInEx-BepInExPack_Timberborn-5.4.19",
+    "Timberborn_Central-TimberAPI-0.4.4"
+  ]
+}

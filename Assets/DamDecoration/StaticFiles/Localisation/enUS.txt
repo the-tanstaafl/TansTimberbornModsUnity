@@ -1,0 +1,22 @@
+ID,Text,Comment
+Knatte.Corner.DisplayName,Decoration Corner,-
+Knatte.Corner.Description,Let the Dam be Cornered .,-
+Knatte.Corner.FlavorDescription,Does not Block Water,-
+
+Knatte.Diagonal.DisplayName,Decoration Diagonal,-
+Knatte.Diagonal.Description,Let the Dam go to the Side .,-
+Knatte.Diagonal.FlavorDescription,Does not Block Water,-
+
+Knatte.InvCorner.DisplayName,Decoration Internal Corner,-
+Knatte.InvCorner.Description,Let the Dam be Cornered .,-
+Knatte.InvCorner.FlavorDescription,Does not Block Water,-
+
+Knatte.Slope.DisplayName,Decoration Corner,-
+Knatte.Slope.Description,Let the Dam be Sloped .,-
+Knatte.Slope.FlavorDescription,Does not Block Water,-
+
+Knatte.InvCornerW.DisplayName,Leeve Internal Corner ,-
+Knatte.InvCornerW.Description,Let the Dam be Cornered .,-
+Knatte.InvCornerW.FlavorDescription,Water will not Pass,-
+
+
