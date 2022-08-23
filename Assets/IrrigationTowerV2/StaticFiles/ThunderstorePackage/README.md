@@ -45,6 +45,9 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
+### 1.0.1 - 22.8.2022
+ 
+ - Fix Description
 
 ### 1.0.0 - 22.8.2022
 

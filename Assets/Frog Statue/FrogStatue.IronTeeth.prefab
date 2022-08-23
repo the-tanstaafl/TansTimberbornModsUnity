@@ -444,6 +444,7 @@ GameObject:
   - component: {fileID: 6746588683829851371}
   - component: {fileID: 3456813740369243927}
   - component: {fileID: 8144801054731975118}
+  - component: {fileID: 6687127566182200031}
   m_Layer: 0
   m_Name: ConstructionSite2x2Dirt
   m_TagString: Untagged
@@ -516,6 +517,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &6687127566182200031
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 113404231218919889}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.043033, y: 0.1, z: 2.0430326}
+  m_Center: {x: 0.99999845, y: 0.05, z: 1}
 --- !u!1 &2804133194949514491
 GameObject:
   m_ObjectHideFlags: 0

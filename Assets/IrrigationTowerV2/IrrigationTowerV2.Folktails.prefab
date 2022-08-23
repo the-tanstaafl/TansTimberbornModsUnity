@@ -26,6 +26,7 @@ GameObject:
   - component: {fileID: 114611066841185775}
   - component: {fileID: 114457622823613282}
   - component: {fileID: 114290442435871522}
+  - component: {fileID: 7623191031934216932}
   m_Layer: 0
   m_Name: IrrigationTowerV2.Folktails
   m_TagString: Untagged
@@ -381,6 +382,23 @@ MonoBehaviour:
   m_Script: {fileID: -1612892808, guid: d2469c2f44f08c8986f7616cd6611c77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &7623191031934216932
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1035958969740901}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1804725900, guid: 71874a96862cca0445075c2f72e705bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _workerBonuses:
+  - _bonusId: CarryingCapacity
+    _multiplierDelta: 0.5
+  - _bonusId: WalkingSpeed
+    _multiplierDelta: 0.2
 --- !u!1 &1143749292812006
 GameObject:
   m_ObjectHideFlags: 0
@@ -1692,7 +1710,7 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: a631b7219013d4c4d979212205c8794b, type: 2}
-  - {fileID: 2100000, guid: 0762796898b98a44e9ba34286dc54429, type: 2}
+  - {fileID: 2100000, guid: d6d3302c5f1c9054abb10f98603cf116, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

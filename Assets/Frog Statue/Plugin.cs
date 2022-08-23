@@ -16,7 +16,7 @@ namespace FrogStatue
     {
         public const string PluginGuid = "knatte.frogstatue";
         public const string PluginName = "FrogStatue";
-        public const string PluginVersion = "1.0.0";
+        public const string PluginVersion = "1.0.1";
 
         public static ManualLogSource Log;
 

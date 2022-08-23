@@ -26,6 +26,10 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
+### 1.0.1 - 23.8.2022
+
+- Fix Hitbox on unbuild Statue.
+
 ### 1.0.0 - 20.8.2022
 
 - Add IT variant.
