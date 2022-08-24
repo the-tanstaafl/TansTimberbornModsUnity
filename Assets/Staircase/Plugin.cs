@@ -27,7 +27,7 @@ namespace Staircase
     {
         public const string PluginGuid = "knattetobbert.staircase";
         public const string PluginName = "Staircase";
-        public const string PluginVersion = "1.3.4";
+        public const string PluginVersion = "1.3.5";
 
         public static ManualLogSource Log;
 
@@ -49,7 +49,7 @@ namespace Staircase
             if (__runOriginal)
             {
                 string mess = message as string;
-                if (mess.Contains("path marker mesh at"))
+                if (mess != null && mess.Contains("path marker mesh at"))
                 {
                     return false;
                 }

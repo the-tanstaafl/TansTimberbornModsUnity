@@ -108,7 +108,7 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: e03e7ebc319482a4a85a6facc3a305a5, type: 2}
-  - {fileID: 2100000, guid: f5095177e463efb4791edf80451f3295, type: 2}
+  - {fileID: 2100000, guid: e6662a7842e45584ea18ed2d4331e17c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -191,8 +191,8 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 8cc6814abf57d22488fc8f74a5712b3b, type: 2}
-  - {fileID: 2100000, guid: b0703e4e3a1a3a54987de9a4734686ea, type: 2}
+  - {fileID: 2100000, guid: 87b0a18630b7a224d880505f62b1587b, type: 2}
+  - {fileID: 2100000, guid: 3e084f4defefcfe49bad8a2b5e30130e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -375,7 +375,7 @@ GameObject:
   - component: {fileID: 557469914627019427}
   - component: {fileID: 412092115142242156}
   m_Layer: 0
-  m_Name: MetalStaircase
+  m_Name: MetalStaircase.IT
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -450,8 +450,9 @@ MonoBehaviour:
   m_Script: {fileID: -788214902, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _prefabName: MetalStaircase
-  _backwardCompatiblePrefabNames: []
+  _prefabName: MetalStaircase.IT
+  _backwardCompatiblePrefabNames:
+  - MetalStaircase
   _requiredFeatureToggle: 
 --- !u!114 &5884080431678456959
 MonoBehaviour:
@@ -690,8 +691,8 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: b0703e4e3a1a3a54987de9a4734686ea, type: 2}
-  - {fileID: 2100000, guid: 8cc6814abf57d22488fc8f74a5712b3b, type: 2}
+  - {fileID: 2100000, guid: 3e084f4defefcfe49bad8a2b5e30130e, type: 2}
+  - {fileID: 2100000, guid: 87b0a18630b7a224d880505f62b1587b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

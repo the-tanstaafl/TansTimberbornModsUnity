@@ -46,174 +46,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.5, y: 0.2, z: 0.5}
   m_Center: {x: 0.5, y: 0.1, z: 0.5}
---- !u!1 &1690273054844168664
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1421263671012197444}
-  - component: {fileID: 5314582325633633725}
-  - component: {fileID: 8406208967115063978}
-  m_Layer: 0
-  m_Name: Metal Stairs V3.001
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1421263671012197444
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1690273054844168664}
-  m_LocalRotation: {x: 0.000000081460335, y: 0, z: -0, w: 1}
-  m_LocalPosition: {x: -0, y: 0, z: 0}
-  m_LocalScale: {x: 100, y: 100, z: 100}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 7117824420056121759}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!33 &5314582325633633725
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1690273054844168664}
-  m_Mesh: {fileID: -2412864452149042223, guid: 74f019fc794269e48851e295128abd0a, type: 3}
---- !u!23 &8406208967115063978
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1690273054844168664}
-  m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 2
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: e03e7ebc319482a4a85a6facc3a305a5, type: 2}
-  - {fileID: 2100000, guid: f5095177e463efb4791edf80451f3295, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_AdditionalVertexStreams: {fileID: 0}
---- !u!1 &2991118496831859807
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 8419176122224896172}
-  - component: {fileID: 558610473118553062}
-  - component: {fileID: 1428670310122517738}
-  m_Layer: 0
-  m_Name: Metal Stairs V3 ST
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &8419176122224896172
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2991118496831859807}
-  m_LocalRotation: {x: 0.000000081460335, y: 0, z: -0, w: 1}
-  m_LocalPosition: {x: -0, y: 0, z: 0}
-  m_LocalScale: {x: 100, y: 100, z: 100}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 7117824420056121759}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!33 &558610473118553062
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2991118496831859807}
-  m_Mesh: {fileID: 726529698667297832, guid: 74f019fc794269e48851e295128abd0a, type: 3}
---- !u!23 &1428670310122517738
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2991118496831859807}
-  m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 2
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: 8cc6814abf57d22488fc8f74a5712b3b, type: 2}
-  - {fileID: 2100000, guid: b0703e4e3a1a3a54987de9a4734686ea, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &4320925465066273192
 GameObject:
   m_ObjectHideFlags: 0
@@ -246,40 +78,6 @@ Transform:
   m_Father: {fileID: 8822117568416498058}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &4678192907195069389
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 7117824420056121759}
-  m_Layer: 0
-  m_Name: Metal_Staircase
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &7117824420056121759
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4678192907195069389}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1457260238013419752}
-  - {fileID: 8419176122224896172}
-  - {fileID: 1421263671012197444}
-  m_Father: {fileID: 1226888942004063654}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &5184050673004077736
 GameObject:
   m_ObjectHideFlags: 0
@@ -311,8 +109,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 7117824420056121759}
-  - {fileID: 738110318967362097}
+  - {fileID: 9195728936646422344}
   m_Father: {fileID: 8822117568416498058}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -372,10 +169,8 @@ GameObject:
   - component: {fileID: 5860367570422035011}
   - component: {fileID: 2088881534276268686}
   - component: {fileID: 1007168838181199566}
-  - component: {fileID: 557469914627019427}
-  - component: {fileID: 412092115142242156}
   m_Layer: 0
-  m_Name: MetalStaircase
+  m_Name: StaircaseRight.IT
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -413,11 +208,11 @@ MonoBehaviour:
   _soundBaseName: Default
   _hasLoopingSound: 0
   _buildingCost:
-  - _goodId: MetalBlock
+  - _goodId: Log
     _amount: 2
   - _goodId: Plank
     _amount: 4
-  _scienceCost: 500
+  _scienceCost: 120
   _placeFinished: 0
   _finishableWithBeaversOnSite: 0
   _path: 1
@@ -450,8 +245,9 @@ MonoBehaviour:
   m_Script: {fileID: -788214902, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _prefabName: MetalStaircase
-  _backwardCompatiblePrefabNames: []
+  _prefabName: StaircaseRight.IT
+  _backwardCompatiblePrefabNames:
+  - StaircaseRight
   _requiredFeatureToggle: 
 --- !u!114 &5884080431678456959
 MonoBehaviour:
@@ -469,7 +265,7 @@ MonoBehaviour:
   _generateFloorsOnStackable: 0
   _addedEdges:
   - _start: {x: 0, y: 0, z: 0}
-    _end: {x: 0, y: 1, z: 0}
+    _end: {x: -1, y: 0, z: 0}
     _isTwoWay: 0
   - _start: {x: 0, y: 0, z: 0}
     _end: {x: 0, y: 0, z: 1}
@@ -520,7 +316,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _toolGroupId: Paths
-  _toolOrder: 202
+  _toolOrder: 201
   _layout: 0
   _customPivot:
     _hasCustomPivot: 0
@@ -538,10 +334,10 @@ MonoBehaviour:
   m_Script: {fileID: -296257353, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _displayNameLocKey: KnatteTobbert.MetalStaircase.DisplayName
-  _descriptionLocKey: KnatteTobbert.MetalStaircase.Description
-  _flavorDescriptionLocKey: KnatteTobbert.MetalStaircase.FlavorDiscription
-  _image: {fileID: 21300000, guid: 5604c86b69402f44584b20749fb1673b, type: 3}
+  _displayNameLocKey: KnatteTobbert.StaircaseRight.DisplayName
+  _descriptionLocKey: KnatteTobbert.StaircaseRight.Description
+  _flavorDescriptionLocKey: KnatteTobbert.StaircaseRight.FlavorDiscription
+  _image: {fileID: 21300000, guid: 585660f964294a246af03f63ef9095c7, type: 3}
 --- !u!114 &1007168838181199566
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -554,35 +350,6 @@ MonoBehaviour:
   m_Script: {fileID: -1604455801, guid: fb0076526bca5246b24d6c818d68ce00, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &557469914627019427
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5574067095167738340}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 1933139831, guid: 75be7af0b34ada5bff62a949a3c4181d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _effectSpecifications:
-  - _needId: StairMovementSpeed
-    _pointsPerHour: 1
-    _satisfyToMaxValue: 1
---- !u!114 &412092115142242156
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5574067095167738340}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -1115272012, guid: 75be7af0b34ada5bff62a949a3c4181d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _effectRadius: 0
 --- !u!1 &6736828852267667355
 GameObject:
   m_ObjectHideFlags: 0
@@ -629,90 +396,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 0.1, z: 1}
   m_Center: {x: 0.5, y: 0.05, z: 0.5}
---- !u!1 &8332552494832545156
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1457260238013419752}
-  - component: {fileID: 6246595622063591712}
-  - component: {fileID: 2741602232222095419}
-  m_Layer: 0
-  m_Name: Metal Stairs V3 S.001
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1457260238013419752
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8332552494832545156}
-  m_LocalRotation: {x: 0.000000081460335, y: 0, z: -0, w: 1}
-  m_LocalPosition: {x: -0, y: 0, z: 0}
-  m_LocalScale: {x: 100, y: 100, z: 100}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 7117824420056121759}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!33 &6246595622063591712
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8332552494832545156}
-  m_Mesh: {fileID: -168031610791128990, guid: 74f019fc794269e48851e295128abd0a, type: 3}
---- !u!23 &2741602232222095419
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8332552494832545156}
-  m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 2
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: b0703e4e3a1a3a54987de9a4734686ea, type: 2}
-  - {fileID: 2100000, guid: 8cc6814abf57d22488fc8f74a5712b3b, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &9128524846538296550
 GameObject:
   m_ObjectHideFlags: 0
@@ -797,69 +480,81 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!1001 &987680376780813786
+--- !u!1001 &8653512487438272675
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 1226888942004063654}
     m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: cddec1bf95518414999acef2d6f2b891, type: 3}
+    - target: {fileID: -8679921383154817045, guid: 0e683be730d6de645932ec2d7bb7abe5, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: cddec1bf95518414999acef2d6f2b891, type: 3}
+    - target: {fileID: -8679921383154817045, guid: 0e683be730d6de645932ec2d7bb7abe5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: cddec1bf95518414999acef2d6f2b891, type: 3}
+    - target: {fileID: -8679921383154817045, guid: 0e683be730d6de645932ec2d7bb7abe5, type: 3}
       propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: cddec1bf95518414999acef2d6f2b891, type: 3}
+    - target: {fileID: -8679921383154817045, guid: 0e683be730d6de645932ec2d7bb7abe5, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: cddec1bf95518414999acef2d6f2b891, type: 3}
+    - target: {fileID: -8679921383154817045, guid: 0e683be730d6de645932ec2d7bb7abe5, type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: cddec1bf95518414999acef2d6f2b891, type: 3}
+    - target: {fileID: -8679921383154817045, guid: 0e683be730d6de645932ec2d7bb7abe5, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.000000081460335
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: cddec1bf95518414999acef2d6f2b891, type: 3}
+    - target: {fileID: -8679921383154817045, guid: 0e683be730d6de645932ec2d7bb7abe5, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: cddec1bf95518414999acef2d6f2b891, type: 3}
+    - target: {fileID: -8679921383154817045, guid: 0e683be730d6de645932ec2d7bb7abe5, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: cddec1bf95518414999acef2d6f2b891, type: 3}
+    - target: {fileID: -8679921383154817045, guid: 0e683be730d6de645932ec2d7bb7abe5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: cddec1bf95518414999acef2d6f2b891, type: 3}
+    - target: {fileID: -8679921383154817045, guid: 0e683be730d6de645932ec2d7bb7abe5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: cddec1bf95518414999acef2d6f2b891, type: 3}
+    - target: {fileID: -8679921383154817045, guid: 0e683be730d6de645932ec2d7bb7abe5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -423612721508253678, guid: cddec1bf95518414999acef2d6f2b891, type: 3}
+    - target: {fileID: -5081785940847051209, guid: 0e683be730d6de645932ec2d7bb7abe5, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: e03e7ebc319482a4a85a6facc3a305a5, type: 2}
-    - target: {fileID: 919132149155446097, guid: cddec1bf95518414999acef2d6f2b891, type: 3}
+      objectReference: {fileID: 2100000, guid: d74cd7127cf32b34eba277aa4402e13d, type: 2}
+    - target: {fileID: 919132149155446097, guid: 0e683be730d6de645932ec2d7bb7abe5, type: 3}
       propertyPath: m_Name
-      value: Metal_Staircase2
+      value: Staircase_R (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3522793478766471968, guid: 0e683be730d6de645932ec2d7bb7abe5, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d74cd7127cf32b34eba277aa4402e13d, type: 2}
+    - target: {fileID: 6841735165557636373, guid: 0e683be730d6de645932ec2d7bb7abe5, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d74cd7127cf32b34eba277aa4402e13d, type: 2}
+    - target: {fileID: 7106329027114378289, guid: 0e683be730d6de645932ec2d7bb7abe5, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 87b0a18630b7a224d880505f62b1587b, type: 2}
     m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: cddec1bf95518414999acef2d6f2b891, type: 3}
---- !u!4 &738110318967362097 stripped
+  m_SourcePrefab: {fileID: 100100000, guid: 0e683be730d6de645932ec2d7bb7abe5, type: 3}
+--- !u!4 &9195728936646422344 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: cddec1bf95518414999acef2d6f2b891, type: 3}
-  m_PrefabInstance: {fileID: 987680376780813786}
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 0e683be730d6de645932ec2d7bb7abe5, type: 3}
+  m_PrefabInstance: {fileID: 8653512487438272675}
   m_PrefabAsset: {fileID: 0}

@@ -255,7 +255,7 @@ BoxCollider:
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.7226941, y: 0.17357093, z: 1}
-  m_Center: {x: 0.6386529, y: 0.13678548, z: 0.5}
+  m_Center: {x: 0.3638653, y: 0.1367855, z: 0.5}
 --- !u!65 &5198693466187885817
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -281,7 +281,7 @@ BoxCollider:
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.96603733, y: 1, z: 0.1041981}
-  m_Center: {x: 0.41668984, y: 0.5, z: 0.83266634}
+  m_Center: {x: 0.41668984, y: 0.5, z: 0.9326663}
 --- !u!1 &5574067095167738340
 GameObject:
   m_ObjectHideFlags: 0
@@ -342,7 +342,7 @@ MonoBehaviour:
     _amount: 2
   - _goodId: Plank
     _amount: 4
-  _scienceCost: 200
+  _scienceCost: 120
   _placeFinished: 0
   _finishableWithBeaversOnSite: 0
   _path: 1

@@ -17,7 +17,7 @@ MonoBehaviour:
   Author: KnatteAnka_And_Tobbert
   Name: Staircase
   Description: Staircase
-  Version: 1.3.3
+  Version: 1.3.5
   Dependencies: []
 --- !u!114 &-1800585617083543040
 MonoBehaviour:
@@ -79,6 +79,9 @@ MonoBehaviour:
     - {fileID: 5574067095167738340, guid: 92b6fec50b7ff7b499839a59183ab2fe, type: 3}
     - {fileID: 5574067095167738340, guid: 1c91e38147602994daa22b103772e46a, type: 3}
     - {fileID: 3253139709501052812, guid: 648b7f5d7ce599544b36c4dd886c9932, type: 3}
+    - {fileID: 5574067095167738340, guid: a2a66aec391360549b258b1e0609cf87, type: 3}
+    - {fileID: 5574067095167738340, guid: 04c0d3c951dfbca4c86841c7cf3a59a8, type: 3}
+    - {fileID: 5574067095167738340, guid: fd8463e1c3f3d7e4b901670a4eda661f, type: 3}
 --- !u!114 &7276679206402820566
 MonoBehaviour:
   m_ObjectHideFlags: 0

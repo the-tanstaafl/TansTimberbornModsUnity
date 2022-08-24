@@ -8,7 +8,8 @@ This mod is a collaboration between [Knatte Anka](https://github.com/KnatteAnka)
 
 ## Disclaimer!
 
-This plugin is currently only supported in the **experimental** version of Timberborn.
+This plugin is currently only supported in the **experimental** version of Timberborn.  
+See [Timberborn Modding](https://docs.google.com/spreadsheets/d/15juA0Fl6ZjbYmoNTg_vjMophBvtjMz8YNUI_KmNdtdg/edit?usp=sharing) for latest information what mods work with what version
 
 ## How to use
 
@@ -23,6 +24,18 @@ Recommended way to install this mod is through [Thunderstore](https://timberborn
 In case you experience problems or have any feedback, message us in the modding channel of the the [Timberborn discord](https://discord.gg/mfbBF4cWpX) or message us directly (Tobbert#1607 and Knatte_Anka#6800). We will try to fix it as soon as possible. :D
 
 ## Changelog
+
+### 1.3.5 - 24.08.2022  
+
+- Fix Texture problem that did so they lit up
+- Lower research cost to 120 for staircases
+- Add IronTeeth variant (You will have to unlock it again)
+
+
+### 1.3.4 - 22.08.2022
+- Fix Script bug
+- correct the color of Metal railing
+
 ### 1.3.3 - 17.08.2022
 - Fix category not showing ground only anymore
 

@@ -132,4 +132,8 @@ MonoBehaviour:
   - Ladder.Folktails
   - Ladder.IronTeeth
   - Ladder
-  - StaircasePillar
+  - MetalStaircase.IT
+  - StaircaseLeft.IT
+  - StaircaseRight.IT
+  - DD_SlopeStairs.IronTeeth
+  - DD_SlopeStairs.Folktails
