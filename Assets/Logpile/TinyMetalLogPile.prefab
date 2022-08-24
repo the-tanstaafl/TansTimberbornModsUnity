@@ -589,10 +589,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8644133800304063661, guid: 518ac54a77f82a34cb101f3bfaf6d7d8, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e6662a7842e45584ea18ed2d4331e17c, type: 2}
+    - target: {fileID: -8644133800304063661, guid: 518ac54a77f82a34cb101f3bfaf6d7d8, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3408e422cd046c54a8fbb89a2b5da2ce, type: 2}
+    - target: {fileID: -5911741058551256145, guid: 518ac54a77f82a34cb101f3bfaf6d7d8, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3408e422cd046c54a8fbb89a2b5da2ce, type: 2}
+    - target: {fileID: -334790227101166521, guid: 518ac54a77f82a34cb101f3bfaf6d7d8, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a631b7219013d4c4d979212205c8794b, type: 2}
     - target: {fileID: -334790227101166521, guid: 518ac54a77f82a34cb101f3bfaf6d7d8, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
-      objectReference: {fileID: 1600907432799422738, guid: c984da2860cda3a499bae6a09d7ea787, type: 3}
+      objectReference: {fileID: 2100000, guid: 8cc6814abf57d22488fc8f74a5712b3b, type: 2}
     - target: {fileID: 919132149155446097, guid: 518ac54a77f82a34cb101f3bfaf6d7d8, type: 3}
       propertyPath: m_Name
       value: Metal_TinyLogpile

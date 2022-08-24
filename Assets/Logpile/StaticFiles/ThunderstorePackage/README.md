@@ -6,15 +6,10 @@ This mod adds a new tinylogpile to the game. These will let you Store a small am
 - 1x2 Metal Stackable for Folktale
 
 
-
-## Helper 
-
-This mod is possible thanks to help from [Tobbert](https://github.com/TobbyTheBobby).
-
 ## Disclaimer!
 
-This plugin is currently only supported in the **experimental** version of Timberborn.
-Visual of Logs in the pile is a Work in progress!
+This plugin is currently only supported in the **experimental** version of Timberborn.  
+See [Timberborn Modding](https://docs.google.com/spreadsheets/d/15juA0Fl6ZjbYmoNTg_vjMophBvtjMz8YNUI_KmNdtdg/edit?usp=sharing) for latest information what mods work with what version
 
 ## How to use
 
@@ -28,10 +23,19 @@ Recommended way to install this mod is through [Thunderstore](https://timberborn
 
 In case you experience problems or have any feedback, message us in the modding channel of the the [Timberborn discord](https://discord.gg/mfbBF4cWpX) or message us directly (Knatte_Anka#6800). We will try to fix it as soon as possible. :D
 
+## Helper 
+
+This mod is possible thanks to help from [Tobbert](https://github.com/TobbyTheBobby).
+
 ## Changelog
+### 1.0.5 - 24.8.2022
+
+- Fix textures of Ironteeth LogPile
+
 ### 1.0.4 - 17.8.2022
 
 - Remove some Debug messages
+
 ### 1.0.3 - 9.8.2022
 
 - Bugfix the Bugfix.
