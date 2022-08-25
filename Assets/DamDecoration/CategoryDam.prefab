@@ -48,7 +48,7 @@ MonoBehaviour:
   m_Script: {fileID: -788214902, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _prefabName: CategoryStaircase
+  _prefabName: CategoryDam
   _backwardCompatiblePrefabNames: []
   _requiredFeatureToggle: 
 --- !u!114 &1089410157110530310
@@ -63,7 +63,7 @@ MonoBehaviour:
   m_Script: {fileID: -871492198, guid: c1ff95bb5ae0e8b420075ec58add6f36, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _toolGroupId: Paths
+  _toolGroupId: Landscaping
   _toolOrder: 199
   _layout: 0
   _customPivot:
@@ -82,10 +82,10 @@ MonoBehaviour:
   m_Script: {fileID: -296257353, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _displayNameLocKey: KnatteTobbert.Staircases.DisplayName
+  _displayNameLocKey: Knatte.CategoryDam.DisplayName
   _descriptionLocKey: 
   _flavorDescriptionLocKey: 
-  _image: {fileID: 21300000, guid: fe66744d769722e47ac517de3d194eaf, type: 3}
+  _image: {fileID: 21300000, guid: 84a6f5d66c8c0c145828283077a6e41a, type: 3}
 --- !u!114 &1248021033320585454
 MonoBehaviour:
   m_ObjectHideFlags: 0

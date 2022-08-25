@@ -18,10 +18,6 @@ See [Timberborn Modding](https://docs.google.com/spreadsheets/d/15juA0Fl6ZjbYmoN
 You will find the Dam decoration pieces under the Landscape tab. 
 And the Sloped Stair and Pillar under Path Tab
 
-## Known Limitations
-
-- Path markers is not working where platform and Decpration piece is in the same box  
-
 ## Installing
 
 Recommended way to install this mod is through [Thunderstore](https://timberborn.thunderstore.io/). This plugin is dependent on the magnificent [TimberAPI](https://github.com/Timberborn-Modding-Central/TimberAPI).

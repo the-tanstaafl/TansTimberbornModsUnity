@@ -148,7 +148,7 @@ MonoBehaviour:
     _amount: 4
   - _goodId: Plank
     _amount: 4
-  _scienceCost: 70
+  _scienceCost: 90
   _placeFinished: 0
   _finishableWithBeaversOnSite: 0
   _path: 1
@@ -281,9 +281,9 @@ MonoBehaviour:
   m_Script: {fileID: -296257353, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _displayNameLocKey: Building.WoodenStairs.DisplayName
-  _descriptionLocKey: 
-  _flavorDescriptionLocKey: Building.WoodenStairs.FlavorDescription
+  _displayNameLocKey: Knatte.SlopeS.DisplayName
+  _descriptionLocKey: Knatte.SlopeS.Description
+  _flavorDescriptionLocKey: Knatte.SlopeS.FlavorDescription
   _image: {fileID: 21300000, guid: 536a233afa4906d42ad6f5a7d4a23f55, type: 3}
 --- !u!1 &1608166152209549
 GameObject:

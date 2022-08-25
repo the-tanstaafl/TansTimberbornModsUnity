@@ -57,10 +57,10 @@ MonoBehaviour:
   _hasLoopingSound: 0
   _buildingCost:
   - _goodId: Log
-    _amount: 3
+    _amount: 15
   - _goodId: Plank
-    _amount: 3
-  _scienceCost: 10
+    _amount: 12
+  _scienceCost: 250
   _placeFinished: 0
   _finishableWithBeaversOnSite: 1
   _path: 0
@@ -150,9 +150,9 @@ MonoBehaviour:
   m_Script: {fileID: -296257353, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _displayNameLocKey: Knatte.Diagonal.DisplayName
-  _descriptionLocKey: Knatte.Diagonal.Description
-  _flavorDescriptionLocKey: Knatte.Diagonal.FlavorDescription
+  _displayNameLocKey: Knatte.DiagonalS.DisplayName
+  _descriptionLocKey: Knatte.DiagonalS.Description
+  _flavorDescriptionLocKey: Knatte.DiagonalS.FlavorDescription
   _image: {fileID: 21300000, guid: f0fa9bcce8d2cbc4daae352644332144, type: 3}
 --- !u!114 &4440177359970826680
 MonoBehaviour:

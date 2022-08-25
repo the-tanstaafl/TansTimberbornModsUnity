@@ -58,7 +58,7 @@ MonoBehaviour:
   _buildingCost:
   - _goodId: Log
     _amount: 2
-  _scienceCost: 10
+  _scienceCost: 70
   _placeFinished: 0
   _finishableWithBeaversOnSite: 1
   _path: 0

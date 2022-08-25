@@ -229,10 +229,10 @@ MonoBehaviour:
   _buildingCost:
   - _goodId: Log
     _amount: 7
-  _scienceCost: 10
+  _scienceCost: 75
   _placeFinished: 0
   _finishableWithBeaversOnSite: 0
-  _path: 1
+  _path: 0
   _drawRangeBoundsOnIt: 0
   _hasNoRoof: 0
 --- !u!114 &-7649065410785155790
