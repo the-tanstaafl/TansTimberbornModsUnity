@@ -12,6 +12,7 @@ namespace DamDecoration
 {
     [BepInPlugin(PluginGuid, PluginName, PluginVersion)]
     [BepInDependency("com.timberapi.timberapi")]
+    [BepInDependency("tobbert.categorybutton")]
     public class Plugin : BaseUnityPlugin
     {
         public const string PluginGuid = "knatte.damdecoration";

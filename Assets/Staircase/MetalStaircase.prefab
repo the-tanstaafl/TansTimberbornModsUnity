@@ -108,7 +108,7 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: e03e7ebc319482a4a85a6facc3a305a5, type: 2}
-  - {fileID: 2100000, guid: f5095177e463efb4791edf80451f3295, type: 2}
+  - {fileID: 2100000, guid: aaefcecd7e5d72645b9a785895bf7bd4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -191,8 +191,8 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 8cc6814abf57d22488fc8f74a5712b3b, type: 2}
-  - {fileID: 2100000, guid: b0703e4e3a1a3a54987de9a4734686ea, type: 2}
+  - {fileID: 2100000, guid: 77924ff5e6495be49b6efc4c5738fbd5, type: 2}
+  - {fileID: 2100000, guid: 907cc77f7bdeadd4ab9f7d0ae3f43ddf, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -372,8 +372,8 @@ GameObject:
   - component: {fileID: 5860367570422035011}
   - component: {fileID: 2088881534276268686}
   - component: {fileID: 1007168838181199566}
-  - component: {fileID: 557469914627019427}
-  - component: {fileID: 412092115142242156}
+  - component: {fileID: 3803312423908141348}
+  - component: {fileID: 7709666374978399740}
   m_Layer: 0
   m_Name: MetalStaircase
   m_TagString: Untagged
@@ -554,7 +554,7 @@ MonoBehaviour:
   m_Script: {fileID: -1604455801, guid: fb0076526bca5246b24d6c818d68ce00, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &557469914627019427
+--- !u!114 &3803312423908141348
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -569,8 +569,8 @@ MonoBehaviour:
   _effectSpecifications:
   - _needId: StairMovementSpeed
     _pointsPerHour: 1
-    _satisfyToMaxValue: 1
---- !u!114 &412092115142242156
+    _satisfyToMaxValue: 0
+--- !u!114 &7709666374978399740
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -690,8 +690,8 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: b0703e4e3a1a3a54987de9a4734686ea, type: 2}
-  - {fileID: 2100000, guid: 8cc6814abf57d22488fc8f74a5712b3b, type: 2}
+  - {fileID: 2100000, guid: 907cc77f7bdeadd4ab9f7d0ae3f43ddf, type: 2}
+  - {fileID: 2100000, guid: 77924ff5e6495be49b6efc4c5738fbd5, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

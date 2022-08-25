@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 114348988219595795}
   - component: {fileID: 114959368033260412}
   - component: {fileID: 4440177359970826680}
+  - component: {fileID: 4216250952707550837}
   m_Layer: 0
   m_Name: DD_Corner.Folktail
   m_TagString: Untagged
@@ -106,7 +107,7 @@ MonoBehaviour:
     _size: {x: 1, y: 1, z: 1}
     _blockSpecifications:
     - _matterBelow: 1
-      _occupation: 4
+      _occupation: 3
       _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
@@ -129,7 +130,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _toolGroupId: Landscaping
   _toolOrder: 200
-  _layout: 0
+  _layout: 1
   _customPivot:
     _hasCustomPivot: 0
     _coordinates: {x: 0, y: 0, z: 0}
@@ -165,6 +166,21 @@ MonoBehaviour:
   _finishedModel: {fileID: 1966240176357273}
   _unfinishedModel: {fileID: 1907051363735039}
   _finishedUncoveredModel: {fileID: 0}
+--- !u!114 &4216250952707550837
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1892513168112050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 406104335, guid: 79523a2b71f4fae881a60ad2e723d456, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _noAutoWalls: 0
+  _generateFloorsOnStackable: 1
+  _addedEdges: []
 --- !u!1 &1907051363735039
 GameObject:
   m_ObjectHideFlags: 0
@@ -304,8 +320,8 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 87b0a18630b7a224d880505f62b1587b, type: 2}
-  - {fileID: 2100000, guid: d74cd7127cf32b34eba277aa4402e13d, type: 2}
+  - {fileID: 2100000, guid: 77924ff5e6495be49b6efc4c5738fbd5, type: 2}
+  - {fileID: 2100000, guid: ccc8faf8ca17b6a45971c54366e4b8db, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

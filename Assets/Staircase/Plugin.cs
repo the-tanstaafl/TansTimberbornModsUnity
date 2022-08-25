@@ -14,7 +14,7 @@ using Timberborn.Effects;
 using Timberborn.NeedSpecifications;
 using Timberborn.PreviewSystem;
 using TimberbornAPI.AssetLoaderSystem.ResourceAssetPatch;
-using Timberborn.RangedEffectSystem;
+//using Timberborn.RangedEffectSystem;
 using UnityEngine;
 
 
@@ -58,7 +58,7 @@ namespace Staircase
         }
     }
     
-    [HarmonyPatch(typeof(RangedEffectBuilding), "RangeNames", new Type[] { })]
+    /*[HarmonyPatch(typeof(RangedEffectBuilding), "RangeNames", new Type[] { })]
     public class PreventOrangePatch
     {
         static void Postfix(ref IEnumerable<string> __result)
@@ -71,7 +71,7 @@ namespace Staircase
                 }
             }
         }
-    }
+    }*/
     /*
     [HarmonyPatch(typeof(EffectDescriber), "DescribeRangeEffects", new Type[] { typeof(IEnumerable<ContinuousEffectSpecification>), typeof(StringBuilder), typeof(StringBuilder), typeof(int) })]
     public class PreventDescriber2Patch

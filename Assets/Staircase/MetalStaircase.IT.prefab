@@ -108,7 +108,7 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: e03e7ebc319482a4a85a6facc3a305a5, type: 2}
-  - {fileID: 2100000, guid: e6662a7842e45584ea18ed2d4331e17c, type: 2}
+  - {fileID: 2100000, guid: aaefcecd7e5d72645b9a785895bf7bd4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -191,8 +191,8 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 87b0a18630b7a224d880505f62b1587b, type: 2}
-  - {fileID: 2100000, guid: 3e084f4defefcfe49bad8a2b5e30130e, type: 2}
+  - {fileID: 2100000, guid: 251a88476184c8744aa13e98ebf4068f, type: 2}
+  - {fileID: 2100000, guid: 643f26f25e5bccd459f614fce334a262, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -372,8 +372,8 @@ GameObject:
   - component: {fileID: 5860367570422035011}
   - component: {fileID: 2088881534276268686}
   - component: {fileID: 1007168838181199566}
-  - component: {fileID: 557469914627019427}
-  - component: {fileID: 412092115142242156}
+  - component: {fileID: 2790225451862513642}
+  - component: {fileID: 6463039169420516091}
   m_Layer: 0
   m_Name: MetalStaircase.IT
   m_TagString: Untagged
@@ -555,7 +555,20 @@ MonoBehaviour:
   m_Script: {fileID: -1604455801, guid: fb0076526bca5246b24d6c818d68ce00, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &557469914627019427
+--- !u!114 &2790225451862513642
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5574067095167738340}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1115272012, guid: 75be7af0b34ada5bff62a949a3c4181d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _effectRadius: 0
+--- !u!114 &6463039169420516091
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -570,20 +583,7 @@ MonoBehaviour:
   _effectSpecifications:
   - _needId: StairMovementSpeed
     _pointsPerHour: 1
-    _satisfyToMaxValue: 1
---- !u!114 &412092115142242156
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5574067095167738340}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -1115272012, guid: 75be7af0b34ada5bff62a949a3c4181d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _effectRadius: 0
+    _satisfyToMaxValue: 0
 --- !u!1 &6736828852267667355
 GameObject:
   m_ObjectHideFlags: 0
@@ -691,8 +691,8 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3e084f4defefcfe49bad8a2b5e30130e, type: 2}
-  - {fileID: 2100000, guid: 87b0a18630b7a224d880505f62b1587b, type: 2}
+  - {fileID: 2100000, guid: 643f26f25e5bccd459f614fce334a262, type: 2}
+  - {fileID: 2100000, guid: 251a88476184c8744aa13e98ebf4068f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

@@ -185,8 +185,8 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 8cc6814abf57d22488fc8f74a5712b3b, type: 2}
-  - {fileID: 2100000, guid: 8cc6814abf57d22488fc8f74a5712b3b, type: 2}
+  - {fileID: 2100000, guid: 603d50e60e1f65943a759c638076d45e, type: 2}
+  - {fileID: 2100000, guid: 7ef6401bc6766064f8453c131a2c4eac, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -542,7 +542,7 @@ PrefabInstance:
     - target: {fileID: -5081785940847051209, guid: 0e683be730d6de645932ec2d7bb7abe5, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: d74cd7127cf32b34eba277aa4402e13d, type: 2}
+      objectReference: {fileID: 2100000, guid: 2e5d31274a0fbfa4b9c251b701669b71, type: 2}
     - target: {fileID: 919132149155446097, guid: 0e683be730d6de645932ec2d7bb7abe5, type: 3}
       propertyPath: m_Name
       value: Staircase_R
@@ -550,15 +550,15 @@ PrefabInstance:
     - target: {fileID: 3522793478766471968, guid: 0e683be730d6de645932ec2d7bb7abe5, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: d74cd7127cf32b34eba277aa4402e13d, type: 2}
+      objectReference: {fileID: 2100000, guid: 2e5d31274a0fbfa4b9c251b701669b71, type: 2}
     - target: {fileID: 6841735165557636373, guid: 0e683be730d6de645932ec2d7bb7abe5, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: d74cd7127cf32b34eba277aa4402e13d, type: 2}
+      objectReference: {fileID: 2100000, guid: 2e5d31274a0fbfa4b9c251b701669b71, type: 2}
     - target: {fileID: 7106329027114378289, guid: 0e683be730d6de645932ec2d7bb7abe5, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 87b0a18630b7a224d880505f62b1587b, type: 2}
+      objectReference: {fileID: 2100000, guid: 251a88476184c8744aa13e98ebf4068f, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0e683be730d6de645932ec2d7bb7abe5, type: 3}
 --- !u!4 &309311147918462399 stripped

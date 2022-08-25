@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: DarkRailing
-  m_Shader: {fileID: 4800000, guid: 0be74443ce700094f997853de662a1c2, type: 3}
+  m_Shader: {fileID: 4800000, guid: 87f4291917082884daf94c1bc7987b21, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords:
   - _NORMALMAP
@@ -22,11 +22,15 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _AmbientOcclusion:
-        m_Texture: {fileID: 2800000, guid: 6facb13c3cedd8a479706a8d2cbe2fa1, type: 3}
+        m_Texture: {fileID: 2800000, guid: f64fcd6494118814dbff5d2a12006af9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseAlbedoTex:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 64345f85707001b4fa1242a6b0c00e82, type: 3}
+        m_Texture: {fileID: 2800000, guid: 1110aaf377e0a0747a17125529ad98e3, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _CutoutTex:
@@ -41,16 +45,28 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _LightingMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: b10cec33a64a8e140bfb4574ffec29d0, type: 3}
+        m_Texture: {fileID: 2800000, guid: 0c58186bc2bd90241a4a10448acd9138, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: 439b483d485760e4fa501a1d7bf4b491, type: 3}
+        m_Texture: {fileID: 2800000, guid: 34f46d71640f2f64fbe235cac06d4fcf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SplatAlbedoTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SplatFilterTex:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -77,6 +93,7 @@ Material:
     - _Cutout: 0
     - _CutoutWithAlpha: 1
     - _DetailNormalMapScale: 1
+    - _DetailScale: 1
     - _DstBlend: 0
     - _EnvironmentReflections: 1
     - _GlossMapScale: 1
@@ -98,14 +115,18 @@ Material:
     - _Smoothness: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
+    - _SplatFilterInvert: 0
     - _SrcBlend: 1
+    - _SupportsCutout: 0
     - _Surface: 0
     - _UVSec: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
+    - _BaseAlbedoColor: {r: 1, g: 1, b: 1, a: 1}
     - _BaseColor: {r: 0.34509805, g: 0.25882354, b: 0.19607843, a: 1}
     - _Color: {r: 0.85, g: 0.85, b: 0.85, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _SplatAlbedoColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []

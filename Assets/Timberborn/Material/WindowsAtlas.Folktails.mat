@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: WindowsAtlas.Folktails
-  m_Shader: {fileID: 4800000, guid: 0be74443ce700094f997853de662a1c2, type: 3}
+  m_Shader: {fileID: 4800000, guid: 87f4291917082884daf94c1bc7987b21, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -25,11 +25,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _AmbientOcclusion:
-        m_Texture: {fileID: 2800000, guid: 49e1254f04b0eb84cbd0fca1c38aa034, type: 3}
+        m_Texture: {fileID: 2800000, guid: be8d379213643d54bbc189c753ab8566, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: dd4c1b7ed8eaace4d99c947e14d9159b, type: 3}
+        m_Texture: {fileID: 2800000, guid: 08650c4a3bae68046a95eb7cda19b87a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _CutoutTex:
@@ -45,15 +45,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _LightingMap:
-        m_Texture: {fileID: 2800000, guid: e02aa2304a6279a4fa85143ff3e9e6de, type: 3}
+        m_Texture: {fileID: 2800000, guid: 0b9e99b14e053ce4e9994e323bac6ae2, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: ce4c268cf2a20034aa05e33e8632ffa9, type: 3}
+        m_Texture: {fileID: 2800000, guid: 5d867c86c6b2a554292c4a4ae91f3f54, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: f520962af5d04254aa52e0289bc3f7d9, type: 3}
+        m_Texture: {fileID: 2800000, guid: fa91f167350826940bbbaf08920758eb, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
