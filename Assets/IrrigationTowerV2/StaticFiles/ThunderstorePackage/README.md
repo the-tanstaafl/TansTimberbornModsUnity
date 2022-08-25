@@ -28,7 +28,8 @@ Above Statistics converted to Percentage compared to Base game items
 
 ## Disclaimer!
 
-This plugin is currently only supported in the **experimental** version of Timberborn.
+This plugin is currently only supported in the **experimental** version of Timberborn.  
+See [Timberborn Modding](https://docs.google.com/spreadsheets/d/15juA0Fl6ZjbYmoNTg_vjMophBvtjMz8YNUI_KmNdtdg/edit?usp=sharing) for latest information what mods work with what version
 
 
 ## How to use
