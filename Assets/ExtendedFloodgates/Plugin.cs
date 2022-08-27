@@ -18,7 +18,7 @@ namespace WaterAlarm
     {
         public const string PluginGuid = "knatte.floodgates";
         public const string PluginName = "ExtendedFloodgates";
-        public const string PluginVersion = "0.6.1";
+        public const string PluginVersion = "0.6.2";
 
         public static ManualLogSource Log;
 

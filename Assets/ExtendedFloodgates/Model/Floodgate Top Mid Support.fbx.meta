@@ -13,7 +13,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: StealCable
-    second: {fileID: -2612684674792777886, guid: 0c058cbab61c05f45a9f871f2a4ee5c3, type: 3}
+    second: {fileID: 2100000, guid: cf287d0370dd18042aa105d9e86e48a4, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

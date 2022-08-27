@@ -15,18 +15,11 @@
   },
   "CriticalSpriteName": "",
   "CriticalDescriptionLocKey": "",
-  "Bonuses": [{
-    "Id": "Farming",
-    "MultiplierDelta": 0.35
-	},{
-    "Id": "WaterHandling",
-    "MultiplierDelta": 0.25
-	}
-  ],
+  "Bonuses": [],
   "DeathOnMinValue": false,
   "DeathMessageLocKey": "",
   "Effectiveness": 1.0,
   "Wastable": false,
-  "FavorableWellbeing": 1,
-  "PositiveWellbeing": 3
+  "FavorableWellbeing": 6,
+  "PositiveWellbeing": 6
 }

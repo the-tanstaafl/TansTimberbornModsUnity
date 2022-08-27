@@ -27,15 +27,20 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
-### 1.0.1 - 23.8.2022
+### 1.0.2 - 2022-08-25
+
+- Texture: Reduced amount of planks per Square
+- Updated Wellbeing Numbers (Buff Alot)
+
+### 1.0.1 - 2022-08-23
 
 - Fix Hitbox on unbuild Statue.
 
-### 1.0.0 - 20.8.2022
+### 1.0.0 - 2022-08-20
 
 - Add IT variant.
 - Update Need to be faster to fill and last longer.
 
-### 0.5.0 - 20.8.2022
+### 0.5.0 - 2022-08-20
 
 - Released the plugin.

@@ -495,7 +495,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ddeabbe8bd86e7046b44852ea41d14f5, type: 2}
+  - {fileID: 2100000, guid: 40559953cb930c94bb4c2fd22ae04c25, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -622,7 +622,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 8cc6814abf57d22488fc8f74a5712b3b, type: 2}
+  - {fileID: 2100000, guid: 77924ff5e6495be49b6efc4c5738fbd5, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -803,7 +803,7 @@ PrefabInstance:
     - target: {fileID: -6560414963374974618, guid: b4290340ed55eb842a32d4c90f6945e6, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
-      objectReference: {fileID: 2100000, guid: b60fe9c9ac4d2f9409f85b38a695ef84, type: 2}
+      objectReference: {fileID: 2100000, guid: e568c1b25c748b747b2d7882f0d20570, type: 2}
     - target: {fileID: -6560414963374974618, guid: b4290340ed55eb842a32d4c90f6945e6, type: 3}
       propertyPath: m_Materials.Array.data[2]
       value: 
@@ -811,7 +811,7 @@ PrefabInstance:
     - target: {fileID: -1894010833357673166, guid: b4290340ed55eb842a32d4c90f6945e6, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 8cc6814abf57d22488fc8f74a5712b3b, type: 2}
+      objectReference: {fileID: 2100000, guid: 77924ff5e6495be49b6efc4c5738fbd5, type: 2}
     - target: {fileID: 919132149155446097, guid: b4290340ed55eb842a32d4c90f6945e6, type: 3}
       propertyPath: m_Name
       value: Frog Statue
@@ -823,7 +823,7 @@ PrefabInstance:
     - target: {fileID: 6126168450916748872, guid: b4290340ed55eb842a32d4c90f6945e6, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 8cc6814abf57d22488fc8f74a5712b3b, type: 2}
+      objectReference: {fileID: 2100000, guid: 77924ff5e6495be49b6efc4c5738fbd5, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b4290340ed55eb842a32d4c90f6945e6, type: 3}
 --- !u!1 &5331394264017559906 stripped

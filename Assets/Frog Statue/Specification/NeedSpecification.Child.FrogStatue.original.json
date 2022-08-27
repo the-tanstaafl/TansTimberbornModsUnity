@@ -23,6 +23,6 @@
   "DeathMessageLocKey": "",
   "Effectiveness": 1.0,
   "Wastable": false,
-  "FavorableWellbeing": 1,
-  "PositiveWellbeing": 3
+  "FavorableWellbeing": 3,
+  "PositiveWellbeing": 1
 }

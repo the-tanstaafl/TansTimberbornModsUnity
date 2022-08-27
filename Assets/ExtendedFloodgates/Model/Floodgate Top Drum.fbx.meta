@@ -8,7 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: BaseMetal_Folktails
-    second: {fileID: 2100000, guid: 89b5836a8efb4ca41ae0198108cb642d, type: 2}
+    second: {fileID: 2100000, guid: 84ed5939c8cb73d4584147ff799dcfab, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -23,12 +23,17 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: IrregularPlanks_Brown_Folktails
-    second: {fileID: 2100000, guid: b0703e4e3a1a3a54987de9a4734686ea, type: 2}
+    second: {fileID: 2100000, guid: 84ed5939c8cb73d4584147ff799dcfab, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: PaintedMetal_Folktails
-    second: {fileID: 2100000, guid: f5095177e463efb4791edf80451f3295, type: 2}
+    second: {fileID: 2100000, guid: aaefcecd7e5d72645b9a785895bf7bd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StealCable
+    second: {fileID: -2612684674792777886, guid: b2fdb76e3a741864c9a2de8adc1998b7, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

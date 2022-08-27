@@ -433,7 +433,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ddeabbe8bd86e7046b44852ea41d14f5, type: 2}
+  - {fileID: 2100000, guid: 40559953cb930c94bb4c2fd22ae04c25, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -516,7 +516,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 8cc6814abf57d22488fc8f74a5712b3b, type: 2}
+  - {fileID: 2100000, guid: 603d50e60e1f65943a759c638076d45e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -592,23 +592,23 @@ PrefabInstance:
     - target: {fileID: -8644133800304063661, guid: 518ac54a77f82a34cb101f3bfaf6d7d8, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: e6662a7842e45584ea18ed2d4331e17c, type: 2}
+      objectReference: {fileID: 2100000, guid: aaefcecd7e5d72645b9a785895bf7bd4, type: 2}
     - target: {fileID: -8644133800304063661, guid: 518ac54a77f82a34cb101f3bfaf6d7d8, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
-      objectReference: {fileID: 2100000, guid: 3408e422cd046c54a8fbb89a2b5da2ce, type: 2}
+      objectReference: {fileID: 2100000, guid: 84ed5939c8cb73d4584147ff799dcfab, type: 2}
     - target: {fileID: -5911741058551256145, guid: 518ac54a77f82a34cb101f3bfaf6d7d8, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 3408e422cd046c54a8fbb89a2b5da2ce, type: 2}
+      objectReference: {fileID: 2100000, guid: 84ed5939c8cb73d4584147ff799dcfab, type: 2}
     - target: {fileID: -334790227101166521, guid: 518ac54a77f82a34cb101f3bfaf6d7d8, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: a631b7219013d4c4d979212205c8794b, type: 2}
+      objectReference: {fileID: 2100000, guid: b5a5775ad974bf94894be10e62af6e18, type: 2}
     - target: {fileID: -334790227101166521, guid: 518ac54a77f82a34cb101f3bfaf6d7d8, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
-      objectReference: {fileID: 2100000, guid: 8cc6814abf57d22488fc8f74a5712b3b, type: 2}
+      objectReference: {fileID: 2100000, guid: 84ed5939c8cb73d4584147ff799dcfab, type: 2}
     - target: {fileID: 919132149155446097, guid: 518ac54a77f82a34cb101f3bfaf6d7d8, type: 3}
       propertyPath: m_Name
       value: Metal_TinyLogpile
