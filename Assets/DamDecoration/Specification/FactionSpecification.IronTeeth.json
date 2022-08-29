@@ -8,6 +8,13 @@
 	"knatte.damdecoration/knatte_damdecoration/DD_Diagonal_S.IT",
 	"knatte.damdecoration/knatte_damdecoration/DD_SlopeStairs.IT",
 	"knatte.damdecoration/knatte_damdecoration/DD_Pillars.IT",
-	"knatte.damdecoration/knatte_damdecoration/CategoryDam"
+	"knatte.damdecoration/knatte_damdecoration/CategoryDam",
+	"knatte.damdecoration/knatte_damdecoration/DD_Corner2X.IT",
+	"knatte.damdecoration/knatte_damdecoration/DD_IntCorn_S2X.IT",
+	"knatte.damdecoration/knatte_damdecoration/DD_InvCorner2X.IT",
+	"knatte.damdecoration/knatte_damdecoration/DD_InvCornerW2X.IT",
+	"knatte.damdecoration/knatte_damdecoration/DD_Slope2x.IT",
+	"knatte.damdecoration/knatte_damdecoration/DD_CornerSlope.IT",
+	"knatte.damdecoration/knatte_damdecoration/DD_CornerSlope2x.IT"
   ]
 }

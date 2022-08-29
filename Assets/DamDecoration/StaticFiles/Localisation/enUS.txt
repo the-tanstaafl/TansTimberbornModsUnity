@@ -19,17 +19,50 @@ Knatte.InvCornerW.DisplayName,Leeve Internal Corner ,-
 Knatte.InvCornerW.Description,Let the Dam be Cornered.,-
 Knatte.InvCornerW.FlavorDescription,Water will not Pass,-
 
-Knatte.Pillar.DisplayName,Pillar ,-
-Knatte.Pillar.Description,Let it Rise,-
-
-
-Knatte.Slope.DisplayName,Decoration Corner,-
+Knatte.Slope.DisplayName,Decoration Slope,-
 Knatte.Slope.Description,Let the Dam be Sloped.,-
 Knatte.Slope.FlavorDescription,Does not Block Water,-
+
+Knatte.CornerSlope.DisplayName,Decoration Slope Corner,-
+Knatte.CornerSlope.Description,Let the Dam be Cornered.,-
+Knatte.CornerSlope.FlavorDescription,Does not Block Water,-
+
+
+Knatte.Corner2X.DisplayName,Decoration Corner Double Hight,-
+Knatte.Corner2X.Description,Let the Dam be Cornered.,-
+Knatte.Corner2X.FlavorDescription,Does not Block Water,-
+
+Knatte.Diagonal2X.DisplayName,Decoration Diagonal Double Hight,-
+Knatte.Diagonal2X.Description,Let the Dam go to the Side.,-
+Knatte.Diagonal2X.FlavorDescription,Does not Block Water,-
+
+Knatte.InvCornerS2X.DisplayName,Decoration Internal Corner Side Platform Double Hight,-
+Knatte.InvCornerS2X.Description,Let the Dam go to the Side and have Platform.,-
+Knatte.InvCornerS2X.FlavorDescription,Does not Block Water,-
+
+Knatte.InvCorner2X.DisplayName,Decoration Internal Corner Double Hight,-
+Knatte.InvCorner2X.Description,Let the Dam be Cornered.,-
+Knatte.InvCorner2X.FlavorDescription,Does not Block Water,-
+
+Knatte.InvCornerW2X.DisplayName,Leeve Internal Corner Double Hight,-
+Knatte.InvCornerW2X.Description,Let the Dam be Cornered.,-
+Knatte.InvCornerW2X.FlavorDescription,Water will not Pass,-
+
+Knatte.Slope2X.DisplayName,Decoration Slope Double Hight,-
+Knatte.Slope2X.Description,Let the Dam be Sloped.,-
+Knatte.Slope2X.FlavorDescription,Does not Block Water,-
+
+Knatte.CornerSlope2X.DisplayName,Decoration Slope Corner Double Hight,-
+Knatte.CornerSlope2X.Description,Let the Dam be Cornered.,-
+Knatte.CornerSlope2X.FlavorDescription,Does not Block Water,-
+
+
+Knatte.Pillar.DisplayName,Pillar ,-
+Knatte.Pillar.Description,Let it Rise,-
 
 Knatte.SlopeS.DisplayName,Decoration Stair,-
 Knatte.SlopeS.Description,Let the Dam be Stepped on.,-
 Knatte.SlopeS.FlavorDescription,Does not Block Water,-
 
 Knatte.CategoryDam.DisplayName,Decoration Pieces,-
-
+Knatte.CategoryDam.Des,Does not Block Water,-

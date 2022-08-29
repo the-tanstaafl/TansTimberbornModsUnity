@@ -32,6 +32,15 @@ Diagonal piece with Side platform is possible Thanks to Tobbert and his [MorePla
 
 ## Changelog
 
-### 1.0.0 - 22.8.2022
+### 1.2.0 - 2022-08-28
+
+- Added new Block type Corner Slope Both 1 and 2 High
+
+### 1.1.0 - 2022-08-27
+
+- Added 2 High decoration pieces
+- Reworked Prices and Science and Sorting order
+
+### 1.0.0 - 2022-08-22
 
 - Released the plugin.

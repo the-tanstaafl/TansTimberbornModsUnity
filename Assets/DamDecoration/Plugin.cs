@@ -17,7 +17,7 @@ namespace DamDecoration
     {
         public const string PluginGuid = "knatte.damdecoration";
         public const string PluginName = "DamDecoration";
-        public const string PluginVersion = "1.0.0";
+        public const string PluginVersion = "1.2.0";
 
         public static ManualLogSource Log;
 

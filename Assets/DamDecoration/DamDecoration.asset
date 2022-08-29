@@ -17,7 +17,7 @@ MonoBehaviour:
   Author: KnatteAnka
   Name: DamDecoration
   Description: DamDecoration
-  Version: 1.0.0
+  Version: 1.2.0
   Dependencies: []
 --- !u!114 &-1800585617083543040
 MonoBehaviour:
@@ -92,6 +92,20 @@ MonoBehaviour:
     - {fileID: 5574067095167738340, guid: 3412e9a7284682343afdff36bd345423, type: 3}
     - {fileID: 1080285806060687, guid: 524cce8338817dc458ffe55adcabd2c5, type: 3}
     - {fileID: 3253139709501052812, guid: 1d9c11c2064352f47a672ec086704b7f, type: 3}
+    - {fileID: 1892513168112050, guid: 38f94a4bc91c0814aa6431e884b7d660, type: 3}
+    - {fileID: 1892513168112050, guid: 74fe26e33fe90a144a48441cb286acb1, type: 3}
+    - {fileID: 5574067095167738340, guid: 146c7b6f280a3de4a8a69d9e79b73e21, type: 3}
+    - {fileID: 5574067095167738340, guid: 62650b165396a2442a9e93d4e9e97d17, type: 3}
+    - {fileID: 5574067095167738340, guid: cc4ab63c6eb1aa54d9b64616ce2edc72, type: 3}
+    - {fileID: 1892513168112050, guid: 8c7e0b60deeb48e4f969fa81497abfee, type: 3}
+    - {fileID: 1892513168112050, guid: fa0c17f1253f2a54eb2d0a5cd1b3f2b4, type: 3}
+    - {fileID: 5574067095167738340, guid: 599563cbbf8f7af459aa3f1f37669525, type: 3}
+    - {fileID: 5574067095167738340, guid: 880f5e1c06e346d46898b52d1328f88c, type: 3}
+    - {fileID: 5574067095167738340, guid: 5f1a7d9e691e1d7439262c0fedee444c, type: 3}
+    - {fileID: 5574067095167738340, guid: e4a78b7f9addeb64e93f6b640b997540, type: 3}
+    - {fileID: 5574067095167738340, guid: 9494da3ac7c965c4fa3fdaf8e1428f1b, type: 3}
+    - {fileID: 5574067095167738340, guid: 61aa1f5e37199cb418e3bb7bee91ba6c, type: 3}
+    - {fileID: 5574067095167738340, guid: e6c788c4d067cf1459dda7dc86eeacdf, type: 3}
 --- !u!114 &7276679206402820566
 MonoBehaviour:
   m_ObjectHideFlags: 0

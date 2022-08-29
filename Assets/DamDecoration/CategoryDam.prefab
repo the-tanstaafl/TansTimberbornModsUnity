@@ -64,7 +64,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _toolGroupId: Landscaping
-  _toolOrder: 199
+  _toolOrder: 24
   _layout: 0
   _customPivot:
     _hasCustomPivot: 0
@@ -83,7 +83,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _displayNameLocKey: Knatte.CategoryDam.DisplayName
-  _descriptionLocKey: 
+  _descriptionLocKey: Knatte.CategoryDam.Des
   _flavorDescriptionLocKey: 
   _image: {fileID: 21300000, guid: 84a6f5d66c8c0c145828283077a6e41a, type: 3}
 --- !u!114 &1248021033320585454
@@ -134,3 +134,15 @@ MonoBehaviour:
   - DD_InvCorner.IT
   - DD_Slope.Folktail
   - DD_Slope.IT
+  - DD_Corner2X.Folktail
+  - DD_InvCorner2X.Folktail
+  - DD_IntCorn_S2X.Folktail
+  - DD_Slope2x.Folktail
+  - DD_Corner2X.IT
+  - DD_InvCorner2X.IT
+  - DD_IntCorn_S2X.IT
+  - DD_Slope2x.IT
+  - DD_CornerSlope.Folktail
+  - DD_CornerSlope2x.Folktail
+  - DD_CornerSlope2x.IT
+  - DD_CornerSlope.IT
