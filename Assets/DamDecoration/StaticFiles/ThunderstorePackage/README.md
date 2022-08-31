@@ -32,7 +32,13 @@ Diagonal piece with Side platform is possible Thanks to Tobbert and his [MorePla
 
 ## Changelog
 
-### 1.2.1 - 2022-08-28
+### 1.2.2 - 2022-08-31
+
+- Add Diagonal Levee that block water
+- Fix the Pillar fix
+
+
+### 1.2.1 - 2022-08-31
 
 - Add info that decoration pieces do not stop water
 - Fix so pillar upper part takes full space. to not allow stairs under it and beavers going thrue braces.

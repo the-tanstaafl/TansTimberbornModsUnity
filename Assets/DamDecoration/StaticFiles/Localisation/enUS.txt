@@ -11,6 +11,10 @@ Knatte.DiagonalS.DisplayName,Decoration Diagonal Side Platform,-
 Knatte.DiagonalS.Description,Let the Dam go to the Side and have Platform.,-
 Knatte.DiagonalS.FlavorDescription,Does not Block Water,-
 
+Knatte.DiagonalW.DisplayName,Leeve Diagonal,-
+Knatte.DiagonalW.Description,Let the Dam go to the Side.,-
+Knatte.DiagonalW.FlavorDescription,Water will not Pass,-
+
 Knatte.InvCorner.DisplayName,Decoration Internal Corner,-
 Knatte.InvCorner.Description,Let the Dam be Cornered.,-
 Knatte.InvCorner.FlavorDescription,Does not Block Water,-

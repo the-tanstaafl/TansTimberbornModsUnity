@@ -17,7 +17,7 @@ MonoBehaviour:
   Author: KnatteAnka
   Name: DamDecoration
   Description: DamDecoration
-  Version: 1.2.1
+  Version: 1.2.2
   Dependencies: []
 --- !u!114 &-1800585617083543040
 MonoBehaviour:
@@ -107,6 +107,8 @@ MonoBehaviour:
     - {fileID: 5574067095167738340, guid: 61aa1f5e37199cb418e3bb7bee91ba6c, type: 3}
     - {fileID: 5574067095167738340, guid: e6c788c4d067cf1459dda7dc86eeacdf, type: 3}
     - {fileID: 1080285806060687, guid: e9edb7b725b27804fa2e60811d0b30d2, type: 3}
+    - {fileID: 1892513168112050, guid: 16ccfade63176b84ba44c43efffc0893, type: 3}
+    - {fileID: 1892513168112050, guid: d2725e7e573fdb441bb67a097f451f03, type: 3}
 --- !u!114 &7276679206402820566
 MonoBehaviour:
   m_ObjectHideFlags: 0
