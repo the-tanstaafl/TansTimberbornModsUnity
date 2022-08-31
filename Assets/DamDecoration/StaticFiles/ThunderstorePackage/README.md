@@ -32,6 +32,11 @@ Diagonal piece with Side platform is possible Thanks to Tobbert and his [MorePla
 
 ## Changelog
 
+### 1.2.1 - 2022-08-28
+
+- Add info that decoration pieces do not stop water
+- Fix so pillar upper part takes full space. to not allow stairs under it and beavers going thrue braces.
+
 ### 1.2.0 - 2022-08-28
 
 - Added new Block type Corner Slope Both 1 and 2 High

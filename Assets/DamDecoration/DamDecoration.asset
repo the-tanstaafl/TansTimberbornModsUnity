@@ -17,7 +17,7 @@ MonoBehaviour:
   Author: KnatteAnka
   Name: DamDecoration
   Description: DamDecoration
-  Version: 1.2.0
+  Version: 1.2.1
   Dependencies: []
 --- !u!114 &-1800585617083543040
 MonoBehaviour:
@@ -75,23 +75,23 @@ MonoBehaviour:
   assetBundles:
   - assetBundleName: Knatte_DamDecoration
     assets:
+    - {fileID: 1080285806060687, guid: 4616a31de55f949458136e98159343db, type: 3}
+    - {fileID: 1080285806060687, guid: 524cce8338817dc458ffe55adcabd2c5, type: 3}
+    - {fileID: 5574067095167738340, guid: 8b0b99fd9da8f5c4588426ffff1005b1, type: 3}
+    - {fileID: 5574067095167738340, guid: eebee4c961a2c03449793ea57f730fb1, type: 3}
+    - {fileID: 1892513168112050, guid: 4fc02f3661563ab4082df6196d67cbd8, type: 3}
+    - {fileID: 1892513168112050, guid: ff3ad38ad89066f4d83bd62a945f9f89, type: 3}
+    - {fileID: 3253139709501052812, guid: 1d9c11c2064352f47a672ec086704b7f, type: 3}
     - {fileID: 5574067095167738340, guid: 373b97457439d2e45b47094d04cab99c, type: 3}
     - {fileID: 5574067095167738340, guid: cd3a74889f03dc648866b2fb5a662475, type: 3}
     - {fileID: 1892513168112050, guid: d504dd07e9cef73488757cb6a07bf5c4, type: 3}
-    - {fileID: 1892513168112050, guid: 4fc02f3661563ab4082df6196d67cbd8, type: 3}
     - {fileID: 5574067095167738340, guid: b5c14169ccda2b8429787546a15397b0, type: 3}
-    - {fileID: 1445831685699144, guid: d22567506cbf76f48861090908c5e66f, type: 3}
     - {fileID: 1892513168112050, guid: 72482fb361e924649b61b5f3f468693d, type: 3}
-    - {fileID: 5574067095167738340, guid: eebee4c961a2c03449793ea57f730fb1, type: 3}
     - {fileID: 1892513168112050, guid: 1bab1ff17200c7c46b8aba610ea29e6d, type: 3}
-    - {fileID: 1892513168112050, guid: ff3ad38ad89066f4d83bd62a945f9f89, type: 3}
     - {fileID: 1892513168112050, guid: 10bb4ef56efba01459c2742d872ba1b2, type: 3}
     - {fileID: 5574067095167738340, guid: 85135b5db62880043b1dbffb0dece833, type: 3}
     - {fileID: 5574067095167738340, guid: e26d7e0190f478a4ca7961d63a0b48d5, type: 3}
-    - {fileID: 5574067095167738340, guid: 8b0b99fd9da8f5c4588426ffff1005b1, type: 3}
     - {fileID: 5574067095167738340, guid: 3412e9a7284682343afdff36bd345423, type: 3}
-    - {fileID: 1080285806060687, guid: 524cce8338817dc458ffe55adcabd2c5, type: 3}
-    - {fileID: 3253139709501052812, guid: 1d9c11c2064352f47a672ec086704b7f, type: 3}
     - {fileID: 1892513168112050, guid: 38f94a4bc91c0814aa6431e884b7d660, type: 3}
     - {fileID: 1892513168112050, guid: 74fe26e33fe90a144a48441cb286acb1, type: 3}
     - {fileID: 5574067095167738340, guid: 146c7b6f280a3de4a8a69d9e79b73e21, type: 3}
@@ -106,6 +106,7 @@ MonoBehaviour:
     - {fileID: 5574067095167738340, guid: 9494da3ac7c965c4fa3fdaf8e1428f1b, type: 3}
     - {fileID: 5574067095167738340, guid: 61aa1f5e37199cb418e3bb7bee91ba6c, type: 3}
     - {fileID: 5574067095167738340, guid: e6c788c4d067cf1459dda7dc86eeacdf, type: 3}
+    - {fileID: 1080285806060687, guid: e9edb7b725b27804fa2e60811d0b30d2, type: 3}
 --- !u!114 &7276679206402820566
 MonoBehaviour:
   m_ObjectHideFlags: 0
