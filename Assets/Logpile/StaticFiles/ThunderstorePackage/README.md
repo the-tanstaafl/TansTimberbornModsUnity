@@ -28,27 +28,32 @@ In case you experience problems or have any feedback, message us in the modding 
 This mod is possible thanks to help from [Tobbert](https://github.com/TobbyTheBobby).
 
 ## Changelog
-### 1.0.5 - 24.8.2022
+
+### 1.0.6 - 2022-09-03
+
+- Add japanese translation by sukunabikona
+
+### 1.0.5 - 2022-08-24
 
 - Fix textures of Ironteeth LogPile
 
-### 1.0.4 - 17.8.2022
+### 1.0.4 - 2022-08-17
 
 - Remove some Debug messages
 
-### 1.0.3 - 9.8.2022
+### 1.0.3 - 2022-08-09
 
 - Bugfix the Bugfix.
 
-### 1.0.2 - 9.8.2022
+### 1.0.2 - 2022-08-09
 
 - Bugfix placment of logs on normal parts.
 
-### 1.0.1 - 9.8.2022
+### 1.0.1 - 2022-08-09
 
 - Bugfix Building of Metal Stackable logpile
 - Fix placement of logs to not go outside the part
 
-### 1.0.0 - 8.8.2022
+### 1.0.0 - 2022-08-08
 
 - Released the plugin.

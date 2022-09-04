@@ -15,8 +15,8 @@ MonoBehaviour:
   StagingPaths:
   - <ManifestPluginStaging>
   Author: KnatteAnka
-  Name: IrigationTowerV2
-  Description: IrigationTowerV2
+  Name: WaterExtention
+  Description: WaterExtention
   Version: 1.0.0
   Dependencies: []
 --- !u!114 &-1800585617083543040
@@ -73,8 +73,9 @@ MonoBehaviour:
   - <ManifestPluginStaging>/assets
   - <ThunderstorePackage>/<ManifestName>/plugins/assets
   assetBundles:
-  - assetBundleName: Knatte_IrrigationTowerV2
+  - assetBundleName: Knatte_WaterExtention
     assets:
+    - {fileID: 1035958969740901, guid: 5e8a31b120c4b084ca08e965a8501704, type: 3}
     - {fileID: 1035958969740901, guid: a43111de37aa61e4db559e587fee44c7, type: 3}
 --- !u!114 &7276679206402820566
 MonoBehaviour:
@@ -91,9 +92,9 @@ MonoBehaviour:
   StagingPaths:
   - <ThunderstorePackage>
   files:
-  - {fileID: 2800000, guid: 333de6a986737474a8a59c5386e715c2, type: 3}
-  - {fileID: 4900000, guid: cd694a39d9a31124a93695ee6337738c, type: 3}
-  - {fileID: 4900000, guid: 4d672f40a8a20c149ace7d88bc38a4ea, type: 3}
+  - {fileID: 2800000, guid: 21d58d49d02c6414184108a09b3b1a10, type: 3}
+  - {fileID: 4900000, guid: c0a58d85c0956054db8b831f8f4a4e18, type: 3}
+  - {fileID: 4900000, guid: d8a2b3fa0cdfc56488b5fba716b3efe3, type: 3}
 --- !u!114 &7788702448107751720
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -110,7 +111,7 @@ MonoBehaviour:
   - <ManifestPluginStaging>/Specifications
   - <ThunderstorePackage>/<ManifestName>/plugins/Specifications
   files:
-  - {fileID: 4900000, guid: 6a6ec1eb40b1ef842b314c035d654a8f, type: 3}
+  - {fileID: 4900000, guid: 282121e0db5bc8744839a18f8c12c5eb, type: 3}
 --- !u!114 &9120418034178625098
 MonoBehaviour:
   m_ObjectHideFlags: 0

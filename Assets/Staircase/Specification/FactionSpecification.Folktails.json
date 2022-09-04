@@ -6,6 +6,6 @@
 	"knattetobbert.staircase/knattetobbert_staircase/CategoryStaircase"
   ],
   "Needs": [
-    "StairMovementSpeed"
+    "MetalStaircaseNeed"
   ]
 }

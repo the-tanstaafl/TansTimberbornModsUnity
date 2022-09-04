@@ -27,7 +27,7 @@ namespace Staircase
     {
         public const string PluginGuid = "knattetobbert.staircase";
         public const string PluginName = "Staircase";
-        public const string PluginVersion = "1.3.5";
+        public const string PluginVersion = "1.3.7";
 
         public static ManualLogSource Log;
 
@@ -38,10 +38,10 @@ namespace Staircase
             Log.LogInfo($"Loaded {PluginName} Version: {PluginVersion}!");
 
             TimberAPI.AssetRegistry.AddSceneAssets(PluginGuid, SceneEntryPoint.Global);
-            new Harmony(PluginGuid).PatchAll();
+            //new Harmony(PluginGuid).PatchAll();
         }
     }
-    [HarmonyPatch(typeof(Debug), "LogWarning", typeof(object))]
+    /*[HarmonyPatch(typeof(Debug), "LogWarning", typeof(object))]
     public class LogWarningPatch
     {
         static bool Prefix(object message, bool __runOriginal)
@@ -56,7 +56,7 @@ namespace Staircase
             }
             return __runOriginal;
         }
-    }
+    }*/
     
     /*[HarmonyPatch(typeof(RangedEffectBuilding), "RangeNames", new Type[] { })]
     public class PreventOrangePatch

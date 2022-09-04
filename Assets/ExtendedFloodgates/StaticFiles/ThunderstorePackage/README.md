@@ -24,6 +24,17 @@ In case you experience problems, message me in the modding channel of the the [T
 
 ## Changelog
 
+### 0.6.5 - 2022-09-04
+ - hotfix japanese
+
+### 0.6.4 - 2022-09-03
+- Add japanese translation by sukunabikona
+- Moved categoy so its before Damdecoation category
+
+### 0.6.3 - 2022-09-03
+
+- Fix 9 height grafics glitch
+
 ### 0.6.2 - 2022-08-25
 
 - Fix Level 9/10 having costs switched

@@ -135,6 +135,8 @@ MonoBehaviour:
   - MetalStaircase.IT
   - StaircaseLeft.IT
   - StaircaseRight.IT
-  - DD_SlopeStairs.IronTeeth
-  - DD_SlopeStairs.Folktails
-  - S_Stair
+  - DD_SlopeStairs.IT
+  - DD_SlopeStairs.Folktail
+  - MarbleStaircaseLeft
+  - MarbleStaircaseMiddle
+  - MarbleStaircaseRight

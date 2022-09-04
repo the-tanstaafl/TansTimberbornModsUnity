@@ -1,0 +1,11 @@
+ID,Text,Comment
+KnatteTobbert.TinyLogPile.DisplayName,極小の丸太置き場,-
+KnatteTobbert.TinyLogPile.Description,極小の丸太置き場。,-
+KnatteTobbert.TinyLogPile.FlavorDescription,ミニチュアサイズの丸太置き場。,-
+KnatteTobbert.IndustrialTinylogpile.DisplayName,極小の工業用丸太置き場,-
+KnatteTobbert.IndustrialTinylogpile.Description,極小の工業用丸太置き場。,-
+KnatteTobbert.IndustrialTinylogpile.FlavorDescription,ミニチュアサイズの丸太置き場。,-
+KnatteTobbert.TinyMetalLogPile.DisplayName,極小の金属製丸太置き場,-
+KnatteTobbert.TinyMetalLogPile.Description,極小の金属製丸太置き場。,-
+KnatteTobbert.TinyMetalLogPile.FlavorDescription,ミニチュアサイズの丸太置き場。,-
+

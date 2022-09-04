@@ -27,6 +27,17 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
+### 1.0.5 - 2022-09-04
+ - Hotfix japanese
+
+### 1.0.4 - 2022-09-03
+
+- Add japanese translation by sukunabikona
+
+### 1.0.3 - 2022-09-02
+
+- Fix Crash since last update.
+
 ### 1.0.2 - 2022-08-25
 
 - Texture: Reduced amount of planks per Square

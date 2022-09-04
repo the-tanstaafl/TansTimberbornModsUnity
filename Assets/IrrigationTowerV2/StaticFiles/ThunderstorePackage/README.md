@@ -34,7 +34,7 @@ See [Timberborn Modding](https://docs.google.com/spreadsheets/d/15juA0Fl6ZjbYmoN
 
 ## How to use
 
-You will find the Frog Statue under the Wellbeing tab. 
+You will find the Irrigation Tower V2 under the Water tab. 
 
 ## Installing
 
@@ -45,11 +45,20 @@ Recommended way to install this mod is through [Thunderstore](https://timberborn
 In case you experience problems or have any feedback, message us in the modding channel of the the [Timberborn discord](https://discord.gg/mfbBF4cWpX) or message us directly (Knatte_Anka#6800). We will try to fix it as soon as possible. :D
 
 ## Changelog
+### 1.0.4 - 2022-09-04
+- Hotfix japanese
 
-### 1.0.1 - 22.8.2022
+### 1.0.3 - 2022-09-03
+- Add japanese translation by sukunabikona
+
+### 1.0.2 - 2022-09-03
+ 
+ - Fix crash since latest game version
+
+### 1.0.1 - 2022-08-22
  
  - Fix Description
 
-### 1.0.0 - 22.8.2022
+### 1.0.0 - 2022-08-22
 
 - Released the plugin.

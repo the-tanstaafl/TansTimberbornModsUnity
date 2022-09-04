@@ -17,11 +17,11 @@ GameObject:
   - component: {fileID: 114348988219595795}
   - component: {fileID: 114959368033260412}
   - component: {fileID: 4440177359970826680}
-  - component: {fileID: 2514481571801239041}
   - component: {fileID: -6208596937050152778}
   - component: {fileID: -8706437357016037861}
   - component: {fileID: 8301357133823993450}
   - component: {fileID: -7062841016316864185}
+  - component: {fileID: -8511454829473247579}
   m_Layer: 0
   m_Name: FrogStatue.IronTeeth
   m_TagString: Untagged
@@ -225,22 +225,6 @@ MonoBehaviour:
   _finishedModel: {fileID: 1966240176357273}
   _unfinishedModel: {fileID: 1907051363735039}
   _finishedUncoveredModel: {fileID: 0}
---- !u!114 &2514481571801239041
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1892513168112050}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -634080272, guid: 155d71f0a7a2317772ec1e43992c8879, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _effectSpecifications:
-  - _needId: FrogStatue
-    _pointsPerHour: 1.5
-    _satisfyToMaxValue: 0
 --- !u!114 &-6208596937050152778
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -298,6 +282,22 @@ MonoBehaviour:
   m_Script: {fileID: 294790411, guid: b6cb9fb40e6a9dd39b069e7f18c050b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &-8511454829473247579
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1892513168112050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -634080272, guid: 155d71f0a7a2317772ec1e43992c8879, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _effectSpecifications:
+  - _needId: FrogStatue
+    _pointsPerHour: 1.5
+    _satisfyToMaxValue: 0
 --- !u!1 &1907051363735039
 GameObject:
   m_ObjectHideFlags: 0

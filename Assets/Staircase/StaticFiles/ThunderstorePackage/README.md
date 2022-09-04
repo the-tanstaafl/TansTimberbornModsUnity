@@ -25,6 +25,14 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
+### 1.3.7 - 2022-09-03
+- Fix Metal staircase need
+- Add japanese translation by sukunabikona
+
+### 1.3.6 - 24.08.2022  
+
+- Temporary fix by disabling any bonus from Metal stair
+
 ### 1.3.5 - 24.08.2022  
 
 - Fix Texture problem that did so they lit up

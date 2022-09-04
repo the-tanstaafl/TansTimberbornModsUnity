@@ -1,0 +1,4 @@
+ID,Text,Comment
+Knatte.IrrigationTowerV2.DisplayName,給水塔 Ver.2,-
+Knatte.IrrigationTowerV2.Description,より少ない水消費で広範囲を灌漑する。,
+

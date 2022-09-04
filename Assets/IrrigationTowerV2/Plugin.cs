@@ -16,7 +16,7 @@ namespace IrrigationTowerV2
     {
         public const string PluginGuid = "knatte.irrigationtowerv2";
         public const string PluginName = "IrrigationTowerV2";
-        public const string PluginVersion = "1.0.0";
+        public const string PluginVersion = "1.0.4";
 
         public static ManualLogSource Log;
 

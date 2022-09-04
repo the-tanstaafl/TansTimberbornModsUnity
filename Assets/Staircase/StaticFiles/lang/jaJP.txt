@@ -1,0 +1,16 @@
+ID,Text,Comment
+KnatteTobbert.StaircaseRight.DisplayName,螺旋階段 右,-
+KnatteTobbert.StaircaseRight.Description,右に曲がる階段。（時計回りに上がる）,-
+KnatteTobbert.StaircaseRight.FlavorDiscription,真ん中の丸太がデカい。,-
+
+KnatteTobbert.StaircaseLeft.DisplayName,螺旋階段 左,-
+KnatteTobbert.StaircaseLeft.Description,左に曲がる階段。（反時計回りに上がる）,-
+KnatteTobbert.StaircaseLeft.FlavorDiscription,真ん中の丸太がデカい。,-
+
+KnatteTobbert.MetalStaircase.DisplayName,金属製の階段,-
+KnatteTobbert.MetalStaircase.Description,金属で作られた良い階段。,-
+KnatteTobbert.MetalStaircase.FlavorDiscription,錆びなきゃ良いけど。,-
+
+KnatteTobbert.Staircases.DisplayName,階段,-
+
+KnatteTobbert.MetalStaircaseNeed.DisplaynameLocKey,金属製の階段,-

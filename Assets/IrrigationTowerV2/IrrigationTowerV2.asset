@@ -17,7 +17,7 @@ MonoBehaviour:
   Author: KnatteAnka
   Name: IrigationTowerV2
   Description: IrigationTowerV2
-  Version: 1.0.0
+  Version: 1.0.4
   Dependencies: []
 --- !u!114 &-1800585617083543040
 MonoBehaviour:
@@ -124,7 +124,7 @@ MonoBehaviour:
   m_Name: Files
   m_EditorClassIdentifier: 
   StagingPaths:
-  - <ManifestPluginStaging>/lang
-  - <ThunderstorePackage>/<ManifestName>/plugins/lang
+  - <ManifestPluginStaging>/
+  - <ThunderstorePackage>/<ManifestName>/plugins/
   files:
-  - {fileID: 4900000, guid: 9698c31bbdd002d4f9afa9a154e4a567, type: 3}
+  - {fileID: 102900000, guid: 688057bd96889604bb0cca527496411a, type: 3}

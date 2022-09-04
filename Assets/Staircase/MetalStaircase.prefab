@@ -372,8 +372,8 @@ GameObject:
   - component: {fileID: 5860367570422035011}
   - component: {fileID: 2088881534276268686}
   - component: {fileID: 1007168838181199566}
-  - component: {fileID: 3803312423908141348}
-  - component: {fileID: 7709666374978399740}
+  - component: {fileID: 8576299015660128001}
+  - component: {fileID: 8994676432838674294}
   m_Layer: 0
   m_Name: MetalStaircase
   m_TagString: Untagged
@@ -554,7 +554,20 @@ MonoBehaviour:
   m_Script: {fileID: -1604455801, guid: fb0076526bca5246b24d6c818d68ce00, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &3803312423908141348
+--- !u!114 &8576299015660128001
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5574067095167738340}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1115272012, guid: 75be7af0b34ada5bff62a949a3c4181d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _effectRadius: 1
+--- !u!114 &8994676432838674294
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -567,22 +580,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _effectSpecifications:
-  - _needId: StairMovementSpeed
+  - _needId: MetalStaircaseNeed
     _pointsPerHour: 1
     _satisfyToMaxValue: 0
---- !u!114 &7709666374978399740
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5574067095167738340}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -1115272012, guid: 75be7af0b34ada5bff62a949a3c4181d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _effectRadius: 0
 --- !u!1 &6736828852267667355
 GameObject:
   m_ObjectHideFlags: 0

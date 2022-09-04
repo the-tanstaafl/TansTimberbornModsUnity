@@ -396,7 +396,7 @@ MonoBehaviour:
   _workerBonuses:
   - _bonusId: CarryingCapacity
     _multiplierDelta: 0.5
-  - _bonusId: WalkingSpeed
+  - _bonusId: MovementSpeed
     _multiplierDelta: 0.2
 --- !u!1 &1143749292812006
 GameObject:

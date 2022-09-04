@@ -8,14 +8,14 @@ using TimberbornAPI.Common;
 //using UnityEngine;
 using HarmonyLib;
 
-namespace IrrigationTowerV2
+namespace WaterExtention
 {
     [BepInPlugin(PluginGuid, PluginName, PluginVersion)]
     [BepInDependency("com.timberapi.timberapi")]
     public class Plugin : BaseUnityPlugin
     {
-        public const string PluginGuid = "knatte.irrigationtowerv2";
-        public const string PluginName = "IrrigationTowerV2";
+        public const string PluginGuid = "knatte.waterextention";
+        public const string PluginName = "WaterExtention";
         public const string PluginVersion = "1.0.0";
 
         public static ManualLogSource Log;

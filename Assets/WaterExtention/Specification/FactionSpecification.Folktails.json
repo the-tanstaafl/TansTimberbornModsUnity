@@ -1,5 +1,9 @@
 {
   "UniqueBuildings": [
-    "knatte.irrigationtowerv2/knatte_irrigationtowerv2/IrrigationTowerV2.Folktails"
-  ]
+    "knatte.waterextention/knatte_waterextention/IrrigationTowerV2.Folktails",
+
+  ],
+  "CommonBuildings": [
+    "knatte.waterextention/knatte_waterextention/IndustWaterTank.Folktails",
+  ]  
 }
