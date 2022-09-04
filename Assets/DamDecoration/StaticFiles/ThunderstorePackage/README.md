@@ -32,6 +32,11 @@ Diagonal piece with Side platform is possible Thanks to Tobbert and his [MorePla
 
 ## Changelog
 
+### 1.2.3 - 2022-09-03
+
+- Add japanese translation by sukunabikona
+
+
 ### 1.2.2 - 2022-08-31
 
 - Add Diagonal Levee that block water

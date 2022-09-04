@@ -304,7 +304,7 @@ GameObject:
   - component: {fileID: 2088881534276268686}
   - component: {fileID: -8726437569665399324}
   m_Layer: 0
-  m_Name: DD_CornerSlope.Folktail
+  m_Name: DD_CornerSlope
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

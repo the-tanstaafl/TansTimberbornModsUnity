@@ -17,7 +17,7 @@ MonoBehaviour:
   Author: KnatteAnka
   Name: DamDecoration
   Description: DamDecoration
-  Version: 1.2.2
+  Version: 1.2.3
   Dependencies: []
 --- !u!114 &-1800585617083543040
 MonoBehaviour:
@@ -81,7 +81,6 @@ MonoBehaviour:
     - {fileID: 5574067095167738340, guid: eebee4c961a2c03449793ea57f730fb1, type: 3}
     - {fileID: 1892513168112050, guid: 4fc02f3661563ab4082df6196d67cbd8, type: 3}
     - {fileID: 1892513168112050, guid: ff3ad38ad89066f4d83bd62a945f9f89, type: 3}
-    - {fileID: 3253139709501052812, guid: 1d9c11c2064352f47a672ec086704b7f, type: 3}
     - {fileID: 5574067095167738340, guid: 373b97457439d2e45b47094d04cab99c, type: 3}
     - {fileID: 5574067095167738340, guid: cd3a74889f03dc648866b2fb5a662475, type: 3}
     - {fileID: 1892513168112050, guid: d504dd07e9cef73488757cb6a07bf5c4, type: 3}
@@ -102,13 +101,14 @@ MonoBehaviour:
     - {fileID: 5574067095167738340, guid: 599563cbbf8f7af459aa3f1f37669525, type: 3}
     - {fileID: 5574067095167738340, guid: 880f5e1c06e346d46898b52d1328f88c, type: 3}
     - {fileID: 5574067095167738340, guid: 5f1a7d9e691e1d7439262c0fedee444c, type: 3}
-    - {fileID: 5574067095167738340, guid: e4a78b7f9addeb64e93f6b640b997540, type: 3}
+    - {fileID: 5574067095167738340, guid: db8989c9a5a5edd489f046e906d7f83f, type: 3}
     - {fileID: 5574067095167738340, guid: 9494da3ac7c965c4fa3fdaf8e1428f1b, type: 3}
     - {fileID: 5574067095167738340, guid: 61aa1f5e37199cb418e3bb7bee91ba6c, type: 3}
     - {fileID: 5574067095167738340, guid: e6c788c4d067cf1459dda7dc86eeacdf, type: 3}
     - {fileID: 1080285806060687, guid: e9edb7b725b27804fa2e60811d0b30d2, type: 3}
     - {fileID: 1892513168112050, guid: 16ccfade63176b84ba44c43efffc0893, type: 3}
     - {fileID: 1892513168112050, guid: d2725e7e573fdb441bb67a097f451f03, type: 3}
+    - {fileID: 3253139709501052812, guid: 1d9c11c2064352f47a672ec086704b7f, type: 3}
 --- !u!114 &7276679206402820566
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -162,3 +162,4 @@ MonoBehaviour:
   - <ThunderstorePackage>/<ManifestName>/plugins/lang
   files:
   - {fileID: 4900000, guid: a21d09dc93cb03547a5900edbfacc0dd, type: 3}
+  - {fileID: 4900000, guid: 841306abb094726428d3a91e021e13ad, type: 3}
