@@ -945,6 +945,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8224791855824298545, guid: 0c058cbab61c05f45a9f871f2a4ee5c3, type: 3}
+      propertyPath: m_Materials.Array.data[3]
+      value: 
+      objectReference: {fileID: 2100000, guid: cf287d0370dd18042aa105d9e86e48a4, type: 2}
+    - target: {fileID: 197177283090769383, guid: 0c058cbab61c05f45a9f871f2a4ee5c3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: cf287d0370dd18042aa105d9e86e48a4, type: 2}
     - target: {fileID: 919132149155446097, guid: 0c058cbab61c05f45a9f871f2a4ee5c3, type: 3}
       propertyPath: m_Name
       value: Floodgate Top Drum

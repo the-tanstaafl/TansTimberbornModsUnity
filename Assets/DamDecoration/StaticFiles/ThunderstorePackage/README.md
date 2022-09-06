@@ -32,6 +32,10 @@ Diagonal piece with Side platform is possible Thanks to Tobbert and his [MorePla
 
 ## Changelog
 
+### 1.2.3 - 2022-09-06
+
+- Add 1 high Pillars
+
 ### 1.2.3 - 2022-09-03
 
 - Add japanese translation by sukunabikona

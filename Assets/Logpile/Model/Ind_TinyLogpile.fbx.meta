@@ -3,7 +3,17 @@ guid: d195eab35b0d841429eda41f48e03f71
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Z_BaseWood_Grey_IronTeeth
+    second: {fileID: 2100000, guid: 2e5d31274a0fbfa4b9c251b701669b71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Z_BaseWood_Indigo_IronTeeth
+    second: {fileID: 2100000, guid: 47c40eff201979a4b826382bff19e4a8, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

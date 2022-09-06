@@ -33,7 +33,32 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: StealCable
-    second: {fileID: -2612684674792777886, guid: b2fdb76e3a741864c9a2de8adc1998b7, type: 3}
+    second: {fileID: 2100000, guid: cf287d0370dd18042aa105d9e86e48a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Z_BaseMetal_Folktails
+    second: {fileID: 2100000, guid: 84ed5939c8cb73d4584147ff799dcfab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Z_DarkMetal_Folktails
+    second: {fileID: 2100000, guid: a3eb30f7dcd5e884e850758b99965cb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Z_IrregularPlanks_Brown_Folktails
+    second: {fileID: 2100000, guid: 907cc77f7bdeadd4ab9f7d0ae3f43ddf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Z_PaintedMetal_Folktails
+    second: {fileID: 2100000, guid: aaefcecd7e5d72645b9a785895bf7bd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Z_StealCable
+    second: {fileID: 2100000, guid: cf287d0370dd18042aa105d9e86e48a4, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

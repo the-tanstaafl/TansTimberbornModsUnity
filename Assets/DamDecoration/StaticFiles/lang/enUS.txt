@@ -61,8 +61,11 @@ Knatte.CornerSlope2X.Description,Let the Dam be Cornered.,-
 Knatte.CornerSlope2X.FlavorDescription,Does not Block Water,-
 
 
-Knatte.Pillar.DisplayName,Pillar ,-
+Knatte.Pillar.DisplayName,Pillar,-
 Knatte.Pillar.Description,Let it Rise,-
+
+Knatte.Pillars.DisplayName,Pillars with Brace,-
+Knatte.Pillars.Description,Let it Rise,-
 
 Knatte.SlopeS.DisplayName,Decoration Stair,-
 Knatte.SlopeS.Description,Let the Dam be Stepped on.,-
