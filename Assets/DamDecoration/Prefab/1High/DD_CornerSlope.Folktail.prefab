@@ -304,7 +304,7 @@ GameObject:
   - component: {fileID: 2088881534276268686}
   - component: {fileID: -8726437569665399324}
   m_Layer: 0
-  m_Name: DD_CornerSlope
+  m_Name: DD_CornerSlope.Folktail
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -486,19 +486,19 @@ PrefabInstance:
     - target: {fileID: 280791124964222794, guid: 14198b15533d46649a20f7db8dac79bb, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: c38e3d4020975a24b8dd2810c1d80c9d, type: 2}
+      objectReference: {fileID: 2100000, guid: e5d2068970eeb3642b9d8695ef20db58, type: 2}
     - target: {fileID: 280791124964222794, guid: 14198b15533d46649a20f7db8dac79bb, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
-      objectReference: {fileID: 2100000, guid: ccc8faf8ca17b6a45971c54366e4b8db, type: 2}
+      objectReference: {fileID: 2100000, guid: f3a43fa7ebe0d9e4aabf5ea2523346d2, type: 2}
     - target: {fileID: 280791124964222794, guid: 14198b15533d46649a20f7db8dac79bb, type: 3}
       propertyPath: m_Materials.Array.data[2]
       value: 
-      objectReference: {fileID: 2100000, guid: c38e3d4020975a24b8dd2810c1d80c9d, type: 2}
+      objectReference: {fileID: 2100000, guid: e5d2068970eeb3642b9d8695ef20db58, type: 2}
     - target: {fileID: 280791124964222794, guid: 14198b15533d46649a20f7db8dac79bb, type: 3}
       propertyPath: m_Materials.Array.data[3]
       value: 
-      objectReference: {fileID: 2100000, guid: ccc8faf8ca17b6a45971c54366e4b8db, type: 2}
+      objectReference: {fileID: 2100000, guid: f3a43fa7ebe0d9e4aabf5ea2523346d2, type: 2}
     - target: {fileID: 1385811587596704339, guid: 14198b15533d46649a20f7db8dac79bb, type: 3}
       propertyPath: m_RootOrder
       value: 0
