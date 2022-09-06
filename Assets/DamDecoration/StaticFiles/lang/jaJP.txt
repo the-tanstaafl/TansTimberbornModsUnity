@@ -64,7 +64,7 @@ Knatte.CornerSlope2X.FlavorDescription,注意！水はせき止めない。,-
 Knatte.Pillar.DisplayName,柱,-
 Knatte.Pillar.Description,ダムを盛り上げよう。,-
 
-Knatte.Pillars.DisplayName,柱,-
+Knatte.Pillars.DisplayName,筋交い付きの柱,-
 Knatte.Pillars.Description,ダムを盛り上げよう。,-
 
 Knatte.SlopeS.DisplayName,ダム飾り付き階段,-

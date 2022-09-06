@@ -368,7 +368,7 @@ MonoBehaviour:
   _displayNameLocKey: Knatte.IrrigationTowerV2.DisplayName
   _descriptionLocKey: Knatte.IrrigationTowerV2.Description
   _flavorDescriptionLocKey: Building.IrrigationTower.FlavorDescription
-  _image: {fileID: 21300000, guid: 34fdbc8ad57342e46afe84e49badca33, type: 3}
+  _image: {fileID: 21300000, guid: 5f2ec711496050e4f8c37a8203e283f7, type: 3}
 --- !u!114 &114290442435871522
 MonoBehaviour:
   m_ObjectHideFlags: 0

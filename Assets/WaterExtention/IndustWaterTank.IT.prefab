@@ -25,7 +25,7 @@ GameObject:
   - component: {fileID: 5096125971362257406}
   - component: {fileID: 5528637301061777382}
   m_Layer: 0
-  m_Name: IndustWaterTank.Folktails
+  m_Name: IndustWaterTank.IT
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -117,8 +117,9 @@ MonoBehaviour:
   m_Script: {fileID: -788214902, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _prefabName: IndustWaterTank.Folktails
-  _backwardCompatiblePrefabNames: []
+  _prefabName: IndustWaterTank.IT
+  _backwardCompatiblePrefabNames:
+  - IndustWaterTank.Folktails
   _requiredFeatureToggle: 
 --- !u!114 &6748252699449400158
 MonoBehaviour:
@@ -460,7 +461,7 @@ Transform:
   m_Children:
   - {fileID: 7270038840645979884}
   - {fileID: 2515098801007741347}
-  - {fileID: 6050394635914103069}
+  - {fileID: 4987355605203584629}
   m_Father: {fileID: 4474991929048003}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
@@ -601,7 +602,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: d8a2a96fac01f934389db11ffc6d8b34, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: d6d3302c5f1c9054abb10f98603cf116, type: 2}
+      objectReference: {fileID: 2100000, guid: 251a88476184c8744aa13e98ebf4068f, type: 2}
     - target: {fileID: 919132149155446097, guid: d8a2a96fac01f934389db11ffc6d8b34, type: 3}
       propertyPath: m_Name
       value: IndWaterTank_Mov
@@ -675,91 +676,91 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 636021037436934422, guid: b7519ddf17ab2cb439b7186b49aaca8a, type: 3}
   m_PrefabInstance: {fileID: 3015297973218477231}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &6088278045404933878
+--- !u!1001 &4808749300497244574
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 4450870389057003}
     m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: 3f1304096cc04db4982b95ca1519a8fb, type: 3}
+    - target: {fileID: -8679921383154817045, guid: f1e0258e8f791d84c9597bc8471d1701, type: 3}
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 3f1304096cc04db4982b95ca1519a8fb, type: 3}
+    - target: {fileID: -8679921383154817045, guid: f1e0258e8f791d84c9597bc8471d1701, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 3f1304096cc04db4982b95ca1519a8fb, type: 3}
+    - target: {fileID: -8679921383154817045, guid: f1e0258e8f791d84c9597bc8471d1701, type: 3}
       propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 3f1304096cc04db4982b95ca1519a8fb, type: 3}
+    - target: {fileID: -8679921383154817045, guid: f1e0258e8f791d84c9597bc8471d1701, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 3f1304096cc04db4982b95ca1519a8fb, type: 3}
+    - target: {fileID: -8679921383154817045, guid: f1e0258e8f791d84c9597bc8471d1701, type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 3f1304096cc04db4982b95ca1519a8fb, type: 3}
+    - target: {fileID: -8679921383154817045, guid: f1e0258e8f791d84c9597bc8471d1701, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 3f1304096cc04db4982b95ca1519a8fb, type: 3}
+    - target: {fileID: -8679921383154817045, guid: f1e0258e8f791d84c9597bc8471d1701, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 3f1304096cc04db4982b95ca1519a8fb, type: 3}
+    - target: {fileID: -8679921383154817045, guid: f1e0258e8f791d84c9597bc8471d1701, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 3f1304096cc04db4982b95ca1519a8fb, type: 3}
+    - target: {fileID: -8679921383154817045, guid: f1e0258e8f791d84c9597bc8471d1701, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 3f1304096cc04db4982b95ca1519a8fb, type: 3}
+    - target: {fileID: -8679921383154817045, guid: f1e0258e8f791d84c9597bc8471d1701, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 3f1304096cc04db4982b95ca1519a8fb, type: 3}
+    - target: {fileID: -8679921383154817045, guid: f1e0258e8f791d84c9597bc8471d1701, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -1831246427157957941, guid: 3f1304096cc04db4982b95ca1519a8fb, type: 3}
+    - target: {fileID: 919132149155446097, guid: f1e0258e8f791d84c9597bc8471d1701, type: 3}
+      propertyPath: m_Name
+      value: IndWaterTank Ent IT
+      objectReference: {fileID: 0}
+    - target: {fileID: 2499644964240253247, guid: f1e0258e8f791d84c9597bc8471d1701, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: d6d3302c5f1c9054abb10f98603cf116, type: 2}
-    - target: {fileID: -1831246427157957941, guid: 3f1304096cc04db4982b95ca1519a8fb, type: 3}
+      objectReference: {fileID: 2100000, guid: 73a065ba640c33646a9dd554c5ff7bc8, type: 2}
+    - target: {fileID: 2499644964240253247, guid: f1e0258e8f791d84c9597bc8471d1701, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
-      objectReference: {fileID: 2100000, guid: 26ea483046b082143a4282fb82313489, type: 2}
-    - target: {fileID: -1831246427157957941, guid: 3f1304096cc04db4982b95ca1519a8fb, type: 3}
+      objectReference: {fileID: 2100000, guid: 53ae42e515bfe2a4ba2895b4695515ca, type: 2}
+    - target: {fileID: 2499644964240253247, guid: f1e0258e8f791d84c9597bc8471d1701, type: 3}
       propertyPath: m_Materials.Array.data[2]
       value: 
-      objectReference: {fileID: 2100000, guid: 35a92ebc69947d944aac538f927715dd, type: 2}
-    - target: {fileID: -1831246427157957941, guid: 3f1304096cc04db4982b95ca1519a8fb, type: 3}
+      objectReference: {fileID: 2100000, guid: 4cb9d04481addde4795a54c61f4adbe2, type: 2}
+    - target: {fileID: 2499644964240253247, guid: f1e0258e8f791d84c9597bc8471d1701, type: 3}
       propertyPath: m_Materials.Array.data[3]
       value: 
-      objectReference: {fileID: 2100000, guid: 1be19e1a6d4efd247ab64ce93b9915d8, type: 2}
-    - target: {fileID: 919132149155446097, guid: 3f1304096cc04db4982b95ca1519a8fb, type: 3}
-      propertyPath: m_Name
-      value: IndWaterTank Ent FT
-      objectReference: {fileID: 0}
-    - target: {fileID: 1168531869210061678, guid: 3f1304096cc04db4982b95ca1519a8fb, type: 3}
+      objectReference: {fileID: 2100000, guid: aa308bbf2f02ce141a7dc8ab97a017cd, type: 2}
+    - target: {fileID: 2708327713743622252, guid: f1e0258e8f791d84c9597bc8471d1701, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 63bceac63f944c3489316183a0fa97b7, type: 2}
-    - target: {fileID: 1168531869210061678, guid: 3f1304096cc04db4982b95ca1519a8fb, type: 3}
+      objectReference: {fileID: 2100000, guid: 53ae42e515bfe2a4ba2895b4695515ca, type: 2}
+    - target: {fileID: 2708327713743622252, guid: f1e0258e8f791d84c9597bc8471d1701, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
-      objectReference: {fileID: 2100000, guid: 1be19e1a6d4efd247ab64ce93b9915d8, type: 2}
+      objectReference: {fileID: 2100000, guid: aa308bbf2f02ce141a7dc8ab97a017cd, type: 2}
     m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 3f1304096cc04db4982b95ca1519a8fb, type: 3}
---- !u!4 &6050394635914103069 stripped
+  m_SourcePrefab: {fileID: 100100000, guid: f1e0258e8f791d84c9597bc8471d1701, type: 3}
+--- !u!4 &4987355605203584629 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 3f1304096cc04db4982b95ca1519a8fb, type: 3}
-  m_PrefabInstance: {fileID: 6088278045404933878}
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: f1e0258e8f791d84c9597bc8471d1701, type: 3}
+  m_PrefabInstance: {fileID: 4808749300497244574}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &7164915518288324871
 PrefabInstance:
@@ -939,15 +940,15 @@ PrefabInstance:
     - target: {fileID: 4447104121972311353, guid: 883c02eb1b9610d4ca854c04b732ae17, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: aaefcecd7e5d72645b9a785895bf7bd4, type: 2}
+      objectReference: {fileID: 2100000, guid: 73a065ba640c33646a9dd554c5ff7bc8, type: 2}
     - target: {fileID: 4447104121972311353, guid: 883c02eb1b9610d4ca854c04b732ae17, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
-      objectReference: {fileID: 2100000, guid: 84ed5939c8cb73d4584147ff799dcfab, type: 2}
+      objectReference: {fileID: 2100000, guid: 4cb9d04481addde4795a54c61f4adbe2, type: 2}
     - target: {fileID: 4447104121972311353, guid: 883c02eb1b9610d4ca854c04b732ae17, type: 3}
       propertyPath: m_Materials.Array.data[2]
       value: 
-      objectReference: {fileID: 2100000, guid: a3eb30f7dcd5e884e850758b99965cb0, type: 2}
+      objectReference: {fileID: 2100000, guid: 191a7b0b471c1b94f9f38bd7881f3912, type: 2}
     - target: {fileID: 6284019642829619334, guid: 883c02eb1b9610d4ca854c04b732ae17, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
