@@ -27,7 +27,7 @@ Knatte.Slope.DisplayName,ダム飾り 坂,-
 Knatte.Slope.Description,ダムに傾斜をつけよう。,-
 Knatte.Slope.FlavorDescription,注意！水はせき止めない。,-
 
-Knatte.CornerSlope.DisplayName,堤防飾り 角の坂,-
+Knatte.CornerSlope.DisplayName,ダム飾り 角の坂,-
 Knatte.CornerSlope.Description,ダムの角に設置しよう。,-
 Knatte.CornerSlope.FlavorDescription,注意！水はせき止めない。,-
 
@@ -40,7 +40,7 @@ Knatte.Diagonal2X.DisplayName,ダム飾り 対角線（高さ2）,-
 Knatte.Diagonal2X.Description,ダムの横に設置しよう。,-
 Knatte.Diagonal2X.FlavorDescription,注意！水はせき止めない。,-
 
-Knatte.InvCornerS2X.DisplayName,ダム飾り 対角線（足場付き）（高さ2）,-
+Knatte.InvCornerS2X.DisplayName,足場付きダム飾り 対角線（高さ2）,-
 Knatte.InvCornerS2X.Description,ダムの横に設置しよう。足場がついている。,-
 Knatte.InvCornerS2X.FlavorDescription,注意！水はせき止めない。,-
 
@@ -52,11 +52,11 @@ Knatte.InvCornerW2X.DisplayName,堤防飾り 対角線（高さ2）,-
 Knatte.InvCornerW2X.Description,ダムの角に設置しよう。,-
 Knatte.InvCornerW2X.FlavorDescription,ダム飾りと違って水を通さない。,-
 
-Knatte.Slope2X.DisplayName,堤防飾り 坂（高さ2）,-
+Knatte.Slope2X.DisplayName,ダム飾り 坂（高さ2）,-
 Knatte.Slope2X.Description,ダムに傾斜をつけよう。,-
 Knatte.Slope2X.FlavorDescription,注意！水はせき止めない。,-
 
-Knatte.CornerSlope2X.DisplayName,堤防飾り 角の坂（高さ2）,-
+Knatte.CornerSlope2X.DisplayName,ダム飾り 角の坂（高さ2）,-
 Knatte.CornerSlope2X.Description,ダムの角に設置しよう。,-
 Knatte.CornerSlope2X.FlavorDescription,注意！水はせき止めない。,-
 
