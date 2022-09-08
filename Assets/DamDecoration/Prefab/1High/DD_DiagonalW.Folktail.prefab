@@ -59,8 +59,8 @@ MonoBehaviour:
   _hasLoopingSound: 0
   _buildingCost:
   - _goodId: Log
-    _amount: 3
-  _scienceCost: 80
+    _amount: 8
+  _scienceCost: 150
   _placeFinished: 0
   _finishableWithBeaversOnSite: 1
   _path: 0
