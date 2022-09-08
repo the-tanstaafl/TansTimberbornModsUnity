@@ -24,6 +24,7 @@ GameObject:
   - component: {fileID: 3680920650980680189}
   - component: {fileID: 5096125971362257406}
   - component: {fileID: 5528637301061777382}
+  - component: {fileID: -4829722652251152688}
   m_Layer: 0
   m_Name: IndustWaterTank.IT
   m_TagString: Untagged
@@ -396,6 +397,21 @@ MonoBehaviour:
     _connectableDirections: 32
   - _coordinates: {x: 2, y: 2, z: 1}
     _connectableDirections: 32
+--- !u!114 &-4829722652251152688
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1035958969740901}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 406104335, guid: 79523a2b71f4fae881a60ad2e723d456, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _noAutoWalls: 0
+  _generateFloorsOnStackable: 1
+  _addedEdges: []
 --- !u!1 &1143749292812006
 GameObject:
   m_ObjectHideFlags: 0

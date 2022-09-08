@@ -16,7 +16,7 @@ namespace WaterExtention
     {
         public const string PluginGuid = "knatte.waterextention";
         public const string PluginName = "WaterExtention";
-        public const string PluginVersion = "0.0.1";
+        public const string PluginVersion = "0.0.4";
 
         public static ManualLogSource Log;
 

@@ -1,6 +1,0 @@
-ID,Text,Comment
-Knatte.IrrigationTowerV2.DisplayName,IrrigationTower V2,-
-Knatte.IrrigationTowerV2.Description,Irrigates More land around it for less Water.,
-
-Knatte.IndWaterTank.DisplayName,Industrial Water Tank,-
-Knatte.IndWaterTank.Description,Holds more water and is Stackable but require metal,-

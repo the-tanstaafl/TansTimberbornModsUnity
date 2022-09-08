@@ -1,8 +1,8 @@
 {
   "name": "Water_Extention",
-  "version_number": "0.0.1",
+  "version_number": "0.0.4",
   "website_url": "https://github.com/KnatteAnka/KATimberbornModsUnity",
-  "description": "Adds a Upgraded Irrigation Tower that is actually usefull (FolkTail only!), Range 211% Water usage 6% of original",
+  "description": "Adds a Some Extended usage Water Buildings",
   "dependencies": [
     "BepInEx-BepInExPack_Timberborn-5.4.19",
     "Timberborn_Central-TimberAPI-0.4.4"

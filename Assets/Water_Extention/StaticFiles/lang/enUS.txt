@@ -1,0 +1,10 @@
+ID,Text,Comment
+Knatte.IrrigationTowerV2_2.DisplayName,IrrigationTower V2,-
+Knatte.IrrigationTowerV2_2.Description,Irrigates More land around it for less Water.,
+
+Knatte.IndWaterTank.DisplayName,Industrial Water Tank,-
+Knatte.IndWaterTank.Description,Holds more water and is Stackable but require metal,-
+
+
+Knatte.Pipe5X.DisplayName,Pipe 5 Long,-
+Knatte.Pipe5X.Description,Levee on ether side of the pipe and a input and output Leeve need to be powered but also act as transfer,-

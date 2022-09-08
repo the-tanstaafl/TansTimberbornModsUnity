@@ -76,7 +76,8 @@ MonoBehaviour:
   - assetBundleName: Knatte_WaterExtention
     assets:
     - {fileID: 1035958969740901, guid: 5e8a31b120c4b084ca08e965a8501704, type: 3}
-    - {fileID: 1035958969740901, guid: a43111de37aa61e4db559e587fee44c7, type: 3}
+    - {fileID: 1035958969740901, guid: 5a3ef7df6636ffd46900c034a8a4d8f0, type: 3}
+    - {fileID: 1413206606640245, guid: 59cb61e8531d29741a13694f52b296a8, type: 3}
 --- !u!114 &7276679206402820566
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -112,6 +113,7 @@ MonoBehaviour:
   - <ThunderstorePackage>/<ManifestName>/plugins/Specifications
   files:
   - {fileID: 4900000, guid: 282121e0db5bc8744839a18f8c12c5eb, type: 3}
+  - {fileID: 4900000, guid: c5f7021b03962df4cb0c9fa997952b64, type: 3}
 --- !u!114 &9120418034178625098
 MonoBehaviour:
   m_ObjectHideFlags: 0
