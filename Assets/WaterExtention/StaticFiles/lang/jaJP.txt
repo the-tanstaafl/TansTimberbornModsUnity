@@ -2,3 +2,5 @@ ID,Text,Comment
 Knatte.IrrigationTowerV2.DisplayName,給水塔 Ver.2,-
 Knatte.IrrigationTowerV2.Description,より少ない水消費で広範囲を灌漑する。,
 
+Knatte.IndWaterTank.DisplayName,工業用貯水槽,-
+Knatte.IndWaterTank.Description,建てるのに金属が必要なものの、積み重ね可能で、より多くの水を保管できる。,-
