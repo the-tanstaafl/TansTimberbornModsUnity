@@ -1,0 +1,11 @@
+ID,Text,Comment
+KnatteTobbert.TinyLogPile.DisplayName,Winziger Holzscheitstapel,-
+KnatteTobbert.TinyLogPile.Description,Ein winziger Holzscheitstapel.,-
+KnatteTobbert.TinyLogPile.FlavorDescription,Das ist ein kitzekleiner Holzscheitstapel.,-
+KnatteTobbert.IndustrialTinylogpile.DisplayName,Winziger industrieller Holzscheitstapel,-
+KnatteTobbert.IndustrialTinylogpile.Description,Ein winziger industrieller Holzscheitstapel.,-
+KnatteTobbert.IndustrialTinylogpile.FlavorDescription,Das ist ein kitzekleiner Holzscheitstapel.,-
+KnatteTobbert.TinyMetalLogPile.DisplayName,Winziger metallischer Holzscheitstapel,-
+KnatteTobbert.TinyMetalLogPile.Description,Ein winziger metallischer Holzscheitstapel.,-
+KnatteTobbert.TinyMetalLogPile.FlavorDescription,"Das ist ein kitzekleiner, stapelbarer Holzscheitstapel.",-
+

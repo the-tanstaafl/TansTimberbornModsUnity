@@ -7,4 +7,6 @@ Knatte.IndWaterTank.Description,Holds more water and is Stackable but require me
 
 
 Knatte.Pipe5X.DisplayName,Pipe 5 Long,-
-Knatte.Pipe5X.Description,Levee on ether side of the pipe and a input and output Leeve need to be powered but also act as transfer,-
+Knatte.Pipe5X.Description,Levee on ether side of the pipe and a input and output pipe. Leeve need to be powered but also act as transfer,-
+Knatte.Pipe1X.DisplayName,Pipe Outlet,-
+Knatte.Pipe1X.Description,Two Levees and a input and output pipe. Leeve need to be powered but also act as transfer,-

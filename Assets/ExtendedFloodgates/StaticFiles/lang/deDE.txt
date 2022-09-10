@@ -1,0 +1,16 @@
+ID,Text,Comment
+Knatte.WaterAlarm.DisplayName,Wasseralarm,-
+Knatte.WaterAlarm.Description,Eine kombinierte Wasserströmungsanzeige und Wasseralarm der warnt falls kein Wasser vorhanden ist.,-
+Knatte.MetalFloodgate.DisplayName,Metallschleuse,-
+Knatte.MetalFloodgate.Description,"Höhere, bessere Schleuse die überbaut werden kann.",-
+
+Knatte.Floodgate.DisplayName,Metallschleusen,-
+
+Knatte.MetalFloodgate4.DisplayName,Vierfachmetallschleuse,-
+Knatte.MetalFloodgate5.DisplayName,Fünffachmetallschleuse,-
+Knatte.MetalFloodgate6.DisplayName,Sechsfachmetallschleuse,-
+Knatte.MetalFloodgate7.DisplayName,Siebenfachmetallschleuse,-
+Knatte.MetalFloodgate8.DisplayName,Achtfachmetallschleuse,-
+Knatte.MetalFloodgate9.DisplayName,Neunfachmetallschleuse,-
+Knatte.MetalFloodgate10.DisplayName,Zehnfachmetallschleuse,-
+

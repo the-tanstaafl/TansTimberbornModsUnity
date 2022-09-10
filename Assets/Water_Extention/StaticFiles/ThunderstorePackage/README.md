@@ -35,6 +35,10 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
+### 0.0.5 - 2022-09-09
+
+- Add japanese translation by sukunabikona
+
 ### 0.0.4 - 2022-09-07
 
 - Fix Unconnected building if built on top for IronTeeth.

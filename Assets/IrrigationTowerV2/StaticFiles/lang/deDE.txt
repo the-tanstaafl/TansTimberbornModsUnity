@@ -1,0 +1,4 @@
+ID,Text,Comment
+Knatte.IrrigationTowerV2.DisplayName,Bewässerungsturm V2,-
+Knatte.IrrigationTowerV2.Description,Bewässert mehr Fläche mit weniger Wasser.,
+

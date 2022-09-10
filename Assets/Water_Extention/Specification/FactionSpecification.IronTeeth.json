@@ -1,6 +1,7 @@
 {
   "CommonBuildings": [
     "knatte.waterextention/knatte_waterextention/IndustWaterTank.IT",
-    "knatte.waterextention/knatte_waterextention/Pipe5X.Folktails"
+    "knatte.waterextention/knatte_waterextention/Pipe5X.Folktails",
+    "knatte.waterextention/knatte_waterextention/Pipe1X.Folktails"
   ]
 }

@@ -1,0 +1,10 @@
+ID,Text,Comment
+Knatte.IrrigationTowerV2_2.DisplayName,Bewässerungsturm V2,-
+Knatte.IrrigationTowerV2_2.Description,Bewässert mehr Fläche mit weniger Wasser.,
+
+Knatte.IndWaterTank.DisplayName,Industrieller Wassertank,-
+Knatte.IndWaterTank.Description,"Enthält mehr Wasser und ist stapelbar, erfordert aber Metal",-
+
+
+Knatte.Pipe5X.DisplayName,Leitung 5x,-
+Knatte.Pipe5X.Description,Energie-Aus-/Eingangs-Deiche an den jeweiligen Seiten der Leitung. Leitet Energie/Wasser.,-

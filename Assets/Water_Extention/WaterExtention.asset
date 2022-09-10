@@ -15,9 +15,9 @@ MonoBehaviour:
   StagingPaths:
   - <ManifestPluginStaging>
   Author: KnatteAnka
-  Name: WaterExtention
-  Description: WaterExtention
-  Version: 0.0.1
+  Name: Water_Extention
+  Description: Water_Extention
+  Version: 0.0.5
   Dependencies: []
 --- !u!114 &-1800585617083543040
 MonoBehaviour:
@@ -78,6 +78,7 @@ MonoBehaviour:
     - {fileID: 1035958969740901, guid: 5e8a31b120c4b084ca08e965a8501704, type: 3}
     - {fileID: 1035958969740901, guid: 5a3ef7df6636ffd46900c034a8a4d8f0, type: 3}
     - {fileID: 1413206606640245, guid: 59cb61e8531d29741a13694f52b296a8, type: 3}
+    - {fileID: 1413206606640245, guid: b31fb58f4a7bf1f40b4054afbfc5f812, type: 3}
 --- !u!114 &7276679206402820566
 MonoBehaviour:
   m_ObjectHideFlags: 0
