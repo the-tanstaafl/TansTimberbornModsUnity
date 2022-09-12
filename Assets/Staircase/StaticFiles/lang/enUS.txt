@@ -1,10 +1,10 @@
 ID,Text,Comment
 KnatteTobbert.StaircaseRight.DisplayName,Staircase Right,-
-KnatteTobbert.StaircaseRight.Description,A staircase that goes right (Going up Clockwise).,-
+KnatteTobbert.StaircaseRight.Description,A staircase that goes right\r\n(Going up Clockwise).,-
 KnatteTobbert.StaircaseRight.FlavorDiscription,That is a big boi log in the middle.,-
 
 KnatteTobbert.StaircaseLeft.DisplayName,Staircase Left,-
-KnatteTobbert.StaircaseLeft.Description,A staircase that goes left.(Going up Anti Clockwise),-
+KnatteTobbert.StaircaseLeft.Description,A staircase that goes left.\r\n(Going up Anti Clockwise),-
 KnatteTobbert.StaircaseLeft.FlavorDiscription,That is a big boi log in the middle.,-
 
 KnatteTobbert.MetalStaircase.DisplayName,Metal Stairs,-

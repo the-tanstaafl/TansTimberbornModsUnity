@@ -110,10 +110,10 @@ TextureImporter:
       name: IrrigationTowerIcon
       rect:
         serializedVersion: 2
-        x: 20.036285
-        y: 7.042908
-        width: 72.92743
-        height: 97.909386
+        x: 0
+        y: 0
+        width: 112
+        height: 112
       alignment: 9
       pivot: {x: 0.49314386, y: 0.5000245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -210,7 +210,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 00c16ebd40373b14e8892b8ea3933a47
     internalID: 0
     vertices: []
     indices: 

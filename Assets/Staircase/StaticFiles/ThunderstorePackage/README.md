@@ -25,6 +25,11 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
+### 1.3.8 - 2022-09-10
+
+- update Eng description text
+- Add deutsch translation by juf0816
+
 ### 1.3.7 - 2022-09-03
 - Fix Metal staircase need
 - Add japanese translation by sukunabikona

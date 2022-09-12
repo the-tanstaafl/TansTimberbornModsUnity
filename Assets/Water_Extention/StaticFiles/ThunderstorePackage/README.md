@@ -35,6 +35,10 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
+### 0.0.6 - 2022-09-10
+
+- Add deutsch translation by juf0816
+
 ### 0.0.5 - 2022-09-09
 
 - Add japanese translation by sukunabikona

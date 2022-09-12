@@ -27,7 +27,7 @@ namespace Staircase
     {
         public const string PluginGuid = "knattetobbert.staircase";
         public const string PluginName = "Staircase";
-        public const string PluginVersion = "1.3.7";
+        public const string PluginVersion = "1.3.8";
 
         public static ManualLogSource Log;
 

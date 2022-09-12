@@ -29,6 +29,10 @@ This mod is possible thanks to help from [Tobbert](https://github.com/TobbyTheBo
 
 ## Changelog
 
+### 1.0.7 - 2022-09-10
+
+- Add deutsch translation by juf0816
+
 ### 1.0.6 - 2022-09-03
 
 - Add japanese translation by sukunabikona

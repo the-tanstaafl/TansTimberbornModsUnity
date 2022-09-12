@@ -15,7 +15,7 @@ namespace TinyLogpile
     {
         public const string PluginGuid = "knattetobbert.tinylogpile";
         public const string PluginName = "Tinylogpile";
-        public const string PluginVersion = "1.0.6";
+        public const string PluginVersion = "1.0.7";
 
         public static ManualLogSource Log;
 

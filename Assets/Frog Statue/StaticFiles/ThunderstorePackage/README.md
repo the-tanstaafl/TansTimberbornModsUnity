@@ -27,6 +27,10 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
+### 1.0.6 - 2022-09-10
+
+- Add deutsch translation by juf0816
+
 ### 1.0.5 - 2022-09-04
  - Hotfix japanese
 

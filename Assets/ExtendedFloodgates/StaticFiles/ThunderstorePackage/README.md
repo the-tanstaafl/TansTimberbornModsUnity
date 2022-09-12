@@ -24,6 +24,10 @@ In case you experience problems, message me in the modding channel of the the [T
 
 ## Changelog
 
+### 0.6.6 - 2022-09-10
+
+- Add deutsch translation by juf0816
+
 ### 0.6.5 - 2022-09-04
  - hotfix japanese
 
