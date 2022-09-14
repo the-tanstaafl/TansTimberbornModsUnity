@@ -95,7 +95,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _prefabName: DD_SlopeStairs.IT
   _backwardCompatiblePrefabNames:
-  - DD_SlopeStairs.Folktails
+  - DD_SlopeStairs.Folktail
   _requiredFeatureToggle: 
 --- !u!114 &114548409175641161
 MonoBehaviour:

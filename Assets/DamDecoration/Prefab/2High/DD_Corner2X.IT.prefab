@@ -10,12 +10,12 @@ GameObject:
   m_Component:
   - component: {fileID: 4384773639272066}
   - component: {fileID: 114326846091936570}
+  - component: {fileID: 4440177359970826680}
   - component: {fileID: 114610737280114322}
   - component: {fileID: 114531841495513050}
   - component: {fileID: 114510377815161048}
   - component: {fileID: 114348988219595795}
   - component: {fileID: 114959368033260412}
-  - component: {fileID: 4440177359970826680}
   - component: {fileID: 4216250952707550837}
   m_Layer: 0
   m_Name: DD_Corner2X.IT
@@ -53,7 +53,7 @@ MonoBehaviour:
   m_Script: {fileID: -790041461, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _soundBaseName: LogPile
+  _soundBaseName: Default
   _hasLoopingSound: 0
   _buildingCost:
   - _goodId: Log
@@ -64,6 +64,21 @@ MonoBehaviour:
   _path: 0
   _drawRangeBoundsOnIt: 0
   _hasNoRoof: 1
+--- !u!114 &4440177359970826680
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1892513168112050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -460516431, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _finishedModel: {fileID: 1966240176357273}
+  _unfinishedModel: {fileID: 1907051363735039}
+  _finishedUncoveredModel: {fileID: 0}
 --- !u!114 &114610737280114322
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -156,21 +171,6 @@ MonoBehaviour:
   _descriptionLocKey: Knatte.Corner2X.Description
   _flavorDescriptionLocKey: Knatte.Corner2X.FlavorDescription
   _image: {fileID: 21300000, guid: 50dbfc490e4cb1f49b925d504ca382af, type: 3}
---- !u!114 &4440177359970826680
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1892513168112050}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -460516431, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _finishedModel: {fileID: 1966240176357273}
-  _unfinishedModel: {fileID: 1907051363735039}
-  _finishedUncoveredModel: {fileID: 0}
 --- !u!114 &4216250952707550837
 MonoBehaviour:
   m_ObjectHideFlags: 0
