@@ -31,12 +31,21 @@ Pump that pumps to other side of Levee
 - also exist a version that have 5 long Pipe between two levees with entry/exit on the outside
 - You will find the item under Water tab.
 
+### Outlet
+
+![Example image](https://github.com/KnatteAnka/KA2TimberbornModsUnity/raw/master/Assets/Water_Extention/StaticFiles/Images/5XPipe.png)
+
+### 5 Long
+
+![Example image](https://github.com/KnatteAnka/KA2TimberbornModsUnity/raw/master/Assets/Water_Extention/StaticFiles/Images/Pipe.png)
+
 ---
 
 ## Powered Levee
 
 - That transfer up and down and Side to side
-- You will find the item under Water tab.
+- You will find the item under Water tab.  
+![Example image](https://github.com/KnatteAnka/KA2TimberbornModsUnity/raw/master/Assets/Water_Extention/StaticFiles/Images/PoweredLevee.png)
 ---
 
 ## Installing
