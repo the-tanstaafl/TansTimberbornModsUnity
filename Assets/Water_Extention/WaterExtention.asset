@@ -17,7 +17,7 @@ MonoBehaviour:
   Author: KnatteAnka
   Name: Water_Extention
   Description: Water_Extention
-  Version: 0.0.5
+  Version: 0.1.0
   Dependencies: []
 --- !u!114 &-1800585617083543040
 MonoBehaviour:
@@ -77,8 +77,12 @@ MonoBehaviour:
     assets:
     - {fileID: 1035958969740901, guid: 5e8a31b120c4b084ca08e965a8501704, type: 3}
     - {fileID: 1035958969740901, guid: 5a3ef7df6636ffd46900c034a8a4d8f0, type: 3}
+    - {fileID: 1413206606640245, guid: fc4c46824f0f3ad478ec6ad5a6ec754e, type: 3}
     - {fileID: 1413206606640245, guid: 59cb61e8531d29741a13694f52b296a8, type: 3}
+    - {fileID: 1413206606640245, guid: 6815aef58588cc446bc4d4146ac4c72a, type: 3}
     - {fileID: 1413206606640245, guid: b31fb58f4a7bf1f40b4054afbfc5f812, type: 3}
+    - {fileID: 1413206606640245, guid: caaaa0ce114eb1043b04fd750fb40d43, type: 3}
+    - {fileID: 1413206606640245, guid: 7552d56e35344ef48bec5db2576d040b, type: 3}
 --- !u!114 &7276679206402820566
 MonoBehaviour:
   m_ObjectHideFlags: 0
