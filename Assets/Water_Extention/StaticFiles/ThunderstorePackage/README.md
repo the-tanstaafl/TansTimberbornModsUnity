@@ -15,15 +15,29 @@ See [Timberborn Modding](https://docs.google.com/spreadsheets/d/15juA0Fl6ZjbYmoN
 
 ## Industrial Water Tank
 3x3x2 Water tank that hold more water and can be stacked. But cost a lot of science and material.
-- Right side can only have path and 2 high platform 
+- Right side can only have 2 high platform 
 - Left has no limitations other than water level marker may be hidden.
 
 - You will find the item under the water tab. 
 
-![Example Image](https://github.com/KnatteAnka/KATimberbornModsUnity/raw/master/Assets/WaterExtention/StaticFiles/Images/IndWatertank.png)
+![Example Image](https://github.com/KnatteAnka/KATimberbornModsUnity/raw/master/Assets/Water_Extention/StaticFiles/Images/IndWatertank.png)
 
 ---
 
+## Pipe Pump
+
+Pump that pumps to other side of Levee
+
+- also exist a version that have 5 long Pipe between two levees with entry/exit on the outside
+- You will find the item under Water tab.
+
+---
+
+## Powered Levee
+
+- That transfer up and down and Side to side
+- You will find the item under Water tab.
+---
 
 ## Installing
 
@@ -34,6 +48,12 @@ Recommended way to install this mod is through [Thunderstore](https://timberborn
 In case you experience problems or have any feedback, message us in the modding channel of the the [Timberborn discord](https://discord.gg/mfbBF4cWpX) or message us directly (Knatte_Anka#6800). We will try to fix it as soon as possible. :D
 
 ## Changelog
+
+### 0.1.0 - 2022-09-14
+
+- Added Pump 5 Blocks Long Pipe between Levees
+- Added Pump Outlet Other side of Levee
+- Added Powered Levee to have it easyer to power Pump or other stuff.
 
 ### 0.0.6 - 2022-09-10
 

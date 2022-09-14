@@ -27,6 +27,10 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
+### 1.0.7 - 2022-09-14
+
+- Fix sound when clicked
+
 ### 1.0.6 - 2022-09-10
 
 - Add deutsch translation by juf0816

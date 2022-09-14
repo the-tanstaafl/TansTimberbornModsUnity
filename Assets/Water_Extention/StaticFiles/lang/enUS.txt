@@ -10,3 +10,6 @@ Knatte.Pipe5X.DisplayName,Pipe 5 Long,-
 Knatte.Pipe5X.Description,Levee on ether side of the pipe and a input and output pipe. Leeve need to be powered but also act as transfer,-
 Knatte.Pipe1X.DisplayName,Pipe Outlet,-
 Knatte.Pipe1X.Description,Two Levees and a input and output pipe. Leeve need to be powered but also act as transfer,-
+
+Knatte.PowerLevee.DisplayName,Powered Leeve,-
+Knatte.PowerLevee.Description,Levee that has shaft in it to power pumps.\r\n Both Horizontal and vertical,-
