@@ -8,7 +8,7 @@
     "knatte.damdecoration/knatte_damdecoration/DD_Pillar.Folktail",
 	"knatte.damdecoration/knatte_damdecoration/DD_Pillars.Folktail",
 	"knatte.damdecoration/knatte_damdecoration/DD_Slope.Folktail",
-	"knatte.damdecoration/knatte_damdecoration/DD_SlopeStairs.Folktails",
+	"knatte.damdecoration/knatte_damdecoration/DD_SlopeStairs.Folktail",
 	"knatte.damdecoration/knatte_damdecoration/CategoryDam",
 	"knatte.damdecoration/knatte_damdecoration/DD_Corner2X.Folktail",
 	"knatte.damdecoration/knatte_damdecoration/DD_IntCorn_S2X.Folktail",
@@ -18,5 +18,6 @@
 	"knatte.damdecoration/knatte_damdecoration/DD_CornerSlope.Folktail",
 	"knatte.damdecoration/knatte_damdecoration/DD_CornerSlope2x.Folktail",
 	"knatte.damdecoration/knatte_damdecoration/DD_DiagonalW.Folktail",
+	"knatte.damdecoration/knatte_damdecoration/DD_Square.Folktail"
   ]
 }

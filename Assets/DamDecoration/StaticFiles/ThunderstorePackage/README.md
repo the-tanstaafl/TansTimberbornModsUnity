@@ -31,6 +31,15 @@ In case you experience problems or have any feedback, message us in the modding 
 Diagonal piece with Side platform is possible Thanks to Tobbert and his [MorePlatforms](https://timberborn.thunderstore.io/package/Tobbert/MorePlatforms/)
 
 ## Changelog
+### 1.2.7 - 2022-09-15
+
+- Fix Pillar having weird pathing
+- Add Square Decoration block
+- Slopes can now be walked when building stuff or Wandering beavers
+
+### 1.2.6 - 2022-09-15
+
+- Fix Sloped stairs for Folktail
 
 ### 1.2.5 - 2022-09-10
 

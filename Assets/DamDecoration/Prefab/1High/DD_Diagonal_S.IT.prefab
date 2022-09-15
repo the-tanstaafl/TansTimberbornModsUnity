@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 114348988219595795}
   - component: {fileID: 114959368033260412}
   - component: {fileID: 4440177359970826680}
-  - component: {fileID: 8789474800539414197}
+  - component: {fileID: -4428538063025308493}
   m_Layer: 0
   m_Name: DD_Diagonal_S.IT
   m_TagString: Untagged
@@ -60,7 +60,7 @@ MonoBehaviour:
     _amount: 18
   - _goodId: Plank
     _amount: 12
-  _scienceCost: 205
+  _scienceCost: 230
   _placeFinished: 0
   _finishableWithBeaversOnSite: 1
   _path: 0
@@ -132,7 +132,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _toolGroupId: Landscaping
-  _toolOrder: 219
+  _toolOrder: 230
   _layout: 1
   _customPivot:
     _hasCustomPivot: 0
@@ -169,7 +169,7 @@ MonoBehaviour:
   _finishedModel: {fileID: 1966240176357273}
   _unfinishedModel: {fileID: 1907051363735039}
   _finishedUncoveredModel: {fileID: 0}
---- !u!114 &8789474800539414197
+--- !u!114 &-4428538063025308493
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -183,7 +183,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _noAutoWalls: 0
   _generateFloorsOnStackable: 1
-  _addedEdges: []
+  _addedEdges:
+  - _start: {x: 0, y: 0, z: 1}
+    _end: {x: -1, y: 0, z: 1}
+    _isTwoWay: 0
+  - _start: {x: 0, y: 0, z: 1}
+    _end: {x: 1, y: 0, z: 1}
+    _isTwoWay: 0
+  - _start: {x: 0, y: 0, z: 1}
+    _end: {x: 0, y: -1, z: 1}
+    _isTwoWay: 0
+  - _start: {x: 0, y: 0, z: 1}
+    _end: {x: 0, y: 1, z: 1}
+    _isTwoWay: 0
 --- !u!1 &1907051363735039
 GameObject:
   m_ObjectHideFlags: 0

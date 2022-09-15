@@ -31,6 +31,9 @@ Knatte.CornerSlope.DisplayName,Decoration Slope Corner,-
 Knatte.CornerSlope.Description,Let the Dam be Cornered.,-
 Knatte.CornerSlope.FlavorDescription,Does not Block Water,-
 
+Knatte.Square.DisplayName,Decoration Cube
+Knatte.Square.Description,Dam the Square
+Knatte.Square.FlavorDescription,Does not Block Water,-
 
 Knatte.Corner2X.DisplayName,Decoration Corner Double Hight,-
 Knatte.Corner2X.Description,Let the Dam be Cornered.,-
