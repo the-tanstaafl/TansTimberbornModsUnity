@@ -33,11 +33,11 @@ Pump that pumps to other side of Levee
 
 ### Outlet
 
-![Example image](https://github.com/KnatteAnka/KA2TimberbornModsUnity/raw/master/Assets/Water_Extention/StaticFiles/Images/5XPipe.png)
+![Example image](https://github.com/KnatteAnka/KA2TimberbornModsUnity/raw/master/Assets/Water_Extention/StaticFiles/Images/Pipe.png)
 
 ### 5 Long
 
-![Example image](https://github.com/KnatteAnka/KA2TimberbornModsUnity/raw/master/Assets/Water_Extention/StaticFiles/Images/Pipe.png)
+![Example image](https://github.com/KnatteAnka/KA2TimberbornModsUnity/raw/master/Assets/Water_Extention/StaticFiles/Images/5XPipe.png)
 
 ---
 
