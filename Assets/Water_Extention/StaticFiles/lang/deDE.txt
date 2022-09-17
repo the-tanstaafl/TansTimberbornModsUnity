@@ -3,8 +3,13 @@ Knatte.IrrigationTowerV2_2.DisplayName,Bewässerungsturm V2,-
 Knatte.IrrigationTowerV2_2.Description,Bewässert mehr Fläche mit weniger Wasser.,
 
 Knatte.IndWaterTank.DisplayName,Industrieller Wassertank,-
-Knatte.IndWaterTank.Description,"Enthält mehr Wasser und ist stapelbar, erfordert aber Metal",-
+Knatte.IndWaterTank.Description,"Enthält mehr Wasser und ist stapelbar, erfordert aber Metall.",-
 
 
-Knatte.Pipe5X.DisplayName,Leitung 5x,-
-Knatte.Pipe5X.Description,Energie-Aus-/Eingangs-Deiche an den jeweiligen Seiten der Leitung. Leitet Energie/Wasser.,-
+Knatte.Pipe5X.DisplayName,Rohrleitung 5x,-
+Knatte.Pipe5X.Description,"Zwei Deiche auf beiden Seiten der Rohrleitung und ein Eingangs- und Ausgangsrohr. Einer der Deiche muss mit Energie versorgt werden, diese wird aber weitergeleitet.",-
+Knatte.Pipe1X.DisplayName,Rohrleitung,-
+Knatte.Pipe1X.Description,"Zwei Deiche und ein Eingangs- und Ausgangsrohr. Einer der Deiche muss mit Energie versorgt werden, diese wird aber weitergeleitet.",-
+
+Knatte.PowerLevee.DisplayName,"Energie-Deich",-
+Knatte.PowerLevee.Description,"Ein Deich, der mit integrierter Antriebswelle Energie horizontal und vertikal überträgt.",-
