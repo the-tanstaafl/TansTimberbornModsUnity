@@ -1,9 +1,14 @@
 fileFormatVersion: 2
-guid: 3ecf3f3cc51e68e40ae79a9b19cbc0d2
+guid: f3d8432a54ba8e6439af9f2bfab0a624
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaloonMat
+    second: {fileID: 2100000, guid: 4cb9d04481addde4795a54c61f4adbe2, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

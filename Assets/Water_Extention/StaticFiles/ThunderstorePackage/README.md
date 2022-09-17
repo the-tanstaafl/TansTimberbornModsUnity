@@ -58,11 +58,18 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
+### 0.1.1 - 2022-09-16
+
+- Fix Image order in readme
+- Update japanese translation by sukunabikona
+- Fix collision of Power Levee 
+
 ### 0.1.0 - 2022-09-14
 
 - Added Pump 5 Blocks Long Pipe between Levees
 - Added Pump Outlet Other side of Levee
 - Added Powered Levee to have it easyer to power Pump or other stuff.
+- Fix Water tank footprint.
 
 ### 0.0.6 - 2022-09-10
 

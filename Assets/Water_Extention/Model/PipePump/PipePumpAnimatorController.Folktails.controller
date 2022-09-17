@@ -6,7 +6,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: WaterPumpAnimatorController.Folktails
+  m_Name: PipePumpAnimatorController.Folktails
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: Direction
@@ -48,7 +48,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: cd698bd70b92d86469f05ee513aa22bc, type: 2}
+  m_Motion: {fileID: 7400000, guid: ecde39d158326c5439ea0bc3034215fd, type: 2}
   m_Tag: 
   m_SpeedParameter: Direction
   m_MirrorParameter: 
