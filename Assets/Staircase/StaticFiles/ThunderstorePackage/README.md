@@ -8,8 +8,9 @@ This mod is a collaboration between [Knatte Anka](https://github.com/KnatteAnka)
 
 ## Disclaimer!
 
-This plugin is currently only supported in the **experimental** version of Timberborn.  
+This plugin is tested for 0.2.8.1 version of Timberborn.  
 See [Timberborn Modding](https://docs.google.com/spreadsheets/d/15juA0Fl6ZjbYmoNTg_vjMophBvtjMz8YNUI_KmNdtdg/edit?usp=sharing) for latest information what mods work with what version
+
 
 ## How to use
 
@@ -24,6 +25,10 @@ Recommended way to install this mod is through [Thunderstore](https://timberborn
 In case you experience problems or have any feedback, message us in the modding channel of the the [Timberborn discord](https://discord.gg/mfbBF4cWpX) or message us directly (Tobbert#1607 and Knatte_Anka#6800). We will try to fix it as soon as possible. :D
 
 ## Changelog
+
+### 1.3.9 - 2022-09-18
+
+- Update to TimberAPI 0.5.x
 
 ### 1.3.8 - 2022-09-10
 

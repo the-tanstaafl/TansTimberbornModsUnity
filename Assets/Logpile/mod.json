@@ -1,0 +1,16 @@
+{
+    "Name": "TinyLogPile",
+    "Version": "1.0.8",
+    "UniqueId": "knattetobbert.tinylogpile",
+    "MinimumApiVersion": "0.5.0",
+    "MinimumGameVersion": "0.2.8.1",
+    "EntryDll": "Tinylogpile.dll",
+    "Assets": [
+      {
+        "Prefix": "knattetobbert.tinylogpile",
+        "Scenes": [
+          "InGame"
+        ]
+      }
+    ]
+  }

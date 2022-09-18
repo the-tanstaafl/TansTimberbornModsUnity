@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 1089410157110530310}
   - component: {fileID: 5543538846412208479}
   - component: {fileID: 1248021033320585454}
-  - component: {fileID: 7285491877149164841}
+  - component: {fileID: 7545934921146066044}
   m_Layer: 0
   m_Name: CategoryDam
   m_TagString: Untagged
@@ -111,7 +111,7 @@ MonoBehaviour:
     _coordinates: {x: 0, y: 0, z: 0}
   _baseZ: 0
   _overridable: 0
---- !u!114 &7285491877149164841
+--- !u!114 &7545934921146066044
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -120,12 +120,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 3253139709501052812}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 346411746, guid: 67dd0dcc652b48a47b5861369f0f2673, type: 3}
+  m_Script: {fileID: 346411746, guid: 7fd7174eadbea2a4fa09511464f6d6c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   ToolBarButtonNames:
   - DD_Corner.Folktail
   - DD_Corner.IT
+  - DD_CornerSlope.Folktail
+  - DD_CornerSlope.IT
   - DD_Diagonal.Folktail
   - DD_Diagonal.IT
   - DD_Diagonal_S.Folktail
@@ -134,17 +136,15 @@ MonoBehaviour:
   - DD_InvCorner.IT
   - DD_Slope.Folktail
   - DD_Slope.IT
-  - DD_Corner2X.Folktail
-  - DD_InvCorner2X.Folktail
-  - DD_IntCorn_S2X.Folktail
-  - DD_Slope2x.Folktail
-  - DD_Corner2X.IT
-  - DD_InvCorner2X.IT
-  - DD_IntCorn_S2X.IT
-  - DD_Slope2x.IT
-  - DD_CornerSlope.Folktail
-  - DD_CornerSlope2x.Folktail
-  - DD_CornerSlope2x.IT
-  - DD_CornerSlope.IT
   - DD_Square.Folktail
   - DD_Square.IT
+  - DD_Corner2X.Folktail
+  - DD_Corner2X.IT
+  - DD_CornerSlope2x.Folktail
+  - DD_CornerSlope2x.IT
+  - DD_IntCorn_S2X.Folktail
+  - DD_IntCorn_S2X.IT
+  - DD_InvCorner2X.Folktail
+  - DD_InvCorner2X.IT
+  - DD_Slope2x.Folktail
+  - DD_Slope2x.IT

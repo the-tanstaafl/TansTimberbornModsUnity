@@ -17,7 +17,7 @@ MonoBehaviour:
   Author: KnatteAnka
   Name: Water_Extention
   Description: Water_Extention
-  Version: 0.1.0
+  Version: 0.1.2
   Dependencies: []
 --- !u!114 &-1800585617083543040
 MonoBehaviour:
@@ -84,6 +84,8 @@ MonoBehaviour:
     - {fileID: 1413206606640245, guid: caaaa0ce114eb1043b04fd750fb40d43, type: 3}
     - {fileID: 1413206606640245, guid: 7552d56e35344ef48bec5db2576d040b, type: 3}
     - {fileID: 1715303446385798, guid: d2f7db2298cdbb84d92d285e4471e3cf, type: 3}
+    - {fileID: 1035958969740901, guid: a3a26200197631f4e84a7586156f1f6e, type: 3}
+    - {fileID: 1035958969740901, guid: a43111de37aa61e4db559e587fee44c7, type: 3}
 --- !u!114 &7276679206402820566
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -138,3 +140,4 @@ MonoBehaviour:
   - <ThunderstorePackage>/<ManifestName>/plugins/
   files:
   - {fileID: 102900000, guid: ffd3bc82c5d73ac4a944030eb3300ecc, type: 3}
+  - {fileID: 4900000, guid: 4e40144b2a7d7d9479edd05926217d6d, type: 3}

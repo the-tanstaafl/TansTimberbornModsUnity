@@ -17,7 +17,7 @@ MonoBehaviour:
   Author: KnatteAnka
   Name: DamDecoration
   Description: DamDecoration
-  Version: 1.2.7
+  Version: 1.2.9
   Dependencies: []
 --- !u!114 &-1800585617083543040
 MonoBehaviour:
@@ -166,3 +166,4 @@ MonoBehaviour:
   - <ThunderstorePackage>/<ManifestName>/plugins/
   files:
   - {fileID: 102900000, guid: c0945caf9a5c620459684dc205f8d770, type: 3}
+  - {fileID: 4900000, guid: 04b05fa93d8590846879abf400afd325, type: 3}

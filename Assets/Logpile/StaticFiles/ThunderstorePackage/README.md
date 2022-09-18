@@ -29,6 +29,10 @@ This mod is possible thanks to help from [Tobbert](https://github.com/TobbyTheBo
 
 ## Changelog
 
+###
+
+- Update to TimberAPI 0.5.x
+
 ### 1.0.7 - 2022-09-10
 
 - Add deutsch translation by juf0816

@@ -7,5 +7,9 @@
     "knatte.waterextention/knatte_waterextention/PowerLevee.Folktails",
     "knatte.waterextention/knatte_waterextention/BigWaterTower.Folktails",
     "knatte.waterextention/knatte_waterextention/SubWaterPump.Folktails"
-  ]  
+  ],
+  "UniqueBuildings": [
+    "knatte.waterextention/knatte_waterextention/IrrigationTowerV2.Folktails"
+
+  ]
 }

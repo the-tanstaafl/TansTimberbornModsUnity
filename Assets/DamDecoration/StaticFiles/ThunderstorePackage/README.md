@@ -6,7 +6,7 @@ This mod adds a Some Dam Decoration parts to the game.
 ## Disclaimer!
 **Most pieces don't act as Leeves and Block water!**  
 
-This plugin is currently only supported in the **experimental** version of Timberborn.  
+This plugin is tested for 0.2.8.1 version of Timberborn.  
 See [Timberborn Modding](https://docs.google.com/spreadsheets/d/15juA0Fl6ZjbYmoNTg_vjMophBvtjMz8YNUI_KmNdtdg/edit?usp=sharing) for latest information what mods work with what version
 
 ## Examples:
@@ -31,6 +31,15 @@ In case you experience problems or have any feedback, message us in the modding 
 Diagonal piece with Side platform is possible Thanks to Tobbert and his [MorePlatforms](https://timberborn.thunderstore.io/package/Tobbert/MorePlatforms/)
 
 ## Changelog
+
+### 1.2.9 - 2022-09-18
+
+- Update to TimberAPI 0.5.x
+
+### 1.2.8 - 2022-09-16
+
+- Fix Square Decoration block stacking
+
 ### 1.2.7 - 2022-09-15
 
 - Fix Pillar having weird pathing

@@ -1,10 +1,10 @@
 {
   "name": "Tinylogpile",
-  "version_number": "1.0.7",
+  "version_number": "1.0.8",
   "website_url": "https://github.com/KnatteAnka/KATimberbornModsUnity",
   "description": "Adds a Tinylogpile for your Small log storages.",
   "dependencies": [
     "BepInEx-BepInExPack_Timberborn-5.4.19",
-    "Timberborn_Central-TimberAPI-0.4.4"
+    "Timberborn_Central-TimberAPI-0.5.0"
   ]
 }

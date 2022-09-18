@@ -10,7 +10,7 @@ That has Better Stats than the base game version. But is more expensive both mat
 Test done how long 3 Water sustain green land  
 | Building   | Time      | Range | Picture Pos |
 |------------|-----------|-------|-------------|
-| IT V2      | 13.5 Days | 19    | Right       |
+| IT V2      | 13.5 Days | 24    | Right       |
 | Water Dump | 15 Days   | 15    | Left        |
 | IT         | 2 Hr      | 9     | Upper       |
 
@@ -21,14 +21,14 @@ Above Statistics converted to Percentage compared to Base game items
 
 | Building   | Time     | Range |
 |------------|----------|-------|
-| Water Dump | 90%      | 126%  |
-| IT         | 162 000% | 211%  |
+| Water Dump | 90%      | 160%  |
+| IT         | 162 000% | 267%  |
 
 
 
 ## Disclaimer!
 
-This plugin is currently only supported in the **experimental** version of Timberborn.  
+This plugin is tested for 0.2.8.1 version of Timberborn.  
 See [Timberborn Modding](https://docs.google.com/spreadsheets/d/15juA0Fl6ZjbYmoNTg_vjMophBvtjMz8YNUI_KmNdtdg/edit?usp=sharing) for latest information what mods work with what version
 
 
@@ -45,6 +45,11 @@ Recommended way to install this mod is through [Thunderstore](https://timberborn
 In case you experience problems or have any feedback, message us in the modding channel of the the [Timberborn discord](https://discord.gg/mfbBF4cWpX) or message us directly (Knatte_Anka#6800). We will try to fix it as soon as possible. :D
 
 ## Changelog
+
+### 1.0.6 - 2022-09-18
+
+- Update to TimberAPI 0.5.x
+- small incresse in range from 19 to 24
 
 ### 1.0.5 - 2022-09-10
 

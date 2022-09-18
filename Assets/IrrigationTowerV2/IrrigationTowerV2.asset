@@ -128,3 +128,4 @@ MonoBehaviour:
   - <ThunderstorePackage>/<ManifestName>/plugins/
   files:
   - {fileID: 102900000, guid: 688057bd96889604bb0cca527496411a, type: 3}
+  - {fileID: 4900000, guid: e2dcf62b7f998414396b0157599088ab, type: 3}

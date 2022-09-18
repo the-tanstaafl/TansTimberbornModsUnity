@@ -17,7 +17,7 @@ MonoBehaviour:
   Author: Knatte
   Name: Extended Floodgates
   Description: More Floodgates and accessories.
-  Version: 0.6.6
+  Version: 0.6.7
   Dependencies: []
 --- !u!114 &-1800585617083543040
 MonoBehaviour:
@@ -145,3 +145,4 @@ MonoBehaviour:
   - <ThunderstorePackage>/<ManifestName>/plugins/
   files:
   - {fileID: 102900000, guid: 1696261b519f028439f7e1f8c2a40eeb, type: 3}
+  - {fileID: 4900000, guid: 91e67d60956d5534582d2dc006dbab33, type: 3}

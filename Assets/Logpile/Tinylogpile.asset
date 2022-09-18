@@ -17,7 +17,7 @@ MonoBehaviour:
   Author: KnatteAnka_And_Tobbert
   Name: Tinylogpile
   Description: Tinylogpile
-  Version: 1.0.7
+  Version: 1.0.8
   Dependencies: []
 --- !u!114 &-1800585617083543040
 MonoBehaviour:
@@ -131,3 +131,4 @@ MonoBehaviour:
   - <ThunderstorePackage>/<ManifestName>/plugins/
   files:
   - {fileID: 102900000, guid: 14d3d269a7041f141a99ac144253431e, type: 3}
+  - {fileID: 4900000, guid: 9c5e9e7573ba1934594d30baf8a89178, type: 3}

@@ -390,7 +390,7 @@ MonoBehaviour:
   _blocksSpecification:
     _size: {x: 1, y: 1, z: 1}
     _blockSpecifications:
-    - _matterBelow: 5
+    - _matterBelow: 1
       _occupation: 3
       _stackable: 1
       _optionallyUnderground: 0

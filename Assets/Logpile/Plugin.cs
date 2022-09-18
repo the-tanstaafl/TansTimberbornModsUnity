@@ -1,16 +1,16 @@
 using System;
 using BepInEx;
 using BepInEx.Logging;
-using TimberbornAPI;
-using TimberbornAPI.Common;
+//using TimberbornAPI;
+//using TimberbornAPI.Common;
 using Timberborn.Warehouses;
 
 using HarmonyLib;
 
 namespace TinyLogpile
 {
-    [BepInPlugin(PluginGuid, PluginName, PluginVersion)]
-    [BepInDependency("com.timberapi.timberapi")]
+    //[BepInPlugin(PluginGuid, PluginName, PluginVersion)]
+    //[BepInDependency("com.timberapi.timberapi")]
     public class Plugin : BaseUnityPlugin
     {
         public const string PluginGuid = "knattetobbert.tinylogpile";
@@ -18,14 +18,14 @@ namespace TinyLogpile
         public const string PluginVersion = "1.0.7";
 
         public static ManualLogSource Log;
-
-        private void Awake()
+        
+        private void IModEntrypoint()
         {
-            Log = Logger;
+            //Log = Logger;
             
-            Log.LogInfo($"Loaded {PluginName} Version: {PluginVersion}!");
+            //Log.LogInfo($"Loaded {PluginName} Version: {PluginVersion}!");
 
-            TimberAPI.AssetRegistry.AddSceneAssets(PluginGuid, SceneEntryPoint.Global);
+            //TimberAPI.AssetRegistry.AddSceneAssets(PluginGuid, SceneEntryPoint.Global);
             new Harmony(PluginGuid).PatchAll();
         }
     }
