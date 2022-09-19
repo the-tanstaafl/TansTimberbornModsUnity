@@ -13,7 +13,7 @@ namespace TinyLogpile
     //[BepInDependency("com.timberapi.timberapi")]
     public class Plugin : BaseUnityPlugin
     {
-        public const string PluginGuid = "knattetobbert.tinylogpile";
+        public const string PluginGuid = "knattetobbert.tinylogpile2";
         public const string PluginName = "Tinylogpile";
         public const string PluginVersion = "1.0.7";
 
