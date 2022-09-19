@@ -4,7 +4,7 @@
     "UniqueId": "knattetobbert.tinylogpile",
     "MinimumApiVersion": "0.5.0",
     "MinimumGameVersion": "0.2.8.1",
-    "NoEntryDll": "Tinylogpile.dll",
+    "EntryDll": "Tinylogpile.dll",
     "Assets": [
       {
         "Prefix": "knattetobbert.tinylogpile",

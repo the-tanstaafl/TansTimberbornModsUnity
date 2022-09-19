@@ -11,7 +11,11 @@
         "Bindito.Core.dll",
         "TimberAPI.dll",
         "0Harmony.dll",
-        "Timberborn.Warehouses.dll"
+        "Timberborn.Warehouses.dll",
+        "TimberApi.dll",
+        "TimberApi.Common.dll",
+        "TimberApi.Core.dll",
+        "TimberApi.BepInEx.Plugin.Loader.dll"
     ],
     "autoReferenced": true,
     "defineConstraints": [],
