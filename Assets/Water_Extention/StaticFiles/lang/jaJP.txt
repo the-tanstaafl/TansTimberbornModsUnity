@@ -5,9 +5,10 @@ Knatte.IrrigationTowerV2_2.Description,より少ない水消費で広範囲を�
 Knatte.IndWaterTank.DisplayName,工業用貯水槽,-
 Knatte.IndWaterTank.Description,建てるのに金属が必要なものの、積み重ね可能で、より多くの水を保管できる。,-
 
-
 Knatte.Pipe5X.DisplayName,水道管 長さ5,-Pipe 5 Long
-Knatte.Pipe5X.Description,両端が堤防の水道管で、入力側と出力側がある。堤防に動力を繋げれば、入力側から出力側に水を移動させる。,-Levee on ether side of the pipe and a input and output pipe. Leeve need to be powered but also act as transfer
+Knatte.Pipe1X.DisplayName,水道管 長さ10,-Pipe 5 Long
+Knatte.Pipe.Description,両端が堤防の水道管で、入力側と出力側がある。堤防に動力を繋げれば、入力側から出力側に水を移動させる。,-Levee on ether side of the pipe and a input and output pipe. Leeve need to be powered but also act as transfer
+
 Knatte.Pipe1X.DisplayName,放水口,-Pipe Outlet
 Knatte.Pipe1X.Description,入力側と出力側がある。堤防に動力を繋げれば、入力側から出力側に水を移動させる。,-Two Levees and a input and output pipe. Leeve need to be powered but also act as transfer
 

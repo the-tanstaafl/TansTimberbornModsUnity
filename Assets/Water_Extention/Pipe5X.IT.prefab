@@ -275,7 +275,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _toolGroupId: Water
-  _toolOrder: 491
+  _toolOrder: 501
   _layout: 0
   _customPivot:
     _hasCustomPivot: 1
@@ -294,7 +294,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _displayNameLocKey: Knatte.Pipe5X.DisplayName
-  _descriptionLocKey: Knatte.Pipe5X.Description
+  _descriptionLocKey: Knatte.Pipe.Description
   _flavorDescriptionLocKey: 
   _image: {fileID: 21300000, guid: 06242389870563b45a5f09749c2b10c8, type: 3}
 --- !u!114 &114033868581388381
@@ -2919,7 +2919,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2892114839249514910}
-  m_Mesh: {fileID: -8849623128070449534, guid: deea8e7e563198e40b29b34170a67c4b, type: 3}
+  m_Mesh: {fileID: -2216786117573386542, guid: deea8e7e563198e40b29b34170a67c4b, type: 3}
 --- !u!23 &7852799475637272915
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3002,7 +3002,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3354574948277866522}
-  m_Mesh: {fileID: -8849623128070449534, guid: deea8e7e563198e40b29b34170a67c4b, type: 3}
+  m_Mesh: {fileID: -2216786117573386542, guid: deea8e7e563198e40b29b34170a67c4b, type: 3}
 --- !u!23 &7836992101738346479
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3116,7 +3116,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4817094646234225594}
-  m_Mesh: {fileID: -8849623128070449534, guid: deea8e7e563198e40b29b34170a67c4b, type: 3}
+  m_Mesh: {fileID: -2216786117573386542, guid: deea8e7e563198e40b29b34170a67c4b, type: 3}
 --- !u!23 &2103362053986232648
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3320,7 +3320,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8853431207892927357}
-  m_Mesh: {fileID: -8849623128070449534, guid: deea8e7e563198e40b29b34170a67c4b, type: 3}
+  m_Mesh: {fileID: -2216786117573386542, guid: deea8e7e563198e40b29b34170a67c4b, type: 3}
 --- !u!23 &1938520975459020457
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3403,7 +3403,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9012465012388743979}
-  m_Mesh: {fileID: -8849623128070449534, guid: deea8e7e563198e40b29b34170a67c4b, type: 3}
+  m_Mesh: {fileID: -2216786117573386542, guid: deea8e7e563198e40b29b34170a67c4b, type: 3}
 --- !u!23 &4884211222532650896
 MeshRenderer:
   m_ObjectHideFlags: 0

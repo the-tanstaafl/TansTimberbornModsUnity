@@ -3,7 +3,22 @@ guid: deea8e7e563198e40b29b34170a67c4b
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Z_WindowsAtlas_Folktails
+    second: {fileID: 2100000, guid: a3eb30f7dcd5e884e850758b99965cb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Z__DarkBaseMetal_IronTeeth.001
+    second: {fileID: 2100000, guid: a3eb30f7dcd5e884e850758b99965cb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Z__DarkBaseMetal_IronTeeth.003
+    second: {fileID: 2100000, guid: a3eb30f7dcd5e884e850758b99965cb0, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

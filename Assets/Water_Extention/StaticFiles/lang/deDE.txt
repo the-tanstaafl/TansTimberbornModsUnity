@@ -7,7 +7,10 @@ Knatte.IndWaterTank.Description,"Enthält mehr Wasser und ist stapelbar, erforde
 
 
 Knatte.Pipe5X.DisplayName,Rohrleitung 5x,-
-Knatte.Pipe5X.Description,"Zwei Deiche auf beiden Seiten der Rohrleitung und ein Eingangs- und Ausgangsrohr. Einer der Deiche muss mit Energie versorgt werden, diese wird aber weitergeleitet.",-
+Knatte.Pipe10X.DisplayName,Rohrleitung 10x,-
+Knatte.Pipe.Description,"Zwei Deiche auf beiden Seiten der Rohrleitung und ein Eingangs- und Ausgangsrohr. Einer der Deiche muss mit Energie versorgt werden, diese wird aber weitergeleitet.",-
+
+
 Knatte.Pipe1X.DisplayName,Rohrleitung,-
 Knatte.Pipe1X.Description,"Zwei Deiche und ein Eingangs- und Ausgangsrohr. Einer der Deiche muss mit Energie versorgt werden, diese wird aber weitergeleitet.",-
 

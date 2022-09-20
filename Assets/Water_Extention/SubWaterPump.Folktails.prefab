@@ -1155,7 +1155,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _maxWorkers: 1
-  _defaultWorkers: 0
+  _defaultWorkers: 1
   _defaultWorkerType: Golem
   _disallowOtherWorkerTypes: 1
   _workerTypeUnlockCosts: []

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 4767b0b3a5a6f3b46bafd987be9314c8
+guid: e6e1107e8acf8ba47b7f883900c7e1fd
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: 21300000
-    second: WaterPipeIcon
+    second: WaterPipe5xIcon
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -83,7 +83,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: WaterPipeIcon
+      name: WaterPipeU5xIcon
       rect:
         serializedVersion: 2
         x: 0
@@ -244,7 +244,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: c17ff8f5ebef20a41878ee495ea3108e
+    spriteID: e17623d95339aa84fa9dbf256ffa16a8
     internalID: 0
     vertices: []
     indices: 
