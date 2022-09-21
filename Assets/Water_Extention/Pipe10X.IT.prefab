@@ -227,7 +227,7 @@ MonoBehaviour:
       _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
-    - _matterBelow: 1
+    - _matterBelow: 5
       _occupation: 0
       _stackable: 0
       _optionallyUnderground: 0
@@ -325,7 +325,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _toolGroupId: Water
-  _toolOrder: 502
+  _toolOrder: 510
   _layout: 0
   _customPivot:
     _hasCustomPivot: 1

@@ -12,6 +12,11 @@ See [Timberborn Modding](https://docs.google.com/spreadsheets/d/15juA0Fl6ZjbYmoN
 
 ---
 
+# All items:
+![Example Image](https://github.com/KnatteAnka/KATimberbornModsUnity/raw/master/Assets/Water_Extention/StaticFiles/Images/All_Items.png)
+
+---
+
 ## Industrial Water Tank
 3x3x2 Water tank that hold more water and can be stacked. But cost a lot of science and material.
 - Right side can only have 2 high platform 
@@ -27,16 +32,28 @@ See [Timberborn Modding](https://docs.google.com/spreadsheets/d/15juA0Fl6ZjbYmoN
 
 Pump that pumps to other side of Levee
 
-- also exist a version that have 5 long Pipe between two levees with entry/exit on the outside
+- also exist a few different versions but most have some pipes between two levees with entry/exit on the outside
 - You will find the item under Water tab.
+- Will not pump water higher than block height of outlet pipe
 
 ### Outlet
 
 ![Example image](https://github.com/KnatteAnka/KA2TimberbornModsUnity/raw/master/Assets/Water_Extention/StaticFiles/Images/Pipe.png)
 
-### 5 Long
+### 5, 10 Long
+
+Exist both a 5 and 10 piece between leeves pipe.
+More pipe lenghts is to come later.
 
 ![Example image](https://github.com/KnatteAnka/KA2TimberbornModsUnity/raw/master/Assets/Water_Extention/StaticFiles/Images/5XPipe.png)
+
+
+### Underground Pipe
+
+Same versions as normal Pipe but Routed underground  
+Pipe going into ground need to be at ground rest can be placed at levee
+
+![Example image](https://github.com/KnatteAnka/KA2TimberbornModsUnity/raw/master/Assets/Water_Extention/StaticFiles/Images/Pipe%20Underground.png)
 
 ---
 
@@ -48,9 +65,9 @@ Pump that pumps to other side of Levee
 ---
 
 ---
-## Irrigation Tower V2
+## Irrigation Tower V2 (Folktails only)
 
-This mod adds a Upgraded Irrigation Tower to the game.  
+a Irrigation Tower  Fixed for Folktails
 That has Better Stats than the base game version. But is more expensive both material and science.
 
 # This is Only for FolkTails  
@@ -60,7 +77,7 @@ That has Better Stats than the base game version. But is more expensive both mat
 Test done how long 3 Water sustain green land  
 | Building   | Time      | Range | Picture Pos |
 |------------|-----------|-------|-------------|
-| IT V2      | 13.5 Days | 24    | Right       |
+| IT V2      | 13.5 Days | 22    | Right       |
 | Water Dump | 15 Days   | 15    | Left        |
 | IT         | 2 Hr      | 9     | Upper       |
 
@@ -71,8 +88,8 @@ Above Statistics converted to Percentage compared to Base game items
 
 | Building   | Time     | Range |
 |------------|----------|-------|
-| Water Dump | 90%      | 160%  |
-| IT         | 162 000% | 267%  |
+| Water Dump | 90%      | 147%  |
+| IT         | 162 000% | 244%  |
 
 ---
 
@@ -86,10 +103,13 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
-### 0.1.2 - 2022-09-18
+### 0.2.0 - 2022-09-21
 
 - Update to TimberAPI 0.5.x
 - Include Irrigation tower V2 in this mod
+- Lower the cost of Irrigation tower V2 and raise the range a little
+- Added 10,15   long pipes
+- Added 5,10,15 Undeground pipes 
 
 ### 0.1.1 - 2022-09-16
 

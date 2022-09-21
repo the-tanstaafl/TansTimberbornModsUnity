@@ -99,9 +99,9 @@ MonoBehaviour:
   _hasLoopingSound: 0
   _buildingCost:
   - _goodId: Gear
-    _amount: 10
+    _amount: 20
   - _goodId: MetalBlock
-    _amount: 30
+    _amount: 34
   - _goodId: Plank
     _amount: 12
   _scienceCost: 900
@@ -275,12 +275,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _toolGroupId: Water
-  _toolOrder: 515
+  _toolOrder: 505
   _layout: 0
   _customPivot:
     _hasCustomPivot: 1
     _coordinates: {x: 0, y: 1, z: 0}
-  _devModeTool: 1
+  _devModeTool: 0
 --- !u!114 &114992758732514604
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -335,7 +335,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _powerOutput: 0
-  _powerInput: 50
+  _powerInput: 100
   _isShaft: 0
 --- !u!114 &114759208356205590
 MonoBehaviour:

@@ -1,10 +1,12 @@
 {
   "CommonBuildings": [
     "knatte.waterextention/knatte_waterextention/IndustWaterTank.IT",
+    "knatte.waterextention/knatte_waterextention/Pipe15X.IT",
     "knatte.waterextention/knatte_waterextention/Pipe10X.IT",
     "knatte.waterextention/knatte_waterextention/Pipe5X.IT",
     "knatte.waterextention/knatte_waterextention/Pipe1X.IT",
     "knatte.waterextention/knatte_waterextention/PowerLevee.IT",
+    "knatte.waterextention/knatte_waterextention/PipeU15X.IT",
     "knatte.waterextention/knatte_waterextention/PipeU10X.IT",
     "knatte.waterextention/knatte_waterextention/PipeU5X.IT",
     "knatte.waterextention/knatte_waterextention/SubWaterPump.Folktails",

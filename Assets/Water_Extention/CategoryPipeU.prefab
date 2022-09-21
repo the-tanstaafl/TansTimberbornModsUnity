@@ -69,7 +69,7 @@ MonoBehaviour:
   _customPivot:
     _hasCustomPivot: 0
     _coordinates: {x: 0, y: 0, z: 0}
-  _devModeTool: 1
+  _devModeTool: 0
 --- !u!114 &5543538846412208479
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -128,3 +128,5 @@ MonoBehaviour:
   - PipeU5X.IT
   - PipeU10X.Folktails
   - PipeU10X.IT
+  - PipeU15X.Folktails
+  - PipeU15X.IT

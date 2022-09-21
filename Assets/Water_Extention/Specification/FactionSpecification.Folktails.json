@@ -2,9 +2,11 @@
   
   "CommonBuildings": [
     "knatte.waterextention/knatte_waterextention/IndustWaterTank.Folktails",
+    "knatte.waterextention/knatte_waterextention/Pipe15X.Folktails",
     "knatte.waterextention/knatte_waterextention/Pipe10X.Folktails",
     "knatte.waterextention/knatte_waterextention/Pipe5X.Folktails",
     "knatte.waterextention/knatte_waterextention/Pipe1X.Folktails",
+    "knatte.waterextention/knatte_waterextention/PipeU15X.Folktails",
     "knatte.waterextention/knatte_waterextention/PipeU10X.Folktails",
     "knatte.waterextention/knatte_waterextention/PipeU5X.Folktails",
     "knatte.waterextention/knatte_waterextention/PowerLevee.Folktails",

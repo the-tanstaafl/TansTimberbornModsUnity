@@ -69,9 +69,9 @@ MonoBehaviour:
   - _goodId: Plank
     _amount: 22
   - _goodId: Gear
-    _amount: 5
-  - _goodId: TreatedPlank
-    _amount: 5
+    _amount: 10
+  - _goodId: Log
+    _amount: 15
   _scienceCost: 400
   _placeFinished: 0
   _finishableWithBeaversOnSite: 0
@@ -231,7 +231,7 @@ MonoBehaviour:
   m_Script: {fileID: 1732610477, guid: 04b892df94967cf379f0b70a4e070499, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _range: 24
+  _range: 22
 --- !u!114 &114784573233513940
 MonoBehaviour:
   m_ObjectHideFlags: 0
