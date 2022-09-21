@@ -15,7 +15,7 @@
     "Dependencies": [
         {
             "UniqueId": "tobbert.categorybutton",
-            "MinimumVersion": "1.1.1"
+            "MinimumVersion": "1.1.2"
         }
     ]
   }

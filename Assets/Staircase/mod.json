@@ -1,7 +1,7 @@
 {
     "Name": "Staircase",
     "Version": "1.3.9",
-    "UniqueId": "KnatteTobbert_Staircase",
+    "UniqueId": "knattetobbert.staircase",
     "MinimumApiVersion": "0.5.0",
     "MinimumGameVersion": "0.2.8.1",
     "Assets": [
@@ -15,7 +15,7 @@
     "Dependencies": [
         {
             "UniqueId": "tobbert.categorybutton",
-            "MinimumVersion": "1.1.1"
+            "MinimumVersion": "1.1.2"
         }
     ]
   }
