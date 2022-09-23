@@ -20,7 +20,6 @@ GameObject:
   - component: {fileID: -6208596937050152778}
   - component: {fileID: -8706437357016037861}
   - component: {fileID: 8301357133823993450}
-  - component: {fileID: -7062841016316864185}
   - component: {fileID: 7184017329909936562}
   m_Layer: 0
   m_Name: FrogStatue.Folktails
@@ -270,18 +269,6 @@ MonoBehaviour:
   _limitedCapacity: 1
   _capacity: 3
   _throttledExit: 1
---- !u!114 &-7062841016316864185
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1892513168112050}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 294790411, guid: b6cb9fb40e6a9dd39b069e7f18c050b3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &7184017329909936562
 MonoBehaviour:
   m_ObjectHideFlags: 0

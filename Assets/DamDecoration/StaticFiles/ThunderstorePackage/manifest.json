@@ -1,11 +1,11 @@
 {
   "name": "DamDecoration",
-  "version_number": "1.2.9",
+  "version_number": "1.3.1",
   "website_url": "https://github.com/KnatteAnka/KATimberbornModsUnity",
   "description": "Adds a some Dam Decorations, To beautify the Dam, Most don't act as Leeves! only Decoration",
   "dependencies": [
     "BepInEx-BepInExPack_Timberborn-5.4.19",
-    "Timberborn_Central-TimberAPI-0.5.0",
-    "Tobbert-CategoryButton-1.1.1"
+    "Timberborn_Central-TimberAPI-0.5.1",
+    "Tobbert-CategoryButton-1.1.2"
   ]
 }

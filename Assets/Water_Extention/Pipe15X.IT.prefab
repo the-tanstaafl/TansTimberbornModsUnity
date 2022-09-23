@@ -392,10 +392,10 @@ MonoBehaviour:
   m_Script: {fileID: -296257353, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _displayNameLocKey: Knatte.PipeU15X.DisplayName
-  _descriptionLocKey: Knatte.PipeU.Description
+  _displayNameLocKey: Knatte.Pipe15X.DisplayName
+  _descriptionLocKey: Knatte.Pipe.Description
   _flavorDescriptionLocKey: 
-  _image: {fileID: 21300000, guid: 673ba779ff537454bb808901dcdd044f, type: 3}
+  _image: {fileID: 21300000, guid: c2e08be91bb105149acb9e23879b795e, type: 3}
 --- !u!114 &114033868581388381
 MonoBehaviour:
   m_ObjectHideFlags: 0

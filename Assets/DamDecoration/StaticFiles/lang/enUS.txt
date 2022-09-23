@@ -35,6 +35,11 @@ Knatte.Square.DisplayName,Decoration Cube
 Knatte.Square.Description,Dam the Square
 Knatte.Square.FlavorDescription,Does not Block Water,-
 
+Knatte.Square2W.DisplayName,Levee 2x2
+Knatte.Square3W.DisplayName,Levee 3x3
+Knatte.SquareW.Description,Let the Dam be big
+Knatte.SquareW.FlavorDescription,Water will not Pass,-
+
 Knatte.Corner2X.DisplayName,Decoration Corner Double Hight,-
 Knatte.Corner2X.Description,Let the Dam be Cornered.,-
 Knatte.Corner2X.FlavorDescription,Does not Block Water,-

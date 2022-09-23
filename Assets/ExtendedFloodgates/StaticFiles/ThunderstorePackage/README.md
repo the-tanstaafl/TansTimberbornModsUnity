@@ -24,6 +24,10 @@ In case you experience problems, message me in the modding channel of the the [T
 
 ## Changelog
 
+### 0.6.8 - 2022-09-18
+
+- Hotfix dependency
+
 ### 0.6.7 - 2022-09-18
 
 - Update to TimberAPI 0.5.x

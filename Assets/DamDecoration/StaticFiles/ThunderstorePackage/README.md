@@ -32,6 +32,13 @@ Diagonal piece with Side platform is possible Thanks to Tobbert and his [MorePla
 
 ## Changelog
 
+### 1.3.1 - 2022-09-23
+
+- Fix IT missing builing 
+
+### 1.3.0 - 2022-09-23
+- Hotfix depenency
+
 ### 1.2.9 - 2022-09-18
 
 - Update to TimberAPI 0.5.x

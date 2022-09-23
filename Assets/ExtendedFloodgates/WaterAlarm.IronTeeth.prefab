@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 114475143063377834}
   - component: {fileID: 114939623729061845}
   - component: {fileID: 114908670974730772}
-  - component: {fileID: 114157233958176030}
   - component: {fileID: 114142880539071814}
   - component: {fileID: 114343120695400293}
   - component: {fileID: 114811604452487072}
@@ -111,18 +110,6 @@ MonoBehaviour:
   _prefabName: WaterAlarm.IronTeeth
   _backwardCompatiblePrefabNames: []
   _requiredFeatureToggle: 
---- !u!114 &114157233958176030
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1044374658342017}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 294790411, guid: b6cb9fb40e6a9dd39b069e7f18c050b3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &114142880539071814
 MonoBehaviour:
   m_ObjectHideFlags: 0

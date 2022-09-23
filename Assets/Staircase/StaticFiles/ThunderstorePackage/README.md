@@ -26,6 +26,14 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
+### 1.3.11 - 2022-09-23
+
+- Fix Ladder to Categorybutton
+
+### 1.3.10 - 2022-09-23
+
+- Hotfix dependency
+
 ### 1.3.9 - 2022-09-18
 
 - Update to TimberAPI 0.5.x

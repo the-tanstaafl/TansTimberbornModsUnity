@@ -6,11 +6,26 @@ Knatte.IndWaterTank.DisplayName,工業用貯水槽,-
 Knatte.IndWaterTank.Description,建てるのに金属が必要なものの、積み重ね可能で、より多くの水を保管できる。,-
 
 Knatte.Pipe5X.DisplayName,水道管 長さ5,-Pipe 5 Long
-Knatte.Pipe1X.DisplayName,水道管 長さ10,-Pipe 5 Long
+Knatte.Pipe10X.DisplayName,水道管 長さ10,-Pipe 10 Long
+Knatte.Pipe15X.DisplayName,水道管 長さ15,-
 Knatte.Pipe.Description,両端が堤防の水道管で、入力側と出力側がある。堤防に動力を繋げれば、入力側から出力側に水を移動させる。,-Levee on ether side of the pipe and a input and output pipe. Leeve need to be powered but also act as transfer
+
+Knatte.PipeU5X.DisplayName,埋設水道管 長さ5,-Pipe Underground 5 Long
+Knatte.PipeU10X.DisplayName,埋設水道管 長さ10,-Pipe Underground 10 Long
+Knatte.PipeU15X.DisplayName,埋設水道管 長さ15,-Pipe Underground 15 Long
+Knatte.PipeU.Description,両端が堤防の水道管で、入力側と出力側がある。\r\n堤防の間の水道管は埋設されている。\r\n堤防に動力を繋げれば、入力側から出力側に水を移動させる。,-Levee on ether side of the pipe and a input and output pipe.\r\nPipe going underground between Levees\r\n Leeve need to be powered but also act as transfer
+
+Knatte.CategoryPipe.DisplayName,まっすぐな水道管,-Straight Pipes
+Knatte.CategoryPipe.Description,橋のように谷を超えられる水道管。,-Pipes that can be overground
+
+Knatte.CategoryPipeU.DisplayName,埋設水道管,-
+Knatte.CategoryPipeU.Description,曲がって地中に埋められる水道管。,-Pipes that need to go underground at the bend
 
 Knatte.Pipe1X.DisplayName,放水口,-Pipe Outlet
 Knatte.Pipe1X.Description,入力側と出力側がある。堤防に動力を繋げれば、入力側から出力側に水を移動させる。,-Two Levees and a input and output pipe. Leeve need to be powered but also act as transfer
 
 Knatte.PowerLevee.DisplayName,動力伝達堤防,-Powered Leeve
 Knatte.PowerLevee.Description,水道管に動力を繋げやすくするための堤防。\r\n 高低と左右に動力が繋がる。,-Levee that has shaft in it to power pumps.Both Horizontal and vertical
+
+Knatte.BigIrrigationTower.DisplayName,大きな給水塔,-Big Irrigation Tower
+Knatte.BigIrrigationTower.Description,より少ない水消費でもっと広範囲を灌漑する。,Irrigates even More land around it for less Water.

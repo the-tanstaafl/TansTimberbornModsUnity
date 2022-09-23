@@ -18,6 +18,8 @@
 	"knatte.damdecoration/knatte_damdecoration/DD_CornerSlope.IT",
 	"knatte.damdecoration/knatte_damdecoration/DD_CornerSlope2x.IT",
 	"knatte.damdecoration/knatte_damdecoration/DD_DiagonalW.IT",
-	"knatte.damdecoration/knatte_damdecoration/DD_Square.IT"
+	"knatte.damdecoration/knatte_damdecoration/DD_Square.IT",
+	"knatte.damdecoration/knatte_damdecoration/DD_SquareW2x2.IT",
+	"knatte.damdecoration/knatte_damdecoration/DD_SquareW3x3.IT"
   ]
 }

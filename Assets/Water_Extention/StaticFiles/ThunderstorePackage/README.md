@@ -103,6 +103,16 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
+### 0.2.2 - 2022-09-23
+
+- Fix japanese translation by sukunabikona
+- Fix name and icon of 15 long pipe
+- Added Eng text to deDE translation of new items
+
+### 0.2.1 - 2022-09-23
+
+- Hotfix dependency
+
 ### 0.2.0 - 2022-09-21
 
 - Update to TimberAPI 0.5.x
