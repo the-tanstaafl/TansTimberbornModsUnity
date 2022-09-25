@@ -24,6 +24,11 @@ In case you experience problems, message me in the modding channel of the the [T
 
 ## Changelog
 
+### 0.7.0 - 2022-09-24
+
+- Fix for Experimental
+- Add 2 and 3 high metal floodgates
+
 ### 0.6.8 - 2022-09-18
 
 - Hotfix dependency

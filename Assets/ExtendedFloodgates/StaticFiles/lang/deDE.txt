@@ -6,6 +6,8 @@ Knatte.MetalFloodgate.Description,"Höhere, bessere Schleuse die überbaut werde
 
 Knatte.Floodgate.DisplayName,Metallschleusen,-
 
+Knatte.MetalFloodgate2.DisplayName,Doppelmetallschleuse,-
+Knatte.MetalFloodgate3.DisplayName,Dreifachmetallschleuse,-
 Knatte.MetalFloodgate4.DisplayName,Vierfachmetallschleuse,-
 Knatte.MetalFloodgate5.DisplayName,Fünffachmetallschleuse,-
 Knatte.MetalFloodgate6.DisplayName,Sechsfachmetallschleuse,-
