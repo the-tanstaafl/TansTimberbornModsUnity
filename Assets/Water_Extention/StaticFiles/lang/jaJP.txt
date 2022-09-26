@@ -27,5 +27,8 @@ Knatte.Pipe1X.Description,入力側と出力側がある。堤防に動力を繋
 Knatte.PowerLevee.DisplayName,動力伝達堤防,-Powered Leeve
 Knatte.PowerLevee.Description,水道管に動力を繋げやすくするための堤防。\r\n 高低と左右に動力が繋がる。,-Levee that has shaft in it to power pumps.Both Horizontal and vertical
 
+Knatte.DeepSeaPump.DisplayName,DeepSea Water Pump
+Knatte.DeepSeaPump.Description,Pump for the bottom of the Sea
+
 Knatte.BigIrrigationTower.DisplayName,大きな給水塔,-Big Irrigation Tower
 Knatte.BigIrrigationTower.Description,より少ない水消費でもっと広範囲を灌漑する。,Irrigates even More land around it for less Water.

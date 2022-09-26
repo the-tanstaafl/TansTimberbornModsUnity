@@ -10,22 +10,26 @@ Knatte.Pipe10X.DisplayName,Rohrleitung 10x,-
 Knatte.Pipe15X.DisplayName,Rohrleitung 15x,-
 Knatte.Pipe.Description,"Zwei Deiche auf beiden Seiten der Rohrleitung und ein Eingangs- und Ausgangsrohr. Einer der Deiche muss mit Energie versorgt werden, diese wird aber weitergeleitet.",-
 
-Knatte.PipeU5X.DisplayName,Pipe Underground 5 Long,-
-Knatte.PipeU10X.DisplayName,Pipe Underground 10 Long,-
-Knatte.PipeU15X.DisplayName,Pipe Underground 15 Long,-
-Knatte.PipeU.Description,Levee on ether side of the pipe and a input and output pipe.\r\nPipe going underground between Levees\r\n Leeve need to be powered but also act as transfer,-
+Knatte.PipeU5X.DisplayName,Unterirdische Rohrleitung\r\n5x,-
+Knatte.PipeU10X.DisplayName,Unterirdische Rohrleitung\r\n10x,-
+Knatte.PipeU15X.DisplayName,Unterirdische Rohrleitung\r\n15x,-
+Knatte.PipeU.Description,"Zwei Deiche auf beiden Seiten der unterirdischen Rohrleitung und ein Eingangs- und Ausgangsrohr. Einer der Deiche muss mit Energie versorgt werden, diese wird aber weitergeleitet.",-
 
-Knatte.CategoryPipe.DisplayName,Straight Pipes,-
-Knatte.CategoryPipe.Description,Pipes that can be overground,-
 
-Knatte.CategoryPipeU.DisplayName,Underground Pipes,-
-Knatte.CategoryPipeU.Description,Pipes that need to go underground at the bend,-
+Knatte.CategoryPipe.DisplayName,Rohrleitungen,-
+Knatte.CategoryPipe.Description,Rohrleitungen die oberirdisch verlegt werden.,-
 
-Knatte.Pipe1X.DisplayName,Rohrleitung,-
-Knatte.Pipe1X.Description,"Zwei Deiche und ein Eingangs- und Ausgangsrohr. Einer der Deiche muss mit Energie versorgt werden, diese wird aber weitergeleitet.",-
+Knatte.CategoryPipeU.DisplayName,Unterirdische Rohrleitungen,-
+Knatte.CategoryPipeU.Description,Rohrleitungen die unterirdisch verlegt werden.,-
+
+Knatte.Pipe1X.DisplayName,Rohrleitung 1x,-
+Knatte.Pipe1X.Description,"Zwei Deiche mit einem Eingangs-/Ausgangsrohr. Einer der Deiche muss mit Energie versorgt werden, diese wird aber weitergeleitet.",-
 
 Knatte.PowerLevee.DisplayName,"Energie-Deich",-
 Knatte.PowerLevee.Description,"Ein Deich, der mit integrierter Antriebswelle Energie horizontal und vertikal überträgt.",-
 
-Knatte.BigIrrigationTower.DisplayName,Big Irrigation Tower,-
-Knatte.BigIrrigationTower.Description,Irrigates even More land around it for less Water.,
+Knatte.DeepSeaPump.DisplayName,Tiefseewasserpumpe
+Knatte.DeepSeaPump.Description,Pumpe für den Meeresgrund
+
+Knatte.BigIrrigationTower.DisplayName,Großer Bewässerungsturm,-
+Knatte.BigIrrigationTower.Description,Bewässert noch mehr Fläche mit noch weniger Wasser.,

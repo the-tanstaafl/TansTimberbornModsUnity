@@ -12,7 +12,7 @@ See [Timberborn Modding](https://docs.google.com/spreadsheets/d/15juA0Fl6ZjbYmoN
 
 ---
 
-# All items:
+# Many items:
 ![Example Image](https://github.com/KnatteAnka/KATimberbornModsUnity/raw/master/Assets/Water_Extention/StaticFiles/Images/All_Items.png)
 
 ---
@@ -26,6 +26,17 @@ See [Timberborn Modding](https://docs.google.com/spreadsheets/d/15juA0Fl6ZjbYmoN
 
 ![Example Image](https://github.com/KnatteAnka/KATimberbornModsUnity/raw/master/Assets/Water_Extention/StaticFiles/Images/IndWatertank.png)
 
+---
+
+## Deep Sea Water pump
+
+Efficient Water pump that pumps a lot of water. 
+**Needs to be flooded to work!**
+- Golem only
+- uses Pine resin to filter and seal building.
+- Need Power to work
+
+![Example image](https://github.com/KnatteAnka/KA2TimberbornModsUnity/raw/master/Assets/Water_Extention/StaticFiles/Images/Deep_Sea_Water_Pump.png)
 ---
 
 ## Pipe Pump
