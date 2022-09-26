@@ -29,7 +29,11 @@ This mod is possible thanks to help from [Tobbert](https://github.com/TobbyTheBo
 
 ## Changelog
 
-###
+### 1.0.9 - 2022-09-26
+
+- Fix Ground texture of Tinylogpile
+
+### 1.0.8 - 2022-09-23
 
 - Update to TimberAPI 0.5.x
 
