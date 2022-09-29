@@ -131,7 +131,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _toolGroupId: Landscaping
-  _toolOrder: 20
+  _toolOrder: 21
   _layout: 1
   _customPivot:
     _hasCustomPivot: 0

@@ -1,75 +1,89 @@
 ID,Text,Comment
 Knatte.Corner.DisplayName,Dekoration Ecke,-
 Knatte.Corner.Description,Verpassen wir dem Deich Ecken.,-
-Knatte.Corner.FlavorDescription,Blockiert nicht das Wasser,-
+Knatte.Corner.FlavorDescription,Blockiert kein Wasser.,-
 
 Knatte.Diagonal.DisplayName,Dekoration Diagonal,-
 Knatte.Diagonal.Description,Verpassen wir dem Deich Diagonalen.,-
-Knatte.Diagonal.FlavorDescription,Blockiert nicht das Wasser,-
+Knatte.Diagonal.FlavorDescription,Blockiert kein Wasser.,-
 
 Knatte.DiagonalS.DisplayName,Dekoration Diagonal Seitenplattform,-
 Knatte.DiagonalS.Description,Verpassen wir dem Deich Diagonalen und Plattformen.,-
-Knatte.DiagonalS.FlavorDescription,Blockiert nicht das Wasser,-
+Knatte.DiagonalS.FlavorDescription,Blockiert kein Wasser.,-
 
 Knatte.DiagonalW.DisplayName,Deich Diagonal,-
 Knatte.DiagonalW.Description,Verpassen wir dem Deich Diagonalen.,-
-Knatte.DiagonalW.FlavorDescription,Blockiert jeglichen Wasserzufluss,-
+Knatte.DiagonalW.FlavorDescription,Blockiert jeglichen Wasserzufluss.,-
 
 Knatte.InvCorner.DisplayName,Dekoration Innere Ecke,-
 Knatte.InvCorner.Description,Verpassen wir dem Deich Ecken.,-
-Knatte.InvCorner.FlavorDescription,Blockiert nicht das Wasser,-
+Knatte.InvCorner.FlavorDescription,Blockiert kein Wasser.,-
 
 Knatte.InvCornerW.DisplayName,Deich Innere Ecke,-
 Knatte.InvCornerW.Description,Verpassen wir dem Deich Ecken.,-
-Knatte.InvCornerW.FlavorDescription,Blockiert jeglichen Wasserzufluss,-
+Knatte.InvCornerW.FlavorDescription,Blockiert jeglichen Wasserzufluss.,-
 
 Knatte.Slope.DisplayName,Dekoration Schräge,-
 Knatte.Slope.Description,Verpassen wir dem Deich Abschrägungen.,-
-Knatte.Slope.FlavorDescription,Blockiert nicht das Wasser,-
+Knatte.Slope.FlavorDescription,Blockiert kein Wasser.,-
 
 Knatte.CornerSlope.DisplayName,Dekoration Schräge Ecke,-
 Knatte.CornerSlope.Description,Verpassen wir dem Deich Ecken.,-
-Knatte.CornerSlope.FlavorDescription,Blockiert nicht das Wasser,-
+Knatte.CornerSlope.FlavorDescription,Blockiert kein Wasser.,-
 
+Knatte.Square.DisplayName,Dekoration Würfel
+Knatte.Square.Description,Die Quadratur des Deiches.
+Knatte.Square.FlavorDescription,Blockiert kein Wasser.,-
+
+Knatte.Square2W.DisplayName,Deich 2x2
+Knatte.Square3W.DisplayName,Deich 3x3
+Knatte.SquareW.Description,"Verdeicht, lass es groß sein."
+Knatte.SquareW.FlavorDescription,Blockiert jeglichen Wasserzufluss.,-
+
+Knatte.HighDam.DisplayName,Hoher Damm
+Knatte.HighDam.Description,"Blockiert Wasser, lässt aber bei Bedarf eine geringere Menge durch einen Überlauf hindurch.\r\nHöheres Risiko von Überschwemmungen!"
+Knatte.HighDam.FlavorDescription,Blockiert fast jeglichen Wasserzufluss.,-
 
 Knatte.Corner2X.DisplayName,Dekoration Ecke\r\ndoppelte Höhe,-
 Knatte.Corner2X.Description,Verpassen wir dem Deich Ecken.,-
-Knatte.Corner2X.FlavorDescription,Blockiert nicht das Wasser,-
+Knatte.Corner2X.FlavorDescription,Blockiert kein Wasser.,-
 
 Knatte.Diagonal2X.DisplayName,Dekoration Diagonal\r\ndopppelte Höhe,-
 Knatte.Diagonal2X.Description,Verpassen wir dem Deich Diagonalen.,-
-Knatte.Diagonal2X.FlavorDescription,Blockiert nicht das Wasser,-
+Knatte.Diagonal2X.FlavorDescription,Blockiert kein Wasser.,-
 
 Knatte.InvCornerS2X.DisplayName,Dekoration Innere Ecke Seitenplattform dopppelte Höhe,-
 Knatte.InvCornerS2X.Description,Verpassen wir dem Deich Diagonalen und Plattformen.,-
-Knatte.InvCornerS2X.FlavorDescription,Blockiert nicht das Wasser,-
+Knatte.InvCornerS2X.FlavorDescription,Blockiert kein Wasser.,-
 
 Knatte.InvCorner2X.DisplayName,Dekoration Innere Ecke\r\ndopppelte Höhe,-
 Knatte.InvCorner2X.Description,Verpassen wir dem Deich Ecken.,-
-Knatte.InvCorner2X.FlavorDescription,Blockiert nicht das Wasser,-
+Knatte.InvCorner2X.FlavorDescription,Blockiert kein Wasser.,-
 
 Knatte.InvCornerW2X.DisplayName,Deich Innere Ecke\r\ndopppelte Höhe,-
 Knatte.InvCornerW2X.Description,Verpassen wir dem Deich Ecken.,-
-Knatte.InvCornerW2X.FlavorDescription,Blockiert jeglichen Wasserzufluss,-
+Knatte.InvCornerW2X.FlavorDescription,Blockiert jeglichen Wasserzufluss.,-
 
 Knatte.Slope2X.DisplayName,Dekoration Schräge\r\ndopppelte Höhe,-
 Knatte.Slope2X.Description,Verpassen wir dem Deich Abschrägungen.,-
-Knatte.Slope2X.FlavorDescription,Blockiert nicht das Wasser,-
+Knatte.Slope2X.FlavorDescription,Blockiert kein Wasser.,-
 
 Knatte.CornerSlope2X.DisplayName,Dekoration Schräge Ecke\r\ndopppelte Höhe,-
 Knatte.CornerSlope2X.Description,Verpassen wir dem Deich Ecken.,-
-Knatte.CornerSlope2X.FlavorDescription,Blockiert nicht das Wasser,-
-
+Knatte.CornerSlope2X.FlavorDescription,Blockiert kein Wasser.,-
 
 Knatte.Pillar.DisplayName,Pfeiler,-
-Knatte.Pillar.Description,Lass es höher werden,-
+Knatte.Pillar.Description,Lass es höher werden.,-
 
 Knatte.Pillars.DisplayName,Pfeiler mit Strebe,-
-Knatte.Pillars.Description,Lass es höher werden,-
+Knatte.Pillars.Description,Lass es höher werden.,-
 
 Knatte.SlopeS.DisplayName,Dekoration Treppe,-
 Knatte.SlopeS.Description,Verpassen wir dem Deich Treppen.,-
-Knatte.SlopeS.FlavorDescription,Blockiert nicht das Wasser,-
+Knatte.SlopeS.FlavorDescription,Blockiert kein Wasser.,-
 
 Knatte.CategoryDam.DisplayName,Dekorationen,-
-Knatte.CategoryDam.Des,Blockiert nicht das Wasser,-
+Knatte.CategoryDam.Des,Blockiert kein Wasser.,-
+
+Knatte.CategoryLevees.DisplayName,Dämme und Deiche,-
+Knatte.CategoryLevees.Des,"Blockiert (mal ganz, mal mehr, mal weniger)\r\nden Wasserzufluss.",-

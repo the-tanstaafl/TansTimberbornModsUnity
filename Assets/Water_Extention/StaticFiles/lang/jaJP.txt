@@ -30,5 +30,5 @@ Knatte.PowerLevee.Description,水道管に動力を繋げやすくするため�
 Knatte.DeepSeaPump.DisplayName,DeepSea Water Pump
 Knatte.DeepSeaPump.Description,Pump for the bottom of the Sea
 
-Knatte.BigIrrigationTower.DisplayName,大きな給水塔,-Big Irrigation Tower
+Knatte.BigIrrigationTower.DisplayName,[WIP] 大きな給水塔,-Big Irrigation Tower
 Knatte.BigIrrigationTower.Description,より少ない水消費でもっと広範囲を灌漑する。,Irrigates even More land around it for less Water.

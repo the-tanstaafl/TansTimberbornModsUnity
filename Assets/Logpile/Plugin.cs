@@ -3,8 +3,6 @@ using BepInEx;
 using BepInEx.Configuration;
 using BepInEx.Logging;
 using Bindito.Core;
-//using TimberbornAPI;
-//using TimberbornAPI.Common;
 using TimberApi.ConsoleSystem;
 using TimberApi.DependencyContainerSystem;
 using TimberApi.ModSystem;
@@ -14,28 +12,6 @@ using HarmonyLib;
 
 namespace TinyLogpile
 {
-    //-------------------- Timber API 0.4.4 ------------------------------
-    /*[BepInPlugin(PluginGuid, PluginName, PluginVersion)]
-    [BepInDependency("com.timberapi.timberapi")]
-
-    public class Plugin : BaseUnityPlugin
-    {
-        public const string PluginGuid = "knattetobbert.tinylogpile2";
-        public const string PluginName = "Tinylogpile";
-        public const string PluginVersion = "1.0.7";
-
-        public static ManualLogSource Log;
-        
-        private void IModEntrypoint()
-        {
-            //Log = Logger;
-            
-            //Log.LogInfo($"Loaded {PluginName} Version: {PluginVersion}!");
-
-            //TimberAPI.AssetRegistry.AddSceneAssets(PluginGuid, SceneEntryPoint.Global);
-            new Harmony(PluginGuid).PatchAll();
-        }
-    }*/
     //-------------------- Timber API 0.5.0 ------------------------------
     public class Plugin : IModEntrypoint
     {
@@ -49,6 +25,8 @@ namespace TinyLogpile
             
             //Log.LogInfo($"Loaded {PluginName} Version: {PluginVersion}!");
             new Harmony(PluginGuid).PatchAll();
+            //consoleWriter.Log("Logpile Patched",LogInfo);
+            
         }
     }
     

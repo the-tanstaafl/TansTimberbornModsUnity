@@ -136,9 +136,11 @@ MonoBehaviour:
   _soundBaseName: Default
   _hasLoopingSound: 0
   _buildingCost:
+  - _goodId: Plank
+    _amount: 34
   - _goodId: Log
-    _amount: 6
-  _scienceCost: 130
+    _amount: 4
+  _scienceCost: 850
   _placeFinished: 0
   _finishableWithBeaversOnSite: 0
   _path: 0
@@ -242,12 +244,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _toolGroupId: Landscaping
-  _toolOrder: 20
+  _toolOrder: 31
   _layout: 0
   _customPivot:
     _hasCustomPivot: 0
     _coordinates: {x: 0, y: 0, z: 0}
-  _devModeTool: 1
+  _devModeTool: 0
 --- !u!114 &2088881534276268686
 MonoBehaviour:
   m_ObjectHideFlags: 0

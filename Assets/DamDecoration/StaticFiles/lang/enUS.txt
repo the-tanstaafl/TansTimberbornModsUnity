@@ -37,34 +37,38 @@ Knatte.Square.FlavorDescription,Does not Block Water,-
 
 Knatte.Square2W.DisplayName,Levee 2x2
 Knatte.Square3W.DisplayName,Levee 3x3
-Knatte.SquareW.Description,Let the Dam be big
+Knatte.SquareW.Description,Dam let it be big
 Knatte.SquareW.FlavorDescription,Water will not Pass,-
 
-Knatte.Corner2X.DisplayName,Decoration Corner Double Hight,-
+Knatte.HighDam.DisplayName,High Dam
+Knatte.HighDam.Description,Blocks water but allows less(85%) to pass through a spillway at the top.\r\nHigher risk of floods!
+Knatte.HighDam.FlavorDescription,Water will not Pass,-
+
+Knatte.Corner2X.DisplayName,Decoration Corner Double Height,-
 Knatte.Corner2X.Description,Let the Dam be Cornered.,-
 Knatte.Corner2X.FlavorDescription,Does not Block Water,-
 
-Knatte.Diagonal2X.DisplayName,Decoration Diagonal Double Hight,-
+Knatte.Diagonal2X.DisplayName,Decoration Diagonal Double Height,-
 Knatte.Diagonal2X.Description,Let the Dam go to the Side.,-
 Knatte.Diagonal2X.FlavorDescription,Does not Block Water,-
 
-Knatte.InvCornerS2X.DisplayName,Decoration Internal Corner Side Platform Double Hight,-
+Knatte.InvCornerS2X.DisplayName,Decoration Internal Corner Side Platform Double Height,-
 Knatte.InvCornerS2X.Description,Let the Dam go to the Side and have Platform.,-
 Knatte.InvCornerS2X.FlavorDescription,Does not Block Water,-
 
-Knatte.InvCorner2X.DisplayName,Decoration Internal Corner Double Hight,-
+Knatte.InvCorner2X.DisplayName,Decoration Internal Corner Double Height,-
 Knatte.InvCorner2X.Description,Let the Dam be Cornered.,-
 Knatte.InvCorner2X.FlavorDescription,Does not Block Water,-
 
-Knatte.InvCornerW2X.DisplayName,Leeve Internal Corner Double Hight,-
+Knatte.InvCornerW2X.DisplayName,Leeve Internal Corner Double Height,-
 Knatte.InvCornerW2X.Description,Let the Dam be Cornered.,-
 Knatte.InvCornerW2X.FlavorDescription,Water will not Pass,-
 
-Knatte.Slope2X.DisplayName,Decoration Slope Double Hight,-
+Knatte.Slope2X.DisplayName,Decoration Slope Double Height,-
 Knatte.Slope2X.Description,Let the Dam be Sloped.,-
 Knatte.Slope2X.FlavorDescription,Does not Block Water,-
 
-Knatte.CornerSlope2X.DisplayName,Decoration Slope Corner Double Hight,-
+Knatte.CornerSlope2X.DisplayName,Decoration Slope Corner Double Height,-
 Knatte.CornerSlope2X.Description,Let the Dam be Cornered.,-
 Knatte.CornerSlope2X.FlavorDescription,Does not Block Water,-
 
@@ -81,3 +85,6 @@ Knatte.SlopeS.FlavorDescription,Does not Block Water,-
 
 Knatte.CategoryDam.DisplayName,Decoration Pieces,-
 Knatte.CategoryDam.Des,Does not Block Water,-
+
+Knatte.CategoryLevees.DisplayName,Levee and Dam Pieces,-
+Knatte.CategoryLevees.Des,Does Block Water,-

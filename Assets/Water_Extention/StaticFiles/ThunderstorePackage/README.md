@@ -114,6 +114,17 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
+### 0.2.5 - 2022-09-29 
+
+- Hotfix crash on IT
+
+### 0.2.4 - 2022-09-29
+
+- Fix 10 long pipe name.
+
+### 0.2.3 - 2022-09-25
+- Hotfix
+
 ### 0.2.2 - 2022-09-23
 
 - Fix japanese translation by sukunabikona

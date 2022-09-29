@@ -30,5 +30,5 @@ Knatte.PowerLevee.Description,Levee that has shaft in it to power pumps.\r\n Bot
 Knatte.DeepSeaPump.DisplayName,DeepSea Water Pump
 Knatte.DeepSeaPump.Description,Pump for the bottom of the Sea
 
-Knatte.BigIrrigationTower.DisplayName,Big Irrigation Tower,-
+Knatte.BigIrrigationTower.DisplayName,[WIP] Big Irrigation Tower,-
 Knatte.BigIrrigationTower.Description,Irrigates even More land around it for less Water.,

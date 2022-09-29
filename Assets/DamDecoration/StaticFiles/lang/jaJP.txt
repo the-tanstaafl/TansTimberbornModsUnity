@@ -31,6 +31,18 @@ Knatte.CornerSlope.DisplayName,ダム飾り 角の坂,-
 Knatte.CornerSlope.Description,ダムの角に設置しよう。,-
 Knatte.CornerSlope.FlavorDescription,注意！水はせき止めない。,-
 
+Knatte.Square.DisplayName,Decoration Cube
+Knatte.Square.Description,Dam the Square
+Knatte.Square.FlavorDescription,Does not Block Water,-
+
+Knatte.Square2W.DisplayName,Levee 2x2
+Knatte.Square3W.DisplayName,Levee 3x3
+Knatte.SquareW.Description,Dam let it be big
+Knatte.SquareW.FlavorDescription,Water will not Pass,-
+
+Knatte.HighDam.DisplayName,High Dam
+Knatte.HighDam.Description,Blocks water but allows less(85%) to pass through a spillway at the top.\r\nHigher risk of floods!
+Knatte.HighDam.FlavorDescription,Water will not Pass,-
 
 Knatte.Corner2X.DisplayName,ダム飾り 三角錐（高さ2）,-
 Knatte.Corner2X.Description,ダムの角に設置しよう。,-
@@ -73,3 +85,6 @@ Knatte.SlopeS.FlavorDescription,注意！水はせき止めない。,-
 
 Knatte.CategoryDam.DisplayName,ダム飾り,-
 Knatte.CategoryDam.Des,注意！水はせき止めない。,-
+
+Knatte.CategoryLevees.DisplayName,Levee and Dam Pieces,-
+Knatte.CategoryLevees.Des,Does Block Water,-

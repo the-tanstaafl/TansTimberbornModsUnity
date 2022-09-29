@@ -109,9 +109,9 @@ MonoBehaviour:
   _blocksSpecification:
     _size: {x: 1, y: 1, z: 1}
     _blockSpecifications:
-    - _matterBelow: 1
+    - _matterBelow: 5
       _occupation: 3
-      _stackable: 1
+      _stackable: 2
       _optionallyUnderground: 0
       _occupyAllBelow: 0
   _entrance:
@@ -132,7 +132,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _toolGroupId: Landscaping
-  _toolOrder: 20
+  _toolOrder: 21
   _layout: 1
   _customPivot:
     _hasCustomPivot: 0

@@ -31,5 +31,5 @@ Knatte.PowerLevee.Description,"Ein Deich, der mit integrierter Antriebswelle Ene
 Knatte.DeepSeaPump.DisplayName,Tiefseewasserpumpe
 Knatte.DeepSeaPump.Description,Pumpe für den Meeresgrund
 
-Knatte.BigIrrigationTower.DisplayName,Großer Bewässerungsturm,-
+Knatte.BigIrrigationTower.DisplayName,[WIP] Großer Bewässerungsturm,-
 Knatte.BigIrrigationTower.Description,Bewässert noch mehr Fläche mit noch weniger Wasser.,

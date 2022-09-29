@@ -135,63 +135,63 @@ MonoBehaviour:
   _blocksSpecification:
     _size: {x: 2, y: 2, z: 3}
     _blockSpecifications:
-    - _matterBelow: 0
+    - _matterBelow: 3
+      _occupation: 1
+      _stackable: 0
+      _optionallyUnderground: 0
+      _occupyAllBelow: 0
+    - _matterBelow: 1
+      _occupation: 0
+      _stackable: 1
+      _optionallyUnderground: 0
+      _occupyAllBelow: 0
+    - _matterBelow: 3
+      _occupation: 5
+      _stackable: 0
+      _optionallyUnderground: 0
+      _occupyAllBelow: 0
+    - _matterBelow: 1
       _occupation: 0
       _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
-    - _matterBelow: 0
+    - _matterBelow: 1
       _occupation: 0
       _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
-    - _matterBelow: 0
+    - _matterBelow: 1
       _occupation: 0
       _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
-    - _matterBelow: 0
+    - _matterBelow: 1
+      _occupation: 0
+      _stackable: 0
+      _optionallyUnderground: 0
+      _occupyAllBelow: 0
+    - _matterBelow: 1
+      _occupation: 0
+      _stackable: 0
+      _optionallyUnderground: 0
+      _occupyAllBelow: 0
+    - _matterBelow: 1
       _occupation: 0
       _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
     - _matterBelow: 3
-      _occupation: 0
+      _occupation: 1
       _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
     - _matterBelow: 3
-      _occupation: 0
+      _occupation: 1
       _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
     - _matterBelow: 3
-      _occupation: 0
-      _stackable: 0
-      _optionallyUnderground: 0
-      _occupyAllBelow: 0
-    - _matterBelow: 3
-      _occupation: 0
-      _stackable: 0
-      _optionallyUnderground: 0
-      _occupyAllBelow: 0
-    - _matterBelow: 3
-      _occupation: 8
-      _stackable: 0
-      _optionallyUnderground: 0
-      _occupyAllBelow: 0
-    - _matterBelow: 3
-      _occupation: 8
-      _stackable: 0
-      _optionallyUnderground: 0
-      _occupyAllBelow: 0
-    - _matterBelow: 3
-      _occupation: 8
-      _stackable: 0
-      _optionallyUnderground: 0
-      _occupyAllBelow: 0
-    - _matterBelow: 3
-      _occupation: 8
+      _occupation: 4
       _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
@@ -552,7 +552,7 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: d6d3302c5f1c9054abb10f98603cf116, type: 2}
-  - {fileID: 2100000, guid: b5a5775ad974bf94894be10e62af6e18, type: 2}
+  - {fileID: 2100000, guid: 63bceac63f944c3489316183a0fa97b7, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -929,7 +929,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: b5a5775ad974bf94894be10e62af6e18, type: 2}
+  - {fileID: 2100000, guid: 63bceac63f944c3489316183a0fa97b7, type: 2}
   - {fileID: 2100000, guid: d6d3302c5f1c9054abb10f98603cf116, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -1014,7 +1014,7 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 63bceac63f944c3489316183a0fa97b7, type: 2}
-  - {fileID: 2100000, guid: 95002c718f2fcce4cb78402d8c0b2ee9, type: 2}
+  - {fileID: 2100000, guid: 1be19e1a6d4efd247ab64ce93b9915d8, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1181,7 +1181,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: b5a5775ad974bf94894be10e62af6e18, type: 2}
+  - {fileID: 2100000, guid: 63bceac63f944c3489316183a0fa97b7, type: 2}
   - {fileID: 2100000, guid: d6d3302c5f1c9054abb10f98603cf116, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -1265,7 +1265,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: b5a5775ad974bf94894be10e62af6e18, type: 2}
+  - {fileID: 2100000, guid: 63bceac63f944c3489316183a0fa97b7, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1348,7 +1348,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: b5a5775ad974bf94894be10e62af6e18, type: 2}
+  - {fileID: 2100000, guid: 63bceac63f944c3489316183a0fa97b7, type: 2}
   - {fileID: 2100000, guid: d6d3302c5f1c9054abb10f98603cf116, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -1629,7 +1629,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: b5a5775ad974bf94894be10e62af6e18, type: 2}
+  - {fileID: 2100000, guid: 63bceac63f944c3489316183a0fa97b7, type: 2}
   - {fileID: 2100000, guid: d6d3302c5f1c9054abb10f98603cf116, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0

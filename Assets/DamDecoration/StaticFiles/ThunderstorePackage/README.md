@@ -32,6 +32,15 @@ Diagonal piece with Side platform is possible Thanks to Tobbert and his [MorePla
 
 ## Changelog
 
+### 1.4.1 - 2022-09-29
+- update Deutsch translation by juf0816
+
+### 1.4.0 - 2022-09-27
+
+- Fix Language misspelling
+- Add 2x2 and 3x3 Levees
+- Add Levee category 
+
 ### 1.3.1 - 2022-09-23
 
 - Fix IT missing builing 
@@ -59,7 +68,7 @@ Diagonal piece with Side platform is possible Thanks to Tobbert and his [MorePla
 
 ### 1.2.5 - 2022-09-10
 
-- Add deutsch translation by juf0816
+- Add Deutsch translation by juf0816
 
 ### 1.2.4 - 2022-09-06
 

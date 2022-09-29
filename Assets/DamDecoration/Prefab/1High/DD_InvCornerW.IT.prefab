@@ -315,7 +315,7 @@ MonoBehaviour:
   _buildingCost:
   - _goodId: Log
     _amount: 10
-  _scienceCost: 140
+  _scienceCost: 200
   _placeFinished: 0
   _finishableWithBeaversOnSite: 0
   _path: 0
@@ -414,7 +414,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _toolGroupId: Landscaping
-  _toolOrder: 20
+  _toolOrder: 25
   _layout: 1
   _customPivot:
     _hasCustomPivot: 0

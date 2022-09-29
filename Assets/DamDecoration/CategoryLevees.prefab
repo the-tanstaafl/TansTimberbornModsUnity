@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 1248021033320585454}
   - component: {fileID: 7545934921146066044}
   m_Layer: 0
-  m_Name: CategoryDam
+  m_Name: CategoryLevees
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_Script: {fileID: -788214902, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _prefabName: CategoryDam
+  _prefabName: CategoryLevees
   _backwardCompatiblePrefabNames: []
   _requiredFeatureToggle: 
 --- !u!114 &1089410157110530310
@@ -64,7 +64,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _toolGroupId: Landscaping
-  _toolOrder: 23
+  _toolOrder: 9
   _layout: 0
   _customPivot:
     _hasCustomPivot: 0
@@ -82,10 +82,10 @@ MonoBehaviour:
   m_Script: {fileID: -296257353, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _displayNameLocKey: Knatte.CategoryDam.DisplayName
-  _descriptionLocKey: Knatte.CategoryDam.Des
+  _displayNameLocKey: Knatte.CategoryLevees.DisplayName
+  _descriptionLocKey: Knatte.CategoryLevees.Des
   _flavorDescriptionLocKey: 
-  _image: {fileID: 21300000, guid: 84a6f5d66c8c0c145828283077a6e41a, type: 3}
+  _image: {fileID: 21300000, guid: 34e1728531bd9194db1088aa77938f7b, type: 3}
 --- !u!114 &1248021033320585454
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -101,7 +101,7 @@ MonoBehaviour:
   _blocksSpecification:
     _size: {x: 1, y: 1, z: 1}
     _blockSpecifications:
-    - _matterBelow: 5
+    - _matterBelow: 3
       _occupation: 0
       _stackable: 0
       _optionallyUnderground: 0
@@ -124,28 +124,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ToolBarButtonNames:
-  - DD_Corner.Folktail
-  - DD_Corner.IT
-  - DD_CornerSlope.Folktail
-  - DD_CornerSlope.IT
-  - DD_Diagonal.Folktail
-  - DD_Diagonal.IT
-  - DD_Diagonal_S.Folktail
-  - DD_Diagonal_S.IT
-  - DD_InvCorner.Folktail
-  - DD_InvCorner.IT
-  - DD_Slope.Folktail
-  - DD_Slope.IT
-  - DD_Square.Folktail
-  - DD_Square.IT
-  - DD_Corner2X.Folktail
-  - DD_Corner2X.IT
-  - DD_CornerSlope2x.Folktail
-  - DD_CornerSlope2x.IT
-  - DD_IntCorn_S2X.Folktail
-  - DD_IntCorn_S2X.IT
-  - DD_InvCorner2X.Folktail
-  - DD_InvCorner2X.IT
-  - DD_Slope2x.Folktail
-  - DD_Slope2x.IT
-  - DD_Slope2x.IT
+  - Levee.Folktails
+  - Levee.IronTeeth
+  - Dam.Folktails
+  - Dam.IronTeeth
+  - DD_SquareW2x2.Folktail
+  - DD_SquareW2x2.IT
+  - DD_SquareW3x3.Folktail
+  - DD_SquareW3x3.IT
+  - DD_InvCornerW.Folktail
+  - DD_InvCornerW.IT
+  - DD_DiagonalW.Folktail
+  - DD_DiagonalW.IT
+  - DD_InvCornerW2X.Folktail
+  - DD_InvCornerW2X.IT
