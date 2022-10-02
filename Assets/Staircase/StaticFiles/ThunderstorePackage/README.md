@@ -26,6 +26,10 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
+### 1.3.12 - 2022-09-29
+
+- Updated Deutsch translation by juf0816
+
 ### 1.3.11 - 2022-09-23
 
 - Fix Ladder to Categorybutton

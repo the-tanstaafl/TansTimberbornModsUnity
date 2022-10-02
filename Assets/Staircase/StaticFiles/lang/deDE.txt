@@ -1,9 +1,9 @@
 ID,Text,Comment
-KnatteTobbert.StaircaseRight.DisplayName,Treppe Rechts,-
+KnatteTobbert.StaircaseRight.DisplayName,Wendeltreppe Rechts,-
 KnatteTobbert.StaircaseRight.Description,Eine Treppe die nach rechts oben geht\r\n(im Uhrzeigersinn).,-
 KnatteTobbert.StaircaseRight.FlavorDiscription,Das ist aber ein dicker Stamm in der Mitte.,-
 
-KnatteTobbert.StaircaseLeft.DisplayName,Treppe Links,-
+KnatteTobbert.StaircaseLeft.DisplayName,Wendeltreppe Links,-
 KnatteTobbert.StaircaseLeft.Description,Eine Treppe die nach links oben geht\r\n(gegen Uhrzeigersinn),-
 KnatteTobbert.StaircaseLeft.FlavorDiscription,Das ist aber ein dicker Stamm in der Mitte.,-
 

@@ -17,7 +17,7 @@ MonoBehaviour:
   Author: KnatteAnka_And_Tobbert
   Name: Staircase
   Description: Staircase
-  Version: 1.3.11
+  Version: 1.3.12
   Dependencies: []
 --- !u!114 &-1800585617083543040
 MonoBehaviour:
@@ -75,7 +75,7 @@ MonoBehaviour:
   assetBundles:
   - assetBundleName: KnatteTobbert_Staircase
     assets:
-    - {fileID: 5574067095167738340, guid: 86256f75b031bd54f949bcbf1e1aacae, type: 3}
+    - {fileID: 5574067095167738340, guid: 0060e8c4d74afee4caae2eb6432e8253, type: 3}
     - {fileID: 5574067095167738340, guid: 92b6fec50b7ff7b499839a59183ab2fe, type: 3}
     - {fileID: 5574067095167738340, guid: 1c91e38147602994daa22b103772e46a, type: 3}
     - {fileID: 3253139709501052812, guid: 648b7f5d7ce599544b36c4dd886c9932, type: 3}
