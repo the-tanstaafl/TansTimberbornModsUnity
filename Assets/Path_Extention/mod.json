@@ -1,0 +1,21 @@
+{
+    "Name": "Path Extention",
+    "Version": "0.0.1",
+    "UniqueId": "knatte_tobbert.Path_extention",
+    "MinimumApiVersion": "0.5.0",
+    "MinimumGameVersion": "0.2.8.1",
+    "Assets": [
+      {
+        "Prefix": "knatte_tobbert.Path_extention",
+        "Scenes": [
+          "InGame"
+        ]
+      }
+    ],
+    "Dependencies": [
+        {
+            "UniqueId": "tobbert.categorybutton",
+            "MinimumVersion": "1.1.2"
+        }
+    ]
+  }
