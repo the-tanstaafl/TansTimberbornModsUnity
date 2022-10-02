@@ -135,63 +135,63 @@ MonoBehaviour:
   _blocksSpecification:
     _size: {x: 2, y: 2, z: 3}
     _blockSpecifications:
-    - _matterBelow: 3
-      _occupation: 1
-      _stackable: 0
-      _optionallyUnderground: 0
-      _occupyAllBelow: 0
-    - _matterBelow: 1
-      _occupation: 0
-      _stackable: 1
-      _optionallyUnderground: 0
-      _occupyAllBelow: 0
-    - _matterBelow: 3
-      _occupation: 5
-      _stackable: 0
-      _optionallyUnderground: 0
-      _occupyAllBelow: 0
-    - _matterBelow: 1
+    - _matterBelow: 0
       _occupation: 0
       _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
-    - _matterBelow: 1
+    - _matterBelow: 0
       _occupation: 0
       _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
-    - _matterBelow: 1
+    - _matterBelow: 0
       _occupation: 0
       _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
-    - _matterBelow: 1
-      _occupation: 0
-      _stackable: 0
-      _optionallyUnderground: 0
-      _occupyAllBelow: 0
-    - _matterBelow: 1
-      _occupation: 0
-      _stackable: 0
-      _optionallyUnderground: 0
-      _occupyAllBelow: 0
-    - _matterBelow: 1
+    - _matterBelow: 0
       _occupation: 0
       _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
     - _matterBelow: 3
-      _occupation: 1
+      _occupation: 0
       _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
     - _matterBelow: 3
-      _occupation: 1
+      _occupation: 0
       _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
     - _matterBelow: 3
-      _occupation: 4
+      _occupation: 0
+      _stackable: 0
+      _optionallyUnderground: 0
+      _occupyAllBelow: 0
+    - _matterBelow: 3
+      _occupation: 0
+      _stackable: 0
+      _optionallyUnderground: 0
+      _occupyAllBelow: 0
+    - _matterBelow: 3
+      _occupation: 8
+      _stackable: 0
+      _optionallyUnderground: 0
+      _occupyAllBelow: 0
+    - _matterBelow: 3
+      _occupation: 8
+      _stackable: 0
+      _optionallyUnderground: 0
+      _occupyAllBelow: 0
+    - _matterBelow: 3
+      _occupation: 8
+      _stackable: 0
+      _optionallyUnderground: 0
+      _occupyAllBelow: 0
+    - _matterBelow: 3
+      _occupation: 8
       _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
@@ -440,7 +440,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4450870389057003}
   - component: {fileID: 65384153338685886}
-  - component: {fileID: 65265562231013720}
+  - component: {fileID: 1614479684416085706}
   m_Layer: 0
   m_Name: __Finished
   m_TagString: Untagged
@@ -477,8 +477,8 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.8381243, y: 0.9797394, z: 0.9}
   m_Center: {x: 1.4951689, y: 0.4898697, z: 0.5}
---- !u!65 &65265562231013720
-BoxCollider:
+--- !u!136 &1614479684416085706
+CapsuleCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -487,9 +487,10 @@ BoxCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 0.9612222, y: 2.6151779, z: 1.008584}
-  m_Center: {x: 1.0027788, y: 1.3075889, z: 1.069226}
+  m_Radius: 0.7
+  m_Height: 2.7
+  m_Direction: 1
+  m_Center: {x: 1, y: 1.4, z: 1}
 --- !u!1 &66780723058631951
 GameObject:
   m_ObjectHideFlags: 0

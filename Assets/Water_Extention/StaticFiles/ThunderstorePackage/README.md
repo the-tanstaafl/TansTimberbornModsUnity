@@ -114,6 +114,18 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
+### 0.2.8 - 2022-10-01
+
+- Fix it Pipe outlet
+
+### 0.2.7 - 2022-09-30
+
+- Fix alot of small and big stuff. no new stuff.
+
+### 0.2.6 - 2022-09-29
+
+- Rollback to 0.2.3
+
 ### 0.2.5 - 2022-09-29 
 
 - Hotfix crash on IT

@@ -370,36 +370,6 @@ MonoBehaviour:
   _blocksSpecification:
     _size: {x: 2, y: 3, z: 2}
     _blockSpecifications:
-    - _matterBelow: 3
-      _occupation: 1
-      _stackable: 0
-      _optionallyUnderground: 0
-      _occupyAllBelow: 0
-    - _matterBelow: 1
-      _occupation: 0
-      _stackable: 1
-      _optionallyUnderground: 0
-      _occupyAllBelow: 0
-    - _matterBelow: 3
-      _occupation: 5
-      _stackable: 0
-      _optionallyUnderground: 0
-      _occupyAllBelow: 0
-    - _matterBelow: 1
-      _occupation: 0
-      _stackable: 0
-      _optionallyUnderground: 0
-      _occupyAllBelow: 0
-    - _matterBelow: 1
-      _occupation: 0
-      _stackable: 0
-      _optionallyUnderground: 0
-      _occupyAllBelow: 0
-    - _matterBelow: 1
-      _occupation: 0
-      _stackable: 0
-      _optionallyUnderground: 0
-      _occupyAllBelow: 0
     - _matterBelow: 1
       _occupation: 0
       _stackable: 0
@@ -416,48 +386,48 @@ MonoBehaviour:
       _optionallyUnderground: 0
       _occupyAllBelow: 0
     - _matterBelow: 3
-      _occupation: 1
+      _occupation: 0
       _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
-    - _matterBelow: 3
-      _occupation: 1
-      _stackable: 0
-      _optionallyUnderground: 0
-      _occupyAllBelow: 0
-    - _matterBelow: 3
-      _occupation: 4
+    - _matterBelow: 1
+      _occupation: 0
       _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
     - _matterBelow: 3
       _occupation: 0
-      _stackable: 1
+      _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
     - _matterBelow: 3
-      _occupation: 0
-      _stackable: 1
+      _occupation: 8
+      _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
     - _matterBelow: 3
-      _occupation: 0
-      _stackable: 1
+      _occupation: 8
+      _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
     - _matterBelow: 3
-      _occupation: 0
-      _stackable: 1
+      _occupation: 8
+      _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
     - _matterBelow: 3
-      _occupation: 0
-      _stackable: 1
+      _occupation: 8
+      _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
     - _matterBelow: 3
-      _occupation: 0
-      _stackable: 1
+      _occupation: 8
+      _stackable: 0
+      _optionallyUnderground: 0
+      _occupyAllBelow: 0
+    - _matterBelow: 3
+      _occupation: 8
+      _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
   _entrance:
@@ -551,7 +521,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _displayNameLocKey: Knatte.DeepSeaPump.DisplayName
   _descriptionLocKey: Knatte.DeepSeaPump.Description
-  _flavorDescriptionLocKey: Building.WaterPump.FlavorDescription
+  _flavorDescriptionLocKey: Knatte.DeepSeaPump.FlavorDescription
   _image: {fileID: 21300000, guid: 68db2131822e62e48bf59d8b6c83d342, type: 3}
 --- !u!114 &114445659669241671
 MonoBehaviour:
