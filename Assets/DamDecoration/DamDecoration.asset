@@ -17,7 +17,7 @@ MonoBehaviour:
   Author: KnatteAnka
   Name: DamDecoration
   Description: DamDecoration
-  Version: 1.4.0
+  Version: 1.5.0
   Dependencies: []
 --- !u!114 &-1800585617083543040
 MonoBehaviour:
@@ -110,14 +110,23 @@ MonoBehaviour:
     - {fileID: 1080285806060687, guid: e9edb7b725b27804fa2e60811d0b30d2, type: 3}
     - {fileID: 1892513168112050, guid: 16ccfade63176b84ba44c43efffc0893, type: 3}
     - {fileID: 1892513168112050, guid: d2725e7e573fdb441bb67a097f451f03, type: 3}
-    - {fileID: 3253139709501052812, guid: 1d9c11c2064352f47a672ec086704b7f, type: 3}
     - {fileID: 5574067095167738340, guid: 000ead6f629c7c34f9f857d919996254, type: 3}
     - {fileID: 5574067095167738340, guid: 1b14605a8de38b54cab8c54ee7ca88e1, type: 3}
     - {fileID: 5574067095167738340, guid: bfd0c973902359246914d8f03121f47b, type: 3}
     - {fileID: 5574067095167738340, guid: fd7b95c4b06196544ac9e35afe7763be, type: 3}
     - {fileID: 5574067095167738340, guid: ff74ecc45030a334492ae59be10be2f4, type: 3}
     - {fileID: 5574067095167738340, guid: d597d71be32162c4ea42c0129a82c105, type: 3}
+    - {fileID: 5574067095167738340, guid: 13be75f87c04649448e202ba310bb7c5, type: 3}
+    - {fileID: 5574067095167738340, guid: c60a915c4a5e85b4cac1d4451f1b1d67, type: 3}
+    - {fileID: 5574067095167738340, guid: 9a444fb1f52fa7a45a3cb101865582ca, type: 3}
+    - {fileID: 5574067095167738340, guid: 3533adcad1542054188b29d871036ec8, type: 3}
+    - {fileID: 5574067095167738340, guid: b5686aa4629f6c049bc8a869a670ece1, type: 3}
+    - {fileID: 5574067095167738340, guid: 1e0ddb5e06accf240aeddcb566f20fce, type: 3}
+    - {fileID: 5574067095167738340, guid: 5e3bf097f93a9034a8eaef835dba1732, type: 3}
+    - {fileID: 5574067095167738340, guid: ff375f356e2fb3349a6ede647a91532a, type: 3}
+    - {fileID: 3253139709501052812, guid: 1d9c11c2064352f47a672ec086704b7f, type: 3}
     - {fileID: 3253139709501052812, guid: b8630738854cb804c9f3ba5e42e083ab, type: 3}
+    - {fileID: 3253139709501052812, guid: e5d14d0d03d38f64084daa3488413505, type: 3}
 --- !u!114 &7276679206402820566
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -32,6 +32,24 @@ Diagonal piece with Side platform is possible Thanks to Tobbert and his [MorePla
 
 ## Changelog
 
+### 1.5.3 - 2022-10-02
+
+- Fix Cube texture for IT
+
+### 1.5.2 - 2022-10-02
+
+- Updated Deutsch translation by juf0816
+
+### 1.5.1 - 2022-10-01
+
+- Group all pillars
+
+### 1.5.0 - 2022-09-29
+
+- Added multiple Pillar types and a Top version, can be combined with staircase mod to hide the pillar and do nice staircases.
+- Updated Deutsch translation by juf0816
+- Updated japanese translation by sukunabikona
+
 ### 1.4.1 - 2022-09-29
 - update Deutsch translation by juf0816
 

@@ -11,6 +11,7 @@
 	"knatte.damdecoration/knatte_damdecoration/DD_Pillars.IT",
 	"knatte.damdecoration/knatte_damdecoration/CategoryDam",
 	"knatte.damdecoration/knatte_damdecoration/CategoryLevees",
+	"knatte.damdecoration/knatte_damdecoration/CategoryPillar",
 	"knatte.damdecoration/knatte_damdecoration/DD_Corner2X.IT",
 	"knatte.damdecoration/knatte_damdecoration/DD_IntCorn_S2X.IT",
 	"knatte.damdecoration/knatte_damdecoration/DD_InvCorner2X.IT",
@@ -21,6 +22,10 @@
 	"knatte.damdecoration/knatte_damdecoration/DD_DiagonalW.IT",
 	"knatte.damdecoration/knatte_damdecoration/DD_Square.IT",
 	"knatte.damdecoration/knatte_damdecoration/DD_SquareW2x2.IT",
-	"knatte.damdecoration/knatte_damdecoration/DD_SquareW3x3.IT"
+	"knatte.damdecoration/knatte_damdecoration/DD_SquareW3x3.IT",
+	"knatte.damdecoration/knatte_damdecoration/DD_Pillar_1.IT",
+	"knatte.damdecoration/knatte_damdecoration/DD_Pillar_2.IT",
+	"knatte.damdecoration/knatte_damdecoration/DD_Pillar_3.IT",
+	"knatte.damdecoration/knatte_damdecoration/DD_PillarTop.IT"
   ]
 }

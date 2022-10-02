@@ -72,11 +72,19 @@ Knatte.CornerSlope2X.DisplayName,Dekoration Schräge Ecke\r\ndopppelte Höhe,-
 Knatte.CornerSlope2X.Description,Verpassen wir dem Deich Ecken.,-
 Knatte.CornerSlope2X.FlavorDescription,Blockiert kein Wasser.,-
 
-Knatte.Pillar.DisplayName,Pfeiler,-
+Knatte.Pillar.DisplayName,Vierfachpfeiler,-
 Knatte.Pillar.Description,Lass es höher werden.,-
 
-Knatte.Pillars.DisplayName,Pfeiler mit Strebe,-
+Knatte.Pillars.DisplayName,Vierfachpfeiler mit Strebe,-
 Knatte.Pillars.Description,Lass es höher werden.,-
+
+Knatte.Pillar_1.DisplayName,Pfeiler
+Knatte.Pillar_2.DisplayName,Doppelpfeiler
+Knatte.Pillar_3.DisplayName,Dreifachpfeiler
+Knatte.Pillar_X.Description,Pfeiler für individuelles Aussehen.\r\nKann mit Wendeltreppen kombiniert werden und macht diese stapelbar.,
+
+Knatte.PillarTop.DisplayName,Pfeilerplattform
+Knatte.PillarTop.Description,Plattform für Pfeiler und Dekorationen.\r\nKann mit Wendeltreppen kombiniert werden und macht diese stapelbar.,
 
 Knatte.SlopeS.DisplayName,Dekoration Treppe,-
 Knatte.SlopeS.Description,Verpassen wir dem Deich Treppen.,-
@@ -87,3 +95,6 @@ Knatte.CategoryDam.Des,Blockiert kein Wasser.,-
 
 Knatte.CategoryLevees.DisplayName,Dämme und Deiche,-
 Knatte.CategoryLevees.Des,"Blockiert (mal ganz, mal mehr, mal weniger)\r\nden Wasserzufluss.",-
+
+Knatte.CategoryPillar.DisplayName,Pfeiler und Pfeilerplattform,-
+Knatte.CategoryPillar.Des,Lass es höher werden.,-

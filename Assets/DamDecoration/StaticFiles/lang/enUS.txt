@@ -79,6 +79,14 @@ Knatte.Pillar.Description,Let it Rise,-
 Knatte.Pillars.DisplayName,Pillars with Brace,-
 Knatte.Pillars.Description,Let it Rise,-
 
+Knatte.Pillar_1.DisplayName,1 Leg Pillar
+Knatte.Pillar_2.DisplayName,2 Leg Pillar
+Knatte.Pillar_3.DisplayName,3 Leg Pillar
+Knatte.Pillar_X.Description,Pillars to be able to get customized looks\r\nCan be combined with Staircase to hide them but get stackable.
+
+Knatte.PillarTop.DisplayName,Pillar Top
+Knatte.PillarTop.Description,Top part for Custom pillars or Decoration pieces\r\nCan be combined with Staircase to hide them but get stackable.
+
 Knatte.SlopeS.DisplayName,Decoration Stair,-
 Knatte.SlopeS.Description,Let the Dam be Stepped on.,-
 Knatte.SlopeS.FlavorDescription,Does not Block Water,-
@@ -88,3 +96,6 @@ Knatte.CategoryDam.Des,Does not Block Water,-
 
 Knatte.CategoryLevees.DisplayName,Levee and Dam Pieces,-
 Knatte.CategoryLevees.Des,Does Block Water,-
+
+Knatte.CategoryPillar.DisplayName,Pillars and Pilar Top,-
+Knatte.CategoryPillar.Des,Let it Rise,-
