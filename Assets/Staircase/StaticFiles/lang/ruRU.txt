@@ -1,0 +1,16 @@
+ID,Text,Comment
+KnatteTobbert.StaircaseRight.DisplayName,"Правая винтовая лестница",-
+KnatteTobbert.StaircaseRight.Description,"Винтовая лестница с правым направлением\r\n(по часовой стрелке).",-
+KnatteTobbert.StaircaseRight.FlavorDiscription,"По легенде, именно такое бревно для центральной опоры помогал нести на субботнике сам Дедушка Казко",-
+
+KnatteTobbert.StaircaseLeft.DisplayName,"Левая винтовая лестница",-
+KnatteTobbert.StaircaseLeft.Description,"Винтовая лестница с левым направлением\r\n(против часовой стрелке).",-
+KnatteTobbert.StaircaseLeft.FlavorDiscription,"По легенде, именно такое бревно для центральной опоры помогал нести на субботнике сам Дедушка Казко",-
+
+KnatteTobbert.MetalStaircase.DisplayName,"Металлическая лестница",-
+KnatteTobbert.MetalStaircase.Description,"Улучшенная лестница из металла.",-
+KnatteTobbert.MetalStaircase.FlavorDiscription,"Надеюсь она из нержавейки.",-
+
+KnatteTobbert.Staircases.DisplayName,"Лестницы",-
+
+KnatteTobbert.MetalStaircaseNeed.DisplaynameLocKey,"Металлическая лестница",-
